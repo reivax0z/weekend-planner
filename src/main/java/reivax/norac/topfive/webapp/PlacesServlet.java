@@ -17,7 +17,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class CountriesServlet
  */
-@WebServlet(name="/PlacesList", urlPatterns={"/PlacesListAction", "/Home"})
+//@WebServlet(name="/PlacesList", urlPatterns={"/PlacesListAction", "/Home"})
 public class PlacesServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
