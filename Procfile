@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar target/*.war
+java -jar target/dependency/jetty-runner.jar target/*.war
