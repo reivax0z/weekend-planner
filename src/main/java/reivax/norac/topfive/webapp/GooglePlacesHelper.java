@@ -92,7 +92,11 @@ public class GooglePlacesHelper {
 
 				toReturn.add(place);
 			}
-		} catch (IOException | ParserConfigurationException | SAXException e) {
+		} catch (IOException e) {
+			e.printStackTrace();
+		} catch (ParserConfigurationException e){
+			e.printStackTrace();
+		} catch (SAXException e){
 			e.printStackTrace();
 		}
 		return toReturn;
