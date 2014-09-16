@@ -189,7 +189,7 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
 	          for(int i=0; i<restoPlaces.size(); i++){
 	        	  Place p = restoPlaces.get(i);
 	          %>
-	            <a href="#map_places" onclick="bounce(0, <%=i%>);">
+	            <a href="#map_places" onclick="bounceAndCenter(0, <%=i%>);">
 	            <div id="resto_<%=i %>">
 	            <div class="col-6 col-sm-12 col-lg-4">
 	              <div class="shadow padding20">
@@ -210,7 +210,7 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
 	          for(int i=0; i<attractionPlaces.size(); i++){
 	        	  Place p = attractionPlaces.get(i);
 	          %>
-	           <a href="#map_places" onclick="bounce(1, <%=i%>);">
+	           <a href="#map_places" onclick="bounceAndCenter(1, <%=i%>);">
 	            <div id="attraction_<%=i %>">
 	            <div class="col-6 col-sm-12 col-lg-4">
 	              <div class="shadow padding20">
@@ -232,7 +232,7 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
 	          for(int i=0; i<pubPlaces.size(); i++){
 	        	  Place p = pubPlaces.get(i);
 	          %>
-	          <a href="#map_places" onclick="bounce(2, <%=i%>);">
+	          <a href="#map_places" onclick="bounceAndCenter(2, <%=i%>);">
 	            <div id="pub_<%=i %>">
 	            <div class="col-6 col-sm-12 col-lg-4">
 	              <div class="shadow padding20">

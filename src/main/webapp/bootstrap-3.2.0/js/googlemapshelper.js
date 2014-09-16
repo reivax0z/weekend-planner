@@ -100,3 +100,9 @@ function bounce(tabIndex, index) {
 	prevBouncingIndex = index;
 	prevBouncingTabIndex = tabIndex;
 }
+
+function bounceAndCenter(tabIndex, index) {
+	var marker = markers[tabIndex][index];
+	bounce(tabIndex, index);
+	map.setCenter(marker.getPosition());
+}
