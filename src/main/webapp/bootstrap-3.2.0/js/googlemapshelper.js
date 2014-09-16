@@ -71,7 +71,7 @@ function addLocationAndLink(pos, link, index, tabIndex){
 	var marker = new google.maps.Marker(options);
 	
 	google.maps.event.addListener(marker, 'click', function() {
-	  selectOnePlace(tabIndex, index);
+	  bounce(tabIndex, index);
 	  goToAnchor(tabIndex, index);
     });
 

@@ -81,7 +81,7 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
 			double lon = r.getLng();
 			String name = r.getName();%>
 			<script type="text/javascript">restoPos.push(new google.maps.LatLng(<%=lat%>, <%=lon%>));</script>
-			<script type="text/javascript">restoArray.push('<%=name%>');</script>
+			<script type="text/javascript">restoArray.push("<%=name%>");</script>
 		<%
 		}
 	}
@@ -92,7 +92,7 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
 			double lon = r.getLng();
 			String name = r.getName();%>
 			<script type="text/javascript">attractionPos.push(new google.maps.LatLng(<%=lat%>, <%=lon%>));</script>
-			<script type="text/javascript">attractionArray.push('<%=name%>');</script>
+			<script type="text/javascript">attractionArray.push("<%=name%>");</script>
 		<%
 		}
 	}
@@ -103,14 +103,14 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
 			double lon = r.getLng();
 			String name = r.getName();%>
 			<script type="text/javascript">pubPos.push(new google.maps.LatLng(<%=lat%>, <%=lon%>));</script>
-			<script type="text/javascript">pubArray.push('<%=name%>');</script>
+			<script type="text/javascript">pubArray.push("<%=name%>");</script>
 		<%
 		}
 	}
 	%>
 	
 </head>
-<body onload="initializeMapPlaces(restoPos, restoArray, 12, 0)">
+<body onload="initializeMapPlaces(restoPos, restoArray, 13, 0)">
 
 	<div class="container">
 
@@ -120,8 +120,12 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
             <h1 class="center">Where are we going this weekend?</h1>
             <form role="form" action="PlacesListAction" name="places_form" method="post" onsubmit="return(validateForm());" class="shadow padding20 margin20">
 			  <div class="input-group">
-			    <input type="text" name="city_name" class="form-control" id="city_name" placeholder="Input a city name, i.e.: Melbourne" value="">
-			 	<span class="input-group-btn"><button type="submit" class="btn btn-primary btn-lg"><span class="glyphicon glyphicon-search"></span></button></span>
+			    <input type="text" name="city_name" class="form-control" id="city_name" placeholder="Input a city name: i.e., Melbourne" value="">
+			 	<span class="input-group-btn">
+			 		<button type="submit" class="btn btn-primary">
+			 			<span class="glyphicon glyphicon-search"></span> Search
+		 			</button>
+	 			</span>
 			  </div>
              <br>
 			</form>
@@ -169,7 +173,7 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
      <!-- Restaurants -->
      <div class="margin20 row center">
           <div class="col-xs-12">
-       	  	<ul class="nav nav-pills">
+       	  	<ul class="nav nav-pills" style="display:inline-table">
 			  <li class="active"><a href="#restaurants" onclick="initializeMapPlaces(restoPos, restoArray, 12, 0);" role="tab" data-toggle="tab"><h1><span class="glyphicon glyphicon-cutlery"></span> Top Restaurants</h1></a></li>
 			  <li><a href="#attractions" onclick="initializeMapPlaces(attractionPos, attractionArray, 12, 1);" role="tab" data-toggle="tab"><h1><span class="glyphicon glyphicon-camera"></span> Top Attractions</h1></a></li>
 			  <li><a href="#pubs" onclick="initializeMapPlaces(pubPos, pubArray, 12, 2);" role="tab" data-toggle="tab"><h1><span class="glyphicon glyphicon-glass"></span> Top Pubs</h1></a></li>
@@ -182,7 +186,7 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
 
           <div class="tab-pane active" id="restaurants">
           <%
-	          for(int i=0; i<Math.min(10, restoPlaces.size()); i++){
+	          for(int i=0; i<restoPlaces.size(); i++){
 	        	  Place p = restoPlaces.get(i);
 	          %>
 	            <a href="#map_places" onclick="bounce(0, <%=i%>);">
@@ -203,7 +207,7 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
           
           <div class="tab-pane" id="attractions">
           <%
-	          for(int i=0; i<Math.min(10, attractionPlaces.size()); i++){
+	          for(int i=0; i<attractionPlaces.size(); i++){
 	        	  Place p = attractionPlaces.get(i);
 	          %>
 	           <a href="#map_places" onclick="bounce(1, <%=i%>);">
@@ -225,7 +229,7 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
           
           <div class="tab-pane" id="pubs">
           <%
-	          for(int i=0; i<Math.min(10, pubPlaces.size()); i++){
+	          for(int i=0; i<pubPlaces.size(); i++){
 	        	  Place p = pubPlaces.get(i);
 	          %>
 	          <a href="#map_places" onclick="bounce(2, <%=i%>);">
@@ -250,7 +254,15 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
         
      <%} %>
           
-     </div>
+       <hr>
+
+      <footer>
+        <p>Data and rankings based on <i>Google Places</i>. Design adapted from <i>Bootstrap</i>.</p>
+        <p class="pull-right"><a href="#">Back to top</a></p>
+        <p>© <a href="http://www.linkedin.com/in/xavierwilfriddimitrycaron" target="_blank"><b>Xavier CARON</b></a>, 2014</p>
+      </footer>
+
+    </div><!--/.container-->
 	
 </body>
 </html>
