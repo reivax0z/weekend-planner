@@ -1,11 +1,12 @@
 function validateForm()
 {
- 
-   if( document.places_form.city_name.value == "" )
+   var input = document.places_form.city_name.value;
+   if( input == "" )
    {
      showError();
      return false;
-   } else if(/^[A-Za-z]+/.test(document.places_form.city_name.value) == false){
+   } else if(/^[A-Za-z]+/.test(input) == false
+		   || checkString(input) == false){
 	   showError();
 	   return false;
    }
@@ -14,9 +15,17 @@ function validateForm()
 }
 function showError()
 {
-	document.getElementById('error_form').style.visibility = 'visible';
+	document.getElementById('error_form').style.display = 'block';
 }
 function hideError()
 {
-	document.getElementById('error_form').style.visibility = 'hidden';
+	document.getElementById('error_form').style.display = 'none';
+}
+function checkString(input) {
+    for (var i=0; i<input.length; i++) {
+        if (input.charCodeAt(i) > 127) {
+            return false;
+        }
+    }
+    return true;
 }

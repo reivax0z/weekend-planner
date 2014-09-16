@@ -1063,7 +1063,7 @@ a.list-group-item.active>.badge,.nav-pills>.active>a>.badge{color:#428bca;backgr
 .jumbotron>hr{border-top-color:#d5d5d5}
 /* .container .jumbotron{border-radius:6px} */
 .jumbotron .container{max-width:100%}
-@media screen and (min-width:768px){.jumbotron{padding-top:48px;padding-bottom:48px}
+@media screen and (min-width:768px){.jumbotron{padding-top:42px;padding-bottom:84px}
 .container .jumbotron{padding-right:60px;padding-left:60px}
 .jumbotron h1,.jumbotron .h1{font-size:63px}
 }

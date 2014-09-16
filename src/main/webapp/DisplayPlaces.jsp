@@ -117,7 +117,13 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
 	<div class="row">
         <div class="col-xs-12 col-sm-12">
           <div class="jumbotron shadow background-grey" style="background-color:#E7E7E7; background: url('http://xavier.w.caron.free.fr/website/resources/img/weekend-planner/cover_top_10.JPG') no-repeat center center; background-size: cover;">
-            <h1 class="center" style="color:white">Where are we going this weekend?</h1>
+            <% if(city != null) {
+            %>
+            <h1 style="color:white"><%=city %> it is!</h1>
+            <h2 style="color:white">Or maybe something else?</h2>
+            <%} else{%>
+            <h1 style="color:white">Where are we going this weekend?</h1>
+            <%} %>
             <form role="form" action="PlacesListAction" name="places_form" method="post" onsubmit="return(validateForm());" class="shadow padding20 margin20">
 			  <div class="input-group">
 			  	<span class="input-group-addon">Input a city name:</span>
@@ -129,8 +135,13 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
 	 			</span>
 			  </div>
 			</form>
-			
-			<% if(isInError) {
+          </div>
+        </div>
+    </div>
+    
+    <div class="row">
+    	<div class="col-xs-12">
+    	<% if(isInError) {
             %>
 			
 			<%if(errorType.equals(ErrorType.ERROR_NOCITY)){ %>
@@ -146,15 +157,11 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
     		
     		<%} else{%>
     		
-    		<div id="error_form" class="alert alert-warning" role="alert" style="visibility:hidden">
-      			<strong>Oh snap!</strong>  Invalid form format, change it a bit and try submitting again.
+    		<div id="error_form" class="alert alert-warning" role="alert" style="display:none">
+    		<p><strong>Oh snap!</strong>  Invalid form format, change it a bit and try submitting again.</p>
+      			<p>Make sure you are not using non UTF-8 characters (e.g.: &ccedil;, &eacute;, &agrave;, &icirc;...)</p>
     		</div>
-			
-            <% if(city != null) {
-            %>
-            <h1 class="center" style="color:white"><%=city %> it is!</h1>
-            <%} }%>
-          </div>
+    		<%} %>
         </div>
     </div>
     
