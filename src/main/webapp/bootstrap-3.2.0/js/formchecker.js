@@ -14,9 +14,9 @@ function validateForm()
 }
 function showError()
 {
-	document.getElementById('error_form').style.display = 'block';
+	document.getElementById('error_form').style.visibility = 'visible';
 }
 function hideError()
 {
-	document.getElementById('error_form').style.display = 'none';
+	document.getElementById('error_form').style.visibility = 'hidden';
 }

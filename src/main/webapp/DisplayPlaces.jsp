@@ -17,28 +17,28 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
 %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
 <head>
 <meta charset="ISO-8859-1">
 	<meta name="title" content="Weekend Planner - Top 10 Places">
-	<meta name="description" content="Weekend Planner - Top 10 Restaurants, Attractions and Pubs by City">
+	<meta name="description" content="Weekend Planner - A web app providing top 10 places for the preparation of weekend adventure (featuring a choice of restaurants, attractions and pubs)">
 	<meta name="keywords" content="Travel, weekend planner">
     <meta name="author" content="Xavier CARON">
 	
 	<meta property="og:title" content="Weekend Planner - Top 10 Places" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="xaviertraveltips.herokuapp.com" />
-	<meta property="og:description" content="Weekend Planner - Top 10 Restaurants, Attractions and Pubs by City" />
-	<meta property="og:image" content="http://xavier.w.caron.free.fr/website/resources/img/icon/globe.ico" />
+	<meta property="og:description" content="Weekend Planner - A web app providing top 10 places for the preparation of weekend adventure (featuring a choice of restaurants, attractions and pubs)" />
+	<meta property="og:image" content="http://xavier.w.caron.free.fr/website/resources/img/weekend-planner/cover_top_10.JPG" />
 	<meta property="og:image:type" content="image/jpeg" />
 	<meta property="og:image:width" content="150" />
 	<meta property="og:image:height" content="150" />
 	
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="Weekend Planner - Top 10 Places" />
-	<meta name="twitter:description" content="Weekend Planner - Top 10 Restaurants, Attractions and Pubs by City" />
+	<meta name="twitter:description" content="Weekend Planner - A web app providing top 10 places for the preparation of weekend adventure (featuring a choice of restaurants, attractions and pubs)" />
 	<meta name="twitter:creator" content="@Xavier_w_Caron" />
-	<meta name="twitter:image:src" content="http://xavier.w.caron.free.fr/website/resources/img/icon/globe.ico" />
+	<meta name="twitter:image:src" content="http://xavier.w.caron.free.fr/website/resources/img/weekend-planner/cover_top_10.JPG" />
 	<meta name="twitter:image:width" content="150" />
 	<meta name="twitter:image:height" content="150" />
 	
@@ -116,18 +116,18 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
 
 	<div class="row">
         <div class="col-xs-12 col-sm-12">
-          <div class="jumbotron shadow background-grey">
-            <h1 class="center">Where are we going this weekend?</h1>
+          <div class="jumbotron shadow background-grey" style="background-color:#E7E7E7; background: url('http://xavier.w.caron.free.fr/website/resources/img/weekend-planner/cover_top_10.JPG') no-repeat center center; background-size: cover;">
+            <h1 class="center" style="color:white">Where are we going this weekend?</h1>
             <form role="form" action="PlacesListAction" name="places_form" method="post" onsubmit="return(validateForm());" class="shadow padding20 margin20">
 			  <div class="input-group">
-			    <input type="text" name="city_name" class="form-control" id="city_name" placeholder="Input a city name: i.e., Melbourne" value="">
+			  	<span class="input-group-addon">Input a city name:</span>
+			    <input type="text" name="city_name" class="form-control" id="city_name" placeholder="i.e., Melbourne" value="">
 			 	<span class="input-group-btn">
 			 		<button type="submit" class="btn btn-primary">
 			 			<span class="glyphicon glyphicon-search"></span> Search
 		 			</button>
 	 			</span>
 			  </div>
-             <br>
 			</form>
 			
 			<% if(isInError) {
@@ -146,13 +146,13 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
     		
     		<%} else{%>
     		
-    		<div id="error_form" class="alert alert-warning" role="alert" style="display:none">
+    		<div id="error_form" class="alert alert-warning" role="alert" style="visibility:hidden">
       			<strong>Oh snap!</strong>  Invalid form format, change it a bit and try submitting again.
     		</div>
 			
             <% if(city != null) {
             %>
-            <h1 class="center"><%=city %> it is!</h1>
+            <h1 class="center" style="color:white"><%=city %> it is!</h1>
             <%} }%>
           </div>
         </div>
