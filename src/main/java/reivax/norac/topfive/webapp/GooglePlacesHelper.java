@@ -24,8 +24,10 @@ public class GooglePlacesHelper {
 
 	public static List<Place> getAllPlacesFromGoogle(PlaceType keyword, String city) throws ExceptionProcessing, ExceptionNoCity{
 		List<Place> toReturn = new ArrayList<Place>();
+		
+		String cityNoSpace = city.replaceAll(" ", "+");
 
-		String urlPlacesString = SEARCH_URL + keyword + IN + city + KEY;
+		String urlPlacesString = SEARCH_URL + keyword + IN + cityNoSpace + KEY;
 		System.out.println("Query= "+urlPlacesString);
 
 		try {

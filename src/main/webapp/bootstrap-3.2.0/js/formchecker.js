@@ -5,7 +5,7 @@ function validateForm()
    {
      showError();
      return false;
-   } else if(/^[A-Za-z]+$/.test(document.places_form.city_name.value) == false){
+   } else if(/^[A-Za-z]+/.test(document.places_form.city_name.value) == false){
 	   showError();
 	   return false;
    }
