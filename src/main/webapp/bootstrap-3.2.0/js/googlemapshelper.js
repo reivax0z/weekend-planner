@@ -5,57 +5,14 @@
 //Global variables
 var map;
 var prevSelectPlace = 0;
+var prevTabIndex = 0;
 
-function initializeMapPosition(position, zoomVal) {
-	// Init the map
-	var myOptions = {
-			zoom: zoomVal,
-			center: position,
-			mapTypeId: google.maps.MapTypeId.ROADMAP
-	};
+var tabs = ['resto_', 'attraction_', 'pub_'];
+var icons = ['http://maps.google.com/mapfiles/ms/icons/red-dot.png',
+             'http://maps.google.com/mapfiles/ms/icons/green-dot.png',
+             'http://maps.google.com/mapfiles/ms/icons/yellow-dot.png'];
 
-	map = new google.maps.Map(document.getElementById('map_position'), myOptions);
-	addLocation(position);
-}
-
-function initializeEditMapPosition(position, zoomVal) {
-	// Init the map
-	var myOptions = {
-			zoom: zoomVal,
-			center: position,
-			mapTypeId: google.maps.MapTypeId.ROADMAP
-	};
-
-	map = new google.maps.Map(document.getElementById('map_position'), myOptions);
-	addEditLocation(position);
-}
-
-function addEditLocation(position){
-	// Get coordinates
-	var options = {
-			position: position
-	};
-	var marker = new google.maps.Marker(options);
-	
-	google.maps.event.addListener(map, 'click', function(event) {
-      document.getElementById('latitude').value = event.latLng.lat();
-      document.getElementById('longitude').value = event.latLng.lng();
-      
-      var pos = new google.maps.LatLng(event.latLng.lat(), event.latLng.lng());
-      
-      options = {
-  			position: pos
-  	  };
-	  marker.setMap(null);
-  	  marker = new google.maps.Marker(options);
-  	  marker.setMap(map);
-    });
-
-	// Show marker on map
-	marker.setMap(map);
-}
-
-function initializeMapPlaces(positions, places, zoomVal) {
+function initializeMapPlaces(positions, places, zoomVal, tabIndex) {
 	var sumLat = 0;
 	var sumLong = 0;
 	for (var i = 0; i < positions.length; i++) {
@@ -77,25 +34,29 @@ function initializeMapPlaces(positions, places, zoomVal) {
 	
 	// delegate it with a parameter containing all the positions
 	for (var i = 0; i < positions.length; i++) {
-		addLocationAndLink(positions[i], places[i], i);
+		addLocationAndLink(positions[i], places[i], i, tabIndex);
 	}
 }
 
-function addLocationAndLink(pos, link, index){
+function addLocationAndLink(pos, link, index, tabIndex){
 	// Get coordinates
 	var options = {
 			position: pos,
-			title: link
+			title: link,
+			icon: icons[tabIndex]
 	};
 	var marker = new google.maps.Marker(options);
 	
 	google.maps.event.addListener(marker, 'click', function() {
-	  document.getElementById('resto_'+prevSelectPlace).className = "";
-      document.getElementById('resto_'+index).className = "selectedPlace";
+	  document.getElementById(tabs[prevTabIndex]+prevSelectPlace).className = "";
+      document.getElementById(tabs[tabIndex]+index).className = "selectedPlace";
+      
       var url = location.href;
-      location.href = "#"+'resto_'+index;
+      location.href = "#"+tabs[tabIndex]+index;
       history.replaceState(null,null,url);
+      
       prevSelectPlace = index;
+      prevTabIndex = tabIndex;
     });
 
 	// Show marker on map

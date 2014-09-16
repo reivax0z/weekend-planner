@@ -49,29 +49,46 @@ public class PlacesServlet extends HttpServlet {
 
 		if(cityName != null){
 
-			// Call Google Places
-			List<Place> restos = GooglePlacesHelper.getAllPlacesFromGoogle(PlaceType.RESTAURANT, cityName);
-			Collections.sort(restos, new ComparatorPlaces());
-			restos = restos.subList(0, 10);
+			try{
 			
-			List<Place> attractions = GooglePlacesHelper.getAllPlacesFromGoogle(PlaceType.ATTRACTION, cityName);
-			Collections.sort(attractions, new ComparatorPlaces());
-			attractions = attractions.subList(0, 10);
+				// Call Google Places
+				List<Place> restos = GooglePlacesHelper.getAllPlacesFromGoogle(PlaceType.RESTAURANT, cityName);
+				Collections.sort(restos, new ComparatorPlaces());
+				restos = restos.subList(0, 10);
+				
+				List<Place> attractions = GooglePlacesHelper.getAllPlacesFromGoogle(PlaceType.ATTRACTION, cityName);
+				Collections.sort(attractions, new ComparatorPlaces());
+				attractions = attractions.subList(0, 10);
+				
+				List<Place> pubs = GooglePlacesHelper.getAllPlacesFromGoogle(PlaceType.PUB, cityName);
+				Collections.sort(pubs, new ComparatorPlaces());
+				pubs = pubs.subList(0, 10);
+	
+				Map<PlaceType, List<Place>> placesByType = new HashMap<PlaceType, List<Place>>();
+				placesByType.put(PlaceType.RESTAURANT, restos);
+				placesByType.put(PlaceType.ATTRACTION, attractions);
+				placesByType.put(PlaceType.PUB, pubs);
+	
+				// Forward the info to the appropriate JSP
+				request.setAttribute("placesByType", placesByType);
+				
+			}catch(ExceptionNoCity e){
+				request.setAttribute("isInError", Boolean.TRUE);
+				request.setAttribute("errorType", ErrorType.ERROR_NOCITY);
+				request.setAttribute("city", cityName);
+				request.getRequestDispatcher("DisplayPlaces.jsp").forward(request, response);
+				return;
+			}catch(ExceptionProcessing e){
+				request.setAttribute("isInError", Boolean.TRUE);
+				request.setAttribute("errorType", ErrorType.ERROR_PROCESSING);
+				request.getRequestDispatcher("DisplayPlaces.jsp").forward(request, response);
+				return;
+			}
 			
-			List<Place> pubs = GooglePlacesHelper.getAllPlacesFromGoogle(PlaceType.PUB, cityName);
-			Collections.sort(pubs, new ComparatorPlaces());
-			pubs = pubs.subList(0, 10);
-
-			Map<PlaceType, List<Place>> placesByType = new HashMap<PlaceType, List<Place>>();
-			placesByType.put(PlaceType.RESTAURANT, restos);
-			placesByType.put(PlaceType.ATTRACTION, attractions);
-			placesByType.put(PlaceType.PUB, pubs);
-
-			// Forward the info to the appropriate JSP
-			request.setAttribute("placesByType", placesByType);
 			request.setAttribute("city", cityName);
 		}
 
+		request.setAttribute("isInError", Boolean.FALSE);
 		request.getRequestDispatcher("DisplayPlaces.jsp").forward(request, response);
 	}
 

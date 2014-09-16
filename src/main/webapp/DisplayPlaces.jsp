@@ -8,6 +8,8 @@
 <%
 // RETRIEVE THE MAIN OBJECT
 String city = (String) request.getAttribute("city");
+Boolean isInError = (Boolean) request.getAttribute("isInError");
+ErrorType errorType = (ErrorType) request.getAttribute("errorType");
 Map<PlaceType, List<Place>> placesByType = (Map<PlaceType, List<Place>>) request.getAttribute("placesByType");
 List<Place> restoPlaces = placesByType!=null?placesByType.get(PlaceType.RESTAURANT):null;
 List<Place> attractionPlaces = placesByType!=null?placesByType.get(PlaceType.ATTRACTION):null;
@@ -18,10 +20,33 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<meta name="title" content="Visit with Me - Travels">
-<meta name="description" content="Weekend Planner - Top 5 Destinations">
-<meta name="keywords" content="Xavier CARON, travel, weekend planner">
-<title>Weekend Planner - Top 5</title>
+	<meta name="title" content="Weekend Planner - Top 10 Places">
+	<meta name="description" content="Weekend Planner - Top 10 Restaurants, Attractions and Pubs by City">
+	<meta name="keywords" content="Travel, weekend planner">
+    <meta name="author" content="Xavier CARON">
+	
+	<meta property="og:title" content="Weekend Planner - Top 10 Places" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="xaviertraveltips.herokuapp.com" />
+	<meta property="og:description" content="Weekend Planner - Top 10 Restaurants, Attractions and Pubs by City" />
+	<meta property="og:image" content="http://xavier.w.caron.free.fr/website/resources/img/icon/globe.ico" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta property="og:image:width" content="150" />
+	<meta property="og:image:height" content="150" />
+	
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:title" content="Weekend Planner - Top 10 Places" />
+	<meta name="twitter:description" content="Weekend Planner - Top 10 Restaurants, Attractions and Pubs by City" />
+	<meta name="twitter:creator" content="@Xavier_w_Caron" />
+	<meta name="twitter:image:src" content="http://xavier.w.caron.free.fr/website/resources/img/icon/globe.ico" />
+	<meta name="twitter:image:width" content="150" />
+	<meta name="twitter:image:height" content="150" />
+	
+	
+    <link rel="shortcut icon" href="http://xavier.w.caron.free.fr/website/resources/img/icon/globe.ico">
+
+
+	<title>Weekend Planner - Top 10 Places</title>
 
 
 	<link href='http://fonts.googleapis.com/css?family=UnifrakturMaguntia' rel='stylesheet' type='text/css'>
@@ -32,8 +57,8 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script type="text/javascript" src="./bootstrap-3.2.0/dist/js/bootstrap.js"></script>    
     
-    <!-- Google Maps API -->
     <script type="text/javascript" src="./bootstrap-3.2.0/js/googlemapshelper.js"></script>
+    <script type="text/javascript" src="./bootstrap-3.2.0/js/formchecker.js"></script>
     
     <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
 
@@ -60,10 +85,32 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
 		<%
 		}
 	}
+	if(attractionPlaces != null){
+		for(int i=0; i<attractionPlaces.size(); i++){
+			Place r = attractionPlaces.get(i);
+			double lat = r.getLat();
+			double lon = r.getLng();
+			String name = r.getName();%>
+			<script type="text/javascript">attractionPos.push(new google.maps.LatLng(<%=lat%>, <%=lon%>));</script>
+			<script type="text/javascript">attractionArray.push('<%=name%>');</script>
+		<%
+		}
+	}
+	if(pubPlaces != null){
+		for(int i=0; i<pubPlaces.size(); i++){
+			Place r = pubPlaces.get(i);
+			double lat = r.getLat();
+			double lon = r.getLng();
+			String name = r.getName();%>
+			<script type="text/javascript">pubPos.push(new google.maps.LatLng(<%=lat%>, <%=lon%>));</script>
+			<script type="text/javascript">pubArray.push('<%=name%>');</script>
+		<%
+		}
+	}
 	%>
 	
 </head>
-<body onload="initializeMapPlaces(restoPos, restoArray, 12)">
+<body onload="initializeMapPlaces(restoPos, restoArray, 12, 0)">
 
 	<div class="container">
 
@@ -71,17 +118,38 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
         <div class="col-xs-12 col-sm-12">
           <div class="jumbotron shadow background-grey">
             <h1 class="center">Where are we going this weekend?</h1>
-            <form role="form" action="PlacesListAction" method="post" class="shadow padding20 margin20">
+            <form role="form" action="PlacesListAction" name="places_form" method="post" onsubmit="return(validateForm());" class="shadow padding20 margin20">
 			  <div class="input-group">
 			    <input type="text" name="city_name" class="form-control" id="city_name" placeholder="Input a city name, i.e.: Melbourne" value="">
 			 	<span class="input-group-btn"><button type="submit" class="btn btn-primary btn-lg"><span class="glyphicon glyphicon-search"></span></button></span>
 			  </div>
              <br>
 			</form>
+			
+			<% if(isInError) {
+            %>
+			
+			<%if(errorType.equals(ErrorType.ERROR_NOCITY)){ %>
+			<div id="error_nocity" class="alert alert-danger" role="alert">
+      			<strong>Oh snap!</strong> No city <%=city!=null?"'"+city+"' ":"" %>found...
+    		</div>
+    		<% }else if(errorType.equals(ErrorType.ERROR_PROCESSING)){%>
+    		
+    		<div id="error_processing" class="alert alert-danger" role="alert">
+      			<strong>Oh snap!</strong> Something went wrong, sorry about that. Try the service again.
+    		</div>
+    		<%} %>
+    		
+    		<%} else{%>
+    		
+    		<div id="error_form" class="alert alert-warning" role="alert" style="display:none">
+      			<strong>Oh snap!</strong>  Invalid form format, change it a bit and try submitting again.
+    		</div>
+			
             <% if(city != null) {
             %>
             <h1 class="center"><%=city %> it is!</h1>
-            <%} %>
+            <%} }%>
           </div>
         </div>
     </div>
@@ -102,9 +170,9 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
      <div class="margin20 row center">
           <div class="col-xs-12">
        	  	<ul class="nav nav-pills">
-			  <li class="active"><a href="#restaurants" role="tab" data-toggle="tab"><h1><span class="glyphicon glyphicon-cutlery"></span> Top Restaurants</h1></a></li>
-			  <li><a href="#attractions" role="tab" data-toggle="tab"><h1><span class="glyphicon glyphicon-camera"></span> Top Attractions</h1></a></li>
-			  <li><a href="#pubs" role="tab" data-toggle="tab"><h1><span class="glyphicon glyphicon-glass"></span> Top Pubs</h1></a></li>
+			  <li class="active"><a href="#restaurants" onclick="initializeMapPlaces(restoPos, restoArray, 12, 0);" role="tab" data-toggle="tab"><h1><span class="glyphicon glyphicon-cutlery"></span> Top Restaurants</h1></a></li>
+			  <li><a href="#attractions" onclick="initializeMapPlaces(attractionPos, attractionArray, 12, 1);" role="tab" data-toggle="tab"><h1><span class="glyphicon glyphicon-camera"></span> Top Attractions</h1></a></li>
+			  <li><a href="#pubs" onclick="initializeMapPlaces(pubPos, pubArray, 12, 2);" role="tab" data-toggle="tab"><h1><span class="glyphicon glyphicon-glass"></span> Top Pubs</h1></a></li>
 			</ul>
           </div>
       </div>

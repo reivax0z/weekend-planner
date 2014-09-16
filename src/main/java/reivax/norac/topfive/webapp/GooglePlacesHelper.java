@@ -22,7 +22,7 @@ public class GooglePlacesHelper {
 	private static final String	KEY = "&key=AIzaSyAJvQMqlkgEd8jEHDGs76e3jdEtllMkX-g";
 	private static final String IN = "+in+";
 
-	public static List<Place> getAllPlacesFromGoogle(PlaceType keyword, String city){
+	public static List<Place> getAllPlacesFromGoogle(PlaceType keyword, String city) throws ExceptionProcessing, ExceptionNoCity{
 		List<Place> toReturn = new ArrayList<Place>();
 
 		String urlPlacesString = SEARCH_URL + keyword + IN + city + KEY;
@@ -35,8 +35,8 @@ public class GooglePlacesHelper {
 			conn.setRequestProperty("Accept", "application/xml");
 
 			if (conn.getResponseCode() != 200) {
-				throw new RuntimeException("Failed : HTTP error code : "
-						+ conn.getResponseCode());
+				throw new ExceptionProcessing(/*"Failed : HTTP error code : "
+						+ conn.getResponseCode()*/);
 			}
 
 			//Get and parse
@@ -46,13 +46,12 @@ public class GooglePlacesHelper {
 			Document doc = dBuilder.parse(conn.getInputStream());
 			doc.getDocumentElement().normalize();
 			conn.disconnect();
-			System.out.println(doc);
-
 
 			Element status = (Element) doc.getElementsByTagName("status").item(0);
 
 			if(!status.getFirstChild().getNodeValue().equalsIgnoreCase("OK")){
-				throw new RuntimeException("No city matched for the request: '"+city+"'");
+//				throw new RuntimeException("No city matched for the request: '"+city+"'");
+				throw new ExceptionNoCity();
 			}
 
 			//Set
@@ -93,16 +92,16 @@ public class GooglePlacesHelper {
 				toReturn.add(place);
 			}
 		} catch (IOException e) {
-			e.printStackTrace();
+			throw new ExceptionProcessing();
 		} catch (ParserConfigurationException e){
-			e.printStackTrace();
+			throw new ExceptionProcessing();
 		} catch (SAXException e){
-			e.printStackTrace();
+			throw new ExceptionProcessing();
 		}
 		return toReturn;
 	}
 
-	public static void main(String[] args){
+	public static void main(String[] args) throws ExceptionProcessing, ExceptionNoCity{
 		getAllPlacesFromGoogle(PlaceType.RESTAURANT, "Melbourne");
 	}
 }
