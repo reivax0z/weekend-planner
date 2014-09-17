@@ -55,7 +55,6 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
     
     <!-- JQUERY -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<!--     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script> -->
     <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.js"></script>
     
     <!-- BOOTSTRAP -->
@@ -272,6 +271,7 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
 
       <footer>
         <p>Data and rankings based on <i>Google Places</i>. Design adapted from <i>Bootstrap</i>.</p>
+        <p>The provided input suggestions cover the 3,000 biggest cities in the world (data taken from <i>Mongabay</i>).</p>
         <p class="pull-right"><a href="#">Back to top</a></p>
         <p>© <a href="http://www.linkedin.com/in/xavierwilfriddimitrycaron" target="_blank"><b>Xavier CARON</b></a>, 2014</p>
       </footer>

@@ -1,3004 +1,3004 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cities>
-<city>TOKYO, Japan</city>
-<city>JAKARTA, Indonesia</city>
-<city>New York (NY), United States</city>
-<city>SEOUL, South Korea</city>
-<city>MANILA, Philippines</city>
-<city>Mumbai (Bombay), India</city>
-<city>Sao Paulo, Brazil</city>
-<city>MEXICO CITY, Mexico</city>
-<city>Delhi, India</city>
-<city>Osaka, Japan</city>
-<city>CAIRO, Egypt</city>
-<city>Kolkata (Calcutta), India</city>
-<city>Los Angeles (CA), United States</city>
-<city>Shanghai, China</city>
-<city>MOSCOW, Russia</city>
-<city>BEIJING (PEKING), China</city>
-<city>BUENOS AIRES, Argentina</city>
-<city>Guangzhou, China</city>
-<city>Shenzhen, China</city>
-<city>Istanbul, Turkey</city>
-<city>Rio de Janeiro, Brazil</city>
-<city>PARIS, France</city>
-<city>Karachi, Pakistan</city>
-<city>Nagoya, Japan</city>
-<city>Chicago (IL), United States</city>
-<city>Lagos, Nigeria</city>
-<city>LONDON, United Kingdom</city>
-<city>BANGKOK, Thailand</city>
-<city>KINSHASA, Dem Rep of Congo </city>
-<city>TEHRAN, Iran</city>
-<city>LIMA, Peru</city>
-<city>Dongguan, China</city>
-<city>BOGOTA, Colombia</city>
-<city>Chennai (Madras), India</city>
-<city>DHAKA, Bangladesh</city>
-<city>Essen, Germany</city>
-<city>Tianjin (Tientsin), China</city>
-<city>HONG KONG, China - Hong Kong</city>
-<city>Taipei, Taiwan (China ROC)</city>
-<city>Lahore, Pakistan</city>
-<city>Ho Chi Minh City (Saigon), Viet Nam</city>
-<city>Bangalore, India</city>
-<city>Hyderabad, India</city>
-<city>Johannesburg, South Africa</city>
-<city>BAGHDAD, Iraq</city>
-<city>Toronto, Canada</city>
-<city>SANTIAGO, Chile</city>
-<city>KUALA LUMPUR, Malaysia</city>
-<city>San Francisco (CA), United States</city>
-<city>Philadelphia (PA), United States</city>
-<city>Wuhan, China</city>
-<city>Miami (FL), United States</city>
-<city>Dallas (TX), United States</city>
-<city>MADRID, Spain</city>
-<city>Ahmedabad, India</city>
-<city>Boston (MA), United States</city>
-<city>Belo Horizonte, Brazil</city>
-<city>KHARTOUM, Sudan</city>
-<city>Saint Petersburg (Leningrad), Russia</city>
-<city>Shenyang, China</city>
-<city>Houston (TX), United States</city>
-<city>Pune, India</city>
-<city>RIYADH, Saudi Arabia</city>
-<city>SINGAPORE, Singapore</city>
-<city>WASHINGTON (DC), United States</city>
-<city>Yangon , Myanmar </city>
-<city>Milan (Milano), Italy</city>
-<city>Atlanta (GA), United States</city>
-<city>Chongqing, China</city>
-<city>Alexandria, Egypt</city>
-<city>Nanjing (Nanking) , China</city>
-<city>Guadalajara, Mexico</city>
-<city>Barcelona, Spain</city>
-<city>Chengdu, China</city>
-<city>Detroit (MI), United States</city>
-<city>ANKARA, Turkey</city>
-<city>Abidjan, Côte d'Ivoire</city>
-<city>ATHENS, Greece</city>
-<city>BERLIN, Germany</city>
-<city>Sydney, Australia</city>
-<city>Monterrey, Mexico</city>
-<city>Phoenix (AZ), United States</city>
-<city>Busan (Pusan), South Korea</city>
-<city>Recife, Brazil</city>
-<city>Bandung, Indonesia</city>
-<city>Porto Alegre, Brazil</city>
-<city>Melbourne, Australia</city>
-<city>LUANDA, Angola</city>
-<city>Hangzhou (Hangchow) , China</city>
-<city>ALGIERS, Algeria</city>
-<city>Ha Noi (HANOI), Viet Nam</city>
-<city>Montreal, Canada</city>
-<city>Xi'an (Sian) , China</city>
-<city>PYONGYANG, North Korea</city>
-<city>Qingdao (Tsingtao) , China</city>
-<city>Surat, India</city>
-<city>Fortaleza, Brazil</city>
-<city>Medellin, Colombia</city>
-<city>Durban, South Africa</city>
-<city>Kanpur, India</city>
-<city>ADDIS ABABA, Ethiopia</city>
-<city>NAIROBI, Kenya</city>
-<city>Jeddah (Jiddah), Saudi Arabia</city>
-<city>Naples (Napoli), Italy</city>
-<city>KABUL, Afghanistan</city>
-<city>Salvador, Brazil</city>
-<city>Harbin (Haerbin), China</city>
-<city>Kano, Nigeria</city>
-<city>Casablanca (Dar-el-Beida), Morocco</city>
-<city>CAPE TOWN, South Africa</city>
-<city>Curitiba, Brazil</city>
-<city>Surabaya, Indonesia</city>
-<city>San Diego (CA), United States</city>
-<city>Seattle (WA), United States</city>
-<city>ROME, Italy</city>
-<city>Dar es Salaam, Tanzania</city>
-<city>Taichung, China</city>
-<city>Jaipur, India</city>
-<city>CARACAS, Venezuela</city>
-<city>DAKAR, Senegal</city>
-<city>Kaohsiung, China</city>
-<city>Minneapolis (MN), United States</city>
-<city>Lucknow, India</city>
-<city>AMMAN, Jordan</city>
-<city>Tel Aviv-Yafo, Israel</city>
-<city>Guayaquil, Ecuador</city>
-<city>KYIV (KIEV), Ukraine</city>
-<city>Faisalabad (Lyallpur), Pakistan</city>
-<city>Mashhad, Iran</city>
-<city>Izmir, Turkey</city>
-<city>Rawalpindi, Pakistan</city>
-<city>TASHKENT, Uzbekistan</city>
-<city>Katowice, Poland</city>
-<city>Changchun, China</city>
-<city>Campinas, Brazil</city>
-<city>Daegu (Taegu), South Korea</city>
-<city>Changsha, China</city>
-<city>Nagpur, India</city>
-<city>San Juan, Philippines</city>
-<city>Aleppo, Syria</city>
-<city>LISBON, Portugal</city>
-<city>Frankfurt am Main, Germany</city>
-<city>Nanchang, China</city>
-<city>Birmingham[] , United Kingdom </city>
-<city>Tampa (FL), United States</city>
-<city>Medan, Indonesia</city>
-<city>Dalian, China</city>
-<city>TUNIS, Tunisia</city>
-<city>Shijiazhuang, China</city>
-<city>Manchester, United Kingdom</city>
-<city>PORT-AU-PRINCE, Haiti</city>
-<city>DAMASCUS, Syria</city>
-<city>Ji'nan, China</city>
-<city>Fukuoka, Japan</city>
-<city>SANTO DOMINGO, Dominican Republic</city>
-<city>HAVANA, Cuba</city>
-<city>Cali, Colombia</city>
-<city>Denver (CO), United States</city>
-<city>St. Louis (MO), United States</city>
-<city>Colombo, Brazil</city>
-<city>Dubai, United Arab Emirates</city>
-<city>Baltimore (MD), United States</city>
-<city>Sapporo, Japan</city>
-<city>Rotterdam, Netherlands</city>
-<city>Vancouver, Canada</city>
-<city>Preston, United Kingdom</city>
-<city>Patna, India</city>
-<city>SANA'A, Yemen</city>
-<city>WARSAW, Poland</city>
-<city>Bonn, Germany</city>
-<city>ACCRA, Ghana</city>
-<city>BUCHAREST, Romania</city>
-<city>Yokohama, Japan</city>
-<city>Kunming, China</city>
-<city>Guiyang, China</city>
-<city>Zibo, China</city>
-<city>Incheon, South Korea</city>
-<city>Zhengzhou, China</city>
-<city>Taiyuan, China</city>
-<city>Chaoyang (Guangdong), China</city>
-<city>BRASILIA, Brazil</city>
-<city>Zhongshan, China</city>
-<city>West Midlands, United Kingdom</city>
-<city>Giza, Egypt</city>
-<city>Quezon City, Philippines</city>
-<city>Nanhai, China</city>
-<city>Fuzhou (Fujian), China</city>
-<city>Lanzhou, China</city>
-<city>Xiamen, China</city>
-<city>Chittagong, Bangladesh</city>
-<city>Zaozhuang, China</city>
-<city>Jilin, China</city>
-<city>Linyi, China</city>
-<city>Wenzhou, China</city>
-<city>STOCKHOLM, Sweden</city>
-<city>Puebla de Zaragoza, Mexico</city>
-<city>Puning, China</city>
-<city>BAKU, Azerbaijan</city>
-<city>Ibadan, Nigeria</city>
-<city>Brisbane, Australia</city>
-<city>MINSK, Belarus</city>
-<city>Sikasso, Mali</city>
-<city>Nanchong, China</city>
-<city>Nanning, China</city>
-<city>Urumqi, China</city>
-<city>Yantai, China</city>
-<city>Fuyang (Zhejiang), China</city>
-<city>Tangshan, China</city>
-<city>Maracaibo, Venezuela</city>
-<city>Hamburg, Germany</city>
-<city>BUDAPEST, Hungary</city>
-<city>Shunde, China</city>
-<city>Manaus, Brazil</city>
-<city>Xuzhou, China</city>
-<city>Segou, Mali</city>
-<city>Baotou, China</city>
-<city>Hefei, China</city>
-<city>VIENNA, Austria</city>
-<city>Indore, India</city>
-<city>ASUNCION, Paraguay</city>
-<city>Tianmen, China</city>
-<city>BELGRADE, Serbia</city>
-<city>Suzhou (Anhui), China</city>
-<city>Suizhou, China</city>
-<city>Nanyang, China</city>
-<city>Nakuru, Kenya</city>
-<city>Koulikoro, Mali</city>
-<city>Ningbo, China</city>
-<city>Liuan, China</city>
-<city>Anshan, China</city>
-<city>Tengzhou, China</city>
-<city>Qiqihaer, China</city>
-<city>Pizhou, China</city>
-<city>Taian, China</city>
-<city>Datong, China</city>
-<city>Kobe, Japan</city>
-<city>Hama, Syria</city>
-<city>Esfahan, Iran</city>
-<city>TRIPOLI, Libya</city>
-<city>West Yorkshire, United Kingdom</city>
-<city>Vadodara, India</city>
-<city>Taizhou (Zhejiang), China</city>
-<city>Luoyang, China</city>
-<city>QUITO, Ecuador</city>
-<city>Jinjiang, China</city>
-<city>Mopti, Mali</city>
-<city>Perth, Australia</city>
-<city>Daejeon (Taejon), South Korea</city>
-<city>Kyoto, Japan</city>
-<city>Xiantao, China</city>
-<city>Tangerang, Indonesia</city>
-<city>Bhopal, India</city>
-<city>Coimbatore, India</city>
-<city>Kharkiv, Ukraine</city>
-<city>Gwangju (Kwangchu), South Korea</city>
-<city>Xinghua, China</city>
-<city>HARARE, Zimbabwe</city>
-<city>Fushun, China</city>
-<city>Shangqiu, China</city>
-<city>Belem, Brazil</city>
-<city>Wuxi, China</city>
-<city>Hechuan, China</city>
-<city>Wujin, China</city>
-<city>Guigang, China</city>
-<city>Jianyang (Sichuan), China</city>
-<city>Huhehaote, China</city>
-<city>Santa Cruz, Bolivia</city>
-<city>Semarang, Indonesia</city>
-<city>Ludhiana, India</city>
-<city>Novosibirsk, Russia</city>
-<city>Neijiang, China</city>
-<city>MAPUTO, Mozambique</city>
-<city>Nan'an, China</city>
-<city>Douala, Cameroon</city>
-<city>Weifang, China</city>
-<city>Daqing, China</city>
-<city>Kayes, Mali</city>
-<city>Tongzhou, China</city>
-<city>Tabriz, Iran</city>
-<city>Homs, Syria</city>
-<city>Rugao, China</city>
-<city>Guiping, China</city>
-<city>Huainan, China</city>
-<city>Kochi, India</city>
-<city>Suining, China</city>
-<city>Bozhou, China</city>
-<city>Zhanjiang, China</city>
-<city>Changde, China</city>
-<city>MONTEVIDEO, Uruguay</city>
-<city>Suzhou (Jiangsu), China</city>
-<city>Xintai, China</city>
-<city>Ekaterinoburg, Russia</city>
-<city>Juarez, Mexico</city>
-<city>Handan, China</city>
-<city>Visakhapatnam, India</city>
-<city>Kawasaki, Japan</city>
-<city>Jiangjin, China</city>
-<city>Pingdu, China</city>
-<city>Agra, India</city>
-<city>Jiangyin, China</city>
-<city>Tijuana, Mexico</city>
-<city>Liuyang, China</city>
-<city>Bursa, Turkey</city>
-<city>Al-Hasakeh, Syria</city>
-<city>Makkah, Saudi Arabia</city>
-<city>YAOUNDE, Cameroon</city>
-<city>Xuanwei, China</city>
-<city>Dengzhou, China</city>
-<city>Palembang, Indonesia</city>
-<city>Nizhny Novgorod, Russia</city>
-<city>León (de los Aldama), Mexico</city>
-<city>Guarulhos, Brazil</city>
-<city>Heze, China</city>
-<city>Auckland, New Zealand</city>
-<city>Omdurman, Sudan</city>
-<city>Shantou, China</city>
-<city>Leizhou, China</city>
-<city>Yongcheng, China</city>
-<city>Valencia, Venezuela</city>
-<city>Thane, India</city>
-<city>San Antonio (TX), United States</city>
-<city>Xinyang, China</city>
-<city>Luzhou, China</city>
-<city>Almaty, Kazakhstan</city>
-<city>Changshu, China</city>
-<city>Taixing, China</city>
-<city>PHNOM PENH, Cambodia</city>
-<city>Laiwu, China</city>
-<city>Xiaoshan, China</city>
-<city>Yiyang, China</city>
-<city>Goiânia, Brazil</city>
-<city>Liuzhou, China</city>
-<city>Gaozhou, China</city>
-<city>Fengcheng (Jiangxi), China</city>
-<city>Cixi, China</city>
-<city>Karaj, Iran</city>
-<city>MOGADISHU, Somalia</city>
-<city>Varanasi, India</city>
-<city>Córdoba, Argentina</city>
-<city>KAMPALA, Uganda</city>
-<city>Ruian, China</city>
-<city>Lianjiang, China</city>
-<city>Huaian, China</city>
-<city>Shiraz, Iran</city>
-<city>Multan, Pakistan</city>
-<city>Madurai, India</city>
-<city>München, Germany</city>
-<city>Kalyan, India</city>
-<city>Quanzhou, China</city>
-<city>Adana, Turkey</city>
-<city>Bazhong, China</city>
-<city>Fes, Morocco</city>
-<city>OUAGADOUGOU, Burkina Faso</city>
-<city>Haicheng, China</city>
-<city>Xishan, China</city>
-<city>Leiyang, China</city>
-<city>Caloocan, Philippines</city>
-<city>Kalookan (Caloocan), Philippines</city>
-<city>Jingzhou, China</city>
-<city>Saitama, Japan</city>
-<city>PRAGUE, Czech Republic</city>
-<city>Fuqing, China</city>
-<city>Kumasi, Ghana</city>
-<city>Meerut, India</city>
-<city>Hyderabad, Pakistan</city>
-<city>Lufeng, China</city>
-<city>Dongtai, China</city>
-<city>Yixing, China</city>
-<city>Mianyang, China</city>
-<city>Wenling, China</city>
-<city>Leqing, China</city>
-<city>OTTAWA, Canada</city>
-<city>Yushu, China</city>
-<city>Barranquilla, Colombia</city>
-<city>Hiroshima, Japan</city>
-<city>Chifeng, China</city>
-<city>Nashik, India</city>
-<city>Makasar (Ujung Pandang), Indonesia</city>
-<city>SOFIA, Bulgaria</city>
-<city>Rizhao, China</city>
-<city>Davao, Philippines</city>
-<city>Tianshui, China</city>
-<city>Huzhou, China</city>
-<city>Samara (Samarskaya oblast), Russia</city>
-<city>Omsk, Russia</city>
-<city>Gujranwala, Pakistan</city>
-<city>Adelaide, Australia</city>
-<city>Macheng, China</city>
-<city>Wuxian, China</city>
-<city>Bijie, China</city>
-<city>Yuzhou, China</city>
-<city>Leshan, China</city>
-<city>La Matanza, Argentina</city>
-<city>Rosario, Argentina</city>
-<city>Jabalpur, India</city>
-<city>Kazan, Russia</city>
-<city>Jimo, China</city>
-<city>Dingzhou, China</city>
-<city>Calgary, Canada</city>
-<city>YEREVAN, Armenia</city>
-<city>El-Jadida, Morocco</city>
-<city>Jamshedpur, India</city>
-<city>Zürich, Switzerland</city>
-<city>Zoucheng, China</city>
-<city>Pikine-Guediawaye, Senegal</city>
-<city>Anqiu, China</city>
-<city>Guang'an, China</city>
-<city>Chelyabinsk, Russia</city>
-<city>CONAKRY, Guinea</city>
-<city>Asansol, India</city>
-<city>Shouguang, China</city>
-<city>Changzhou, China</city>
-<city>Ulsan, South Korea</city>
-<city>Zhuji, China</city>
-<city>Toluca (de Lerdo), Mexico</city>
-<city>Marrakech, Morocco</city>
-<city>Dhanbad, India</city>
-<city>TBILISI, Georgia</city>
-<city>Hanchuan, China</city>
-<city>LUSAKA, Zambia</city>
-<city>Qidong, China</city>
-<city>Faridabad, India</city>
-<city>Zaoyang, China</city>
-<city>Zhucheng, China</city>
-<city>Rostov-na-Donu, Russia</city>
-<city>Jiangdu, China</city>
-<city>Xiangcheng, China</city>
-<city>Zigong, China</city>
-<city>Jining (Shandong), China</city>
-<city>Edmonton, Canada</city>
-<city>Allahabad, India</city>
-<city>Beiliu, China</city>
-<city>Dnipropetrovsk, Ukraine</city>
-<city>Gongzhuling, China</city>
-<city>Qinzhou, China</city>
-<city>Ufa, Russia</city>
-<city>Sendai, Japan</city>
-<city>Volgograd, Russia</city>
-<city>Ezhou, China</city>
-<city>GUATEMALA CITY, Guatemala</city>
-<city>Zhongxiang, China</city>
-<city>AMSTERDAM, Netherlands</city>
-<city>BRUSSELS, Belgium</city>
-<city>BAMAKO, Mali</city>
-<city>Ziyang, China</city>
-<city>ANTANANARIVO, Madagascar</city>
-<city>Mudanjiang, China</city>
-<city>Amritsar, India</city>
-<city>Vijayawada, India</city>
-<city>Haora (Howrah), India</city>
-<city>Donetsk (Donestskaya oblast), Ukraine</city>
-<city>Huazhou, China</city>
-<city>Fuzhou (Jiangxi), China</city>
-<city>Pimpri Chinchwad, India</city>
-<city>DUBLIN, Ireland</city>
-<city>Rajkot, India</city>
-<city>Sao Luis, Brazil</city>
-<city>Beni-Mellal, Morocco</city>
-<city>Lianyuan, China</city>
-<city>Liupanshui, China</city>
-<city>Kaduna, Nigeria</city>
-<city>Kitakyushu, Japan</city>
-<city>Qianjiang, China</city>
-<city>Perm, Russia</city>
-<city>Odessa, Ukraine</city>
-<city>Qom, Iran</city>
-<city>Yongchuan, China</city>
-<city>Peshawar, Pakistan</city>
-<city>Linzhou, China</city>
-<city>Benxi, China</city>
-<city>ULAANBAATAR, Mongolia</city>
-<city>Zhangqiu, China</city>
-<city>Yongzhou, China</city>
-<city>Sao Goncalo, Brazil</city>
-<city>Srinagar, India</city>
-<city>Ghaziabad, India</city>
-<city>Xinyi (Jiangsu), China</city>
-<city>Köln, Germany</city>
-<city>Zhangjiagang, China</city>
-<city>Wafangdian, China</city>
-<city>Xianyang, China</city>
-<city>Liaocheng, China</city>
-<city>Ahwaz, Iran</city>
-<city>Taishan, China</city>
-<city>Linhai, China</city>
-<city>Feicheng, China</city>
-<city>Suwon (Puwan), South Korea</city>
-<city>Wuwei, China</city>
-<city>Haimen, China</city>
-<city>San Luis Potosi, Mexico</city>
-<city>Liling, China</city>
-<city>Xinhui, China</city>
-<city>Gaziantep, Turkey</city>
-<city>Krasnoyarsk, Russia</city>
-<city>Chiba, Japan</city>
-<city>Voronezh, Russia</city>
-<city>Durg-Bhilai Nagar, India</city>
-<city>Ruzhou, China</city>
-<city>Maceió, Brazil</city>
-<city>Yichun (Jiangxi), China</city>
-<city>Al-Madinah, Saudi Arabia</city>
-<city>Yulin (Guangxi), China</city>
-<city>Seongnam, South Korea</city>
-<city>Yueyang, China</city>
-<city>Yiwu, China</city>
-<city>San Jose (CA), United States</city>
-<city>Jixi, China</city>
-<city>MANAGUA, Nicaragua</city>
-<city>Xinyi (Guangdong), China</city>
-<city>Safi, Morocco</city>
-<city>Guangyuan, China</city>
-<city>Soweto, South Africa</city>
-<city>Zhangjiakou, China</city>
-<city>Baoding, China</city>
-<city>Cartagena, Colombia</city>
-<city>Huludao, China</city>
-<city>Pingdingshan, China</city>
-<city>Torino, Italy</city>
-<city>Zengcheng, China</city>
-<city>Laiyang, China</city>
-<city>Qingzhou, China</city>
-<city>Aurangabad, India</city>
-<city>Lattakia, Syria</city>
-<city>Merida, Mexico</city>
-<city>Laizhou, China</city>
-<city>Thiruvananthapuram, India</city>
-<city>Weinan, China</city>
-<city>Wuchang, China</city>
-<city>Guangshui, China</city>
-<city>Gaizhou, China</city>
-<city>Göteborg, Sweden</city>
-<city>Xiaogan, China</city>
-<city>Torreón, Mexico</city>
-<city>Jiaxing, China</city>
-<city>Kozhikode, India</city>
-<city>Sale, Morocco</city>
-<city>Zhuzhou, China</city>
-<city>Tyneside, United Kingdom</city>
-<city>Hengyang, China</city>
-<city>Dehui, China</city>
-<city>Honghu, China</city>
-<city>Danyang, China</city>
-<city>Daye, China</city>
-<city>Solapur, India</city>
-<city>Xingning, China</city>
-<city>Xiangfan, China</city>
-<city>Shubra-El-Khema, Egypt</city>
-<city>Luoding, China</city>
-<city>Gwalior, India</city>
-<city>Ranchi, India</city>
-<city>Huiyang, China</city>
-<city>Mombasa, Kenya</city>
-<city>Jinzhou (Liaoning), China</city>
-<city>Jiangyan, China</city>
-<city>Chenghai, China</city>
-<city>Jiamusi, China</city>
-<city>Songzi, China</city>
-<city>TEGUCIGALPA, Honduras</city>
-<city>Wujiang, China</city>
-<city>Jodhpur, India</city>
-<city>Duque de Caxias, Brazil</city>
-<city>Xi'ning, China</city>
-<city>Yuyao, China</city>
-<city>Hezhou, China</city>
-<city>Jiangyou, China</city>
-<city>Tiruchchirappalli, India</city>
-<city>Baoshan, China</city>
-<city>Saratov, Russia</city>
-<city>Nova Iguacu, Brazil</city>
-<city>Ankang, China</city>
-<city>Gaomi, China</city>
-<city>Yangchun, China</city>
-<city>Santiago de los Caballeros, Dominican Republic</city>
-<city>Danzhou, China</city>
-<city>LA PAZ, Bolivia</city>
-<city>Zhuanghe, China</city>
-<city>Zhuhai, China</city>
-<city>Zhaodong, China</city>
-<city>Sakai, Japan</city>
-<city>Haikou, China</city>
-<city>Jiaonan, China</city>
-<city>El Alto, Bolivia</city>
-<city>Xuancheng, China</city>
-<city>Wuchuan, China</city>
-<city>Yuhang, China</city>
-<city>Qinhuangdao, China</city>
-<city>Bogor, Indonesia</city>
-<city>Kermanshah, Iran</city>
-<city>Longhai, China</city>
-<city>Liverpool, United Kingdom</city>
-<city>Yanshi, China</city>
-<city>Guwahati, India</city>
-<city>Yichun (Heilongjiang), China</city>
-<city>Konya, Turkey</city>
-<city>Barquisimeto, Venezuela</city>
-<city>Yingde, China</city>
-<city>Bengbu, China</city>
-<city>Yibin, China</city>
-<city>Chandigarh, India</city>
-<city>Xiangxiang, China</city>
-<city>Yinchuan, China</city>
-<city>Valencia, Spain</city>
-<city>Guilin, China</city>
-<city>Hamamatsu, Japan</city>
-<city>Sao Bernardo do Campo, Brazil</city>
-<city>Deir El-Zor, Syria</city>
-<city>BISHKEK, Kyrgyzstan</city>
-<city>Teresina, Brazil</city>
-<city>Suihua, China</city>
-<city>BENGHAZI, Libya</city>
-<city>Jiutai, China</city>
-<city>Meishan, China</city>
-<city>Zaporizhya, Ukraine</city>
-<city>Gaoyou, China</city>
-<city>Marseille, France</city>
-<city>Kaifeng, China</city>
-<city>Changning, China</city>
-<city>Tongliao, China</city>
-<city>Natal, Brazil</city>
-<city>Bandar Lampung, Indonesia</city>
-<city>Dongying, China</city>
-<city>Gaoan, China</city>
-<city>Langzhong, China</city>
-<city>Lichuan, China</city>
-<city>Hubli-Dharwad, India</city>
-<city>Mysore, India</city>
-<city>Niigata, Japan</city>
-<city>Indianapolis (IN), United States</city>
-<city>Jiaozhou, China</city>
-<city>Pingxiang (Jiangxi), China</city>
-<city>Haiphong, Viet Nam</city>
-<city>Arequipa, Peru</city>
-<city>Jacksonville (FL), United States</city>
-<city>Tanger, Morocco</city>
-<city>Dandong, China</city>
-<city>KISHINEV, Moldova</city>
-<city>Krasnodar, Russia</city>
-<city>ZAGREB, Croatia</city>
-<city>Xinmi, China</city>
-<city>Chaohu, China</city>
-<city>Xinyu, China</city>
-<city>Gongyi, China</city>
-<city>Huixian, China</city>
-<city>Xinxiang, China</city>
-<city>Port Elizabeth, South Africa</city>
-<city>Mendoza, Argentina</city>
-<city>Nantong, China</city>
-<city>Pengzhou, China</city>
-<city>Khulna, Bangladesh</city>
-<city>Malang, Indonesia</city>
-<city>Padang, Indonesia</city>
-<city>Anyang, China</city>
-<city>Renqiu, China</city>
-<city>Foshan, China</city>
-<city>Anshun, China</city>
-<city>Chihuahua, Mexico</city>
-<city>Campo Grande, Brazil</city>
-<city>Lódz, Poland</city>
-<city>Goyang, South Korea</city>
-<city>Benin City, Nigeria</city>
-<city>Bucheon (Puchon), South Korea</city>
-<city>Gaocheng, China</city>
-<city>Pulandian, China</city>
-<city>Hejian, China</city>
-<city>Dafeng, China</city>
-<city>Kraków, Poland</city>
-<city>Enshi, China</city>
-<city>Dongyang, China</city>
-<city>Lviv, Ukraine</city>
-<city>Kunshan, China</city>
-<city>Shuangcheng, China</city>
-<city>Salem, India</city>
-<city>Jiaozuo, China</city>
-<city>Ad-Dammam, Saudi Arabia</city>
-<city>Huaibei, China</city>
-<city>Liyang, China</city>
-<city>Samut Prakan, Thailand</city>
-<city>Rongcheng, China</city>
-<city>Cenxi, China</city>
-<city>Nampho, North Korea</city>
-<city>Columbus (OH), United States</city>
-<city>Bareilly, India</city>
-<city>Leping, China</city>
-<city>Laixi, China</city>
-<city>Liaoyang, China</city>
-<city>Zhaotong, China</city>
-<city>JERUSALEM, Israel</city>
-<city>Tainan, China</city>
-<city>Cuernavaca, Mexico</city>
-<city>RIGA, Latvia</city>
-<city>Linfen, China</city>
-<city>Quebec, Canada</city>
-<city>Lingbao, China</city>
-<city>Shangyu, China</city>
-<city>Wuan, China</city>
-<city>Hailun, China</city>
-<city>Xingyi, China</city>
-<city>Wuxue, China</city>
-<city>Cebu, Philippines</city>
-<city>Aguascalientes, Mexico</city>
-<city>Tolyatti, Russia</city>
-<city>Hamilton, Canada</city>
-<city>Zhoushan, China</city>
-<city>Langfang, China</city>
-<city>Osasco, Brazil</city>
-<city>Nonthaburi, Thailand</city>
-<city>Dashiqiao, China</city>
-<city>Tongxiang, China</city>
-<city>Yichang, China</city>
-<city>Yangzhou, China</city>
-<city>Blantyre City, Malawi</city>
-<city>Hamhung, North Korea</city>
-<city>Jalandhar, India</city>
-<city>Al-Rakka, Syria</city>
-<city>NIAMEY, Niger</city>
-<city>Xiangtan, China</city>
-<city>Winnipeg, Canada</city>
-<city>Oran (Wahran), Algeria</city>
-<city>Kota, India</city>
-<city>Sevilla, Spain</city>
-<city>Navi Mumbai (New Bombay), India</city>
-<city>Port Harcourt, Nigeria</city>
-<city>Saltillo, Mexico</city>
-<city>Khartoum North, Sudan</city>
-<city>Shizuoka, Japan</city>
-<city>Yuanjiang, China</city>
-<city>Raipur, India</city>
-<city>Kryviy Rig, Ukraine</city>
-<city>Yingkou, China</city>
-<city>Wuhu, China</city>
-<city>Zhenjiang, China</city>
-<city>Queretaro, Mexico</city>
-<city>Nankang, China</city>
-<city>Wugang (Hunan), China</city>
-<city>Hegang, China</city>
-<city>Linqing, China</city>
-<city>PRETORIA, South Africa</city>
-<city>Zunyi, China</city>
-<city>Panzhihua, China</city>
-<city>Austin (TX), United States</city>
-<city>Changle, China</city>
-<city>Lianyungang, China</city>
-<city>Yancheng, China</city>
-<city>Zunhua, China</city>
-<city>Changyi, China</city>
-<city>Meknes, Morocco</city>
-<city>Qiongshan, China</city>
-<city>Bulawayo, Zimbabwe</city>
-<city>Wendeng, China</city>
-<city>Okayama, Japan</city>
-<city>Santo Andre, Brazil</city>
-<city>RABAT, Morocco</city>
-<city>Pakanbaru, Indonesia</city>
-<city>Nehe, China</city>
-<city>Memphis (TN), United States</city>
-<city>Joao Pessoa, Brazil</city>
-<city>KATHMANDU, Nepal</city>
-<city>Longkou, China</city>
-<city>Shengzhou, China</city>
-<city>Antalya, Turkey</city>
-<city>Kumamoto, Japan</city>
-<city>LILONGWE, Malawi</city>
-<city>Mexicali, Mexico</city>
-<city>Kaiping, China</city>
-<city>Palermo, Italy</city>
-<city>Aligarh, India</city>
-<city>Nottingham, United Kingdom</city>
-<city>Haining, China</city>
-<city>Mosul, Iraq</city>
-<city>Hermosillo, Mexico</city>
-<city>Tongcheng, China</city>
-<city>Shulan, China</city>
-<city>Miluo, China</city>
-<city>Bhubaneswar, India</city>
-<city>Yangquan, China</city>
-<city>Chenzhou, China</city>
-<city>Haiyang, China</city>
-<city>Morelia, Mexico</city>
-<city>Huangshi (Hubei), China</city>
-<city>Xinmin, China</city>
-<city>Tetouan, Morocco</city>
-<city>Barnaul, Russia</city>
-<city>Qixia, China</city>
-<city>Jaboatao dos Guarapes, Brazil</city>
-<city>Chongzhou, China</city>
-<city>Cotonou, Benin</city>
-<city>Yingcheng, China</city>
-<city>Zaragoza, Spain</city>
-<city>Changzhi, China</city>
-<city>Qujing, China</city>
-<city>Linghai, China</city>
-<city>Changge, China</city>
-<city>Trujillo, Peru</city>
-<city>Tampico, Mexico</city>
-<city>Maoming, China</city>
-<city>Morón, Argentina</city>
-<city>La Plata, Argentina</city>
-<city>Ciudad Guayana, Venezuela</city>
-<city>Moradabad, India</city>
-<city>Jieshou, China</city>
-<city>Sheffield, United Kingdom</city>
-<city>Donggang, China</city>
-<city>Jingjiang, China</city>
-<city>Acheng, China</city>
-<city>Acapulco (de Juarez), Mexico</city>
-<city>Veracruz, Mexico</city>
-<city>Ulyanovsk, Russia</city>
-<city>Wroclaw, Poland</city>
-<city>Jieyang, China</city>
-<city>Shaoxing, China</city>
-<city>Qian'an, China</city>
-<city>Nanchuan, China</city>
-<city>Qionglai, China</city>
-<city>Deyang, China</city>
-<city>Sagamihara, Japan</city>
-<city>Fuyang (Anhui), China</city>
-<city>Fuxin, China</city>
-<city>Jiyuan, China</city>
-<city>Puente Alto, Chile</city>
-<city>Qufu, China</city>
-<city>Gaoyao, China</city>
-<city>Gorakhpur, India</city>
-<city>Fort Worth (TX), United States</city>
-<city>Xinji, China</city>
-<city>San Miguel de Tucuman, Argentina</city>
-<city>Dujiangyan, China</city>
-<city>The Hague, Netherlands</city>
-<city>Bhiwandi, India</city>
-<city>Culiacan Rosales, Mexico</city>
-<city>Lingyuan, China</city>
-<city>Xingyang, China</city>
-<city>Maiduguri, Nigeria</city>
-<city>Genova, Italy</city>
-<city>Meihekou, China</city>
-<city>Izhevsk, Russia</city>
-<city>Jeonju (Chonchu), South Korea</city>
-<city>Leling, China</city>
-<city>Xichang, China</city>
-<city>COLOMBO, Sri Lanka</city>
-<city>Zaria, Nigeria</city>
-<city>Anlu, China</city>
-<city>Sao Jose dos Campos, Brazil</city>
-<city>Charlotte (NC), United States</city>
-<city>Yizheng, China</city>
-<city>Malmö, Sweden</city>
-<city>Weihai, China</city>
-<city>Xinzheng, China</city>
-<city>Dengfeng, China</city>
-<city>Vladivostok, Russia</city>
-<city>Shaoyang, China</city>
-<city>Taizhou (Jiangsu), China</city>
-<city>Jammu, India</city>
-<city>Lanxi, China</city>
-<city>Yuncheng, China</city>
-<city>Kagoshima, Japan</city>
-<city>Yaroslave, Russia</city>
-<city>Contagem, Brazil</city>
-<city>Shishou, China</city>
-<city>Panjin, China</city>
-<city>Zamboanga, Philippines</city>
-<city>Orumiyeh, Iran</city>
-<city>Binzhou, China</city>
-<city>Kisumu, Kenya</city>
-<city>Baoji, China</city>
-<city>Uberlândia, Brazil</city>
-<city>El Paso (TX), United States</city>
-<city>Yunzhou, China</city>
-<city>Kenitra, Morocco</city>
-<city>Diyarbakir, Turkey</city>
-<city>Jurong, China</city>
-<city>Cúcuta, Colombia</city>
-<city>Zhaoyuan, China</city>
-<city>Huizhou, China</city>
-<city>Tianchang, China</city>
-<city>Dortmund, Germany</city>
-<city>Shihezi, China</city>
-<city>Shiyan, China</city>
-<city>Cuttack, India</city>
-<city>Cochabamba, Bolivia</city>
-<city>Cheongju, South Korea</city>
-<city>Jingmen, China</city>
-<city>Shangzhi, China</city>
-<city>Anqing, China</city>
-<city>Chongjin, North Korea</city>
-<city>Stuttgart, Germany</city>
-<city>Rushan, China</city>
-<city>KINGSTON, Jamaica</city>
-<city>Milwaukee (WI), United States</city>
-<city>Sorocaba, Brazil</city>
-<city>Glasgow, United Kingdom</city>
-<city>Khabarovsk, Russia</city>
-<city>Guanghan, China</city>
-<city>Warangal, India</city>
-<city>Irkutsk, Russia</city>
-<city>Tyumen, Russia</city>
-<city>Lomas de Zamora, Argentina</city>
-<city>Beipiao, China</city>
-<city>Funabashi, Japan</city>
-<city>Mingguang, China</city>
-<city>Düsseldorf, Germany</city>
-<city>Shenzhou, China</city>
-<city>Icel, Turkey</city>
-<city>Zhangzhou, China</city>
-<city>Xianning, China</city>
-<city>Maanshan, China</city>
-<city>Bandjarmasin, Indonesia</city>
-<city>Callao, Peru</city>
-<city>Poznan, Poland</city>
-<city>Kayseri, Turkey</city>
-<city>Chon Buri, Thailand</city>
-<city>Quetta, Pakistan</city>
-<city>Shuozhou, China</city>
-<city>Samarinda, Indonesia</city>
-<city>HELSINKI, Finland</city>
-<city>Akesu, China</city>
-<city>Novokuznetsk, Russia</city>
-<city>Malaga, Spain</city>
-<city>Fengcheng (Liaoning), China</city>
-<city>Hachioji, Japan</city>
-<city>Ribeirao Prêto, Brazil</city>
-<city>Beihai, China</city>
-<city>Jamnagar, India</city>
-<city>NOUAKCHOTT, Mauritania</city>
-<city>Bazhou, China</city>
-<city>Yongkang, China</city>
-<city>Louisville (KY), United States</city>
-<city>Chizhou, China</city>
-<city>Huaiyin, China</city>
-<city>Fuan, China</city>
-<city>Bhilai Nagar, India</city>
-<city>Dezhou, China</city>
-<city>Makhachkala, Russia</city>
-<city>Xingping, China</city>
-<city>Jiujiang, China</city>
-<city>Bristol, United Kingdom</city>
-<city>Botou, China</city>
-<city>Fengnan, China</city>
-<city>ASTANA, Kazakhstan</city>
-<city>Yizhou, China</city>
-<city>Amravati, India</city>
-<city>Nashville-Davidson (TN), United States</city>
-<city>Batam, Indonesia</city>
-<city>Orenburg, Russia</city>
-<city>Zhuozhou, China</city>
-<city>Las Vegas (NV), United States</city>
-<city>Cancun, Mexico</city>
-<city>Longyan, China</city>
-<city>OSLO, Norway</city>
-<city>Cuiaba, Brazil</city>
-<city>Tiruppur, India</city>
-<city>VILNIUS, Lithuania</city>
-<city>Bremen, Germany</city>
-<city>Gold Coast, Australia</city>
-<city>Gaobeidian, China</city>
-<city>Mangalore, India</city>
-<city>Songyuan, China</city>
-<city>Yangjiang, China</city>
-<city>Wanyuan, China</city>
-<city>Jiangmen, China</city>
-<city>Xingtai, China</city>
-<city>Shaoguan, China</city>
-<city>Feira de Santana, Brazil</city>
-<city>Guixi, China</city>
-<city>Ruijin, China</city>
-<city>Zahedan, Iran</city>
-<city>Jinzhong, China</city>
-<city>Portland (OR), United States</city>
-<city>Jintan, China</city>
-<city>Reynosa, Mexico</city>
-<city>Ilorin, Nigeria</city>
-<city>Oklahoma City (OK), United States</city>
-<city>Nakhon Ratchasima, Thailand</city>
-<city>N'DJAMENA, Chad</city>
-<city>Shangzhou, China</city>
-<city>Panshi, China</city>
-<city>Kerman, Iran</city>
-<city>Kaiyuan (Liaoning), China</city>
-<city>ISLAMABAD, Pakistan</city>
-<city>SARAJEVO, Bosnia and Herzegovina</city>
-<city>Bikaner, India</city>
-<city>DUSHANBE, Tajikistan</city>
-<city>VIENTIANE, Laos</city>
-<city>Dehradun, India</city>
-<city>Zhangshu, China</city>
-<city>Beining, China</city>
-<city>ABU DHABI, United Arab Emirates</city>
-<city>Shimkent, Kazakhstan</city>
-<city>Xingcheng, China</city>
-<city>Imbaba, Egypt</city>
-<city>Yicheng, China</city>
-<city>SKOPLJE, Macedonia</city>
-<city>Kadhimain, Iraq</city>
-<city>At-Ta'if, Saudi Arabia</city>
-<city>Dali, China</city>
-<city>Fuding, China</city>
-<city>Jinzhou (Hebei), China</city>
-<city>Renhuai, China</city>
-<city>Mira-Bhayandar, India</city>
-<city>Kemerovo, Russia</city>
-<city>Duisburg, Germany</city>
-<city>Rasht, Iran</city>
-<city>San Pedro Sula, Honduras</city>
-<city>Bucaramanga, Colombia</city>
-<city>Bhavnagar, India</city>
-<city>Conghua, China</city>
-<city>Changwon, South Korea</city>
-<city>Mianzhu, China</city>
-<city>Pohang, South Korea</city>
-<city>Tucson (AZ), United States</city>
-<city>Taicang, China</city>
-<city>Matsuyama, Japan</city>
-<city>Hannover, Germany</city>
-<city>Guntur, India</city>
-<city>Lin'an, China</city>
-<city>Higashiosaka, Japan</city>
-<city>Wanning, China</city>
-<city>Mar del Plata, Argentina</city>
-<city>Ryazan, Russia</city>
-<city>Quilmes, Argentina</city>
-<city>Tomsk, Russia</city>
-<city>Linhe, China</city>
-<city>Chibi, China</city>
-<city>Jos, Nigeria</city>
-<city>Penza, Russia</city>
-<city>Laohekou, China</city>
-<city>Wenchang, China</city>
-<city>Juiz de Fora, Brazil</city>
-<city>Zhijiang, China</city>
-<city>Newcastle, Australia</city>
-<city>Pinghu, China</city>
-<city>Zhaoqing, China</city>
-<city>Naberezhnye Tchelny, Russia</city>
-<city>Qingyuan, China</city>
-<city>Tula, Russia</city>
-<city>Belgaum, India</city>
-<city>Pondicherry, India</city>
-<city>Aracaju, Brazil</city>
-<city>Pasig, Philippines</city>
-<city>Mykolayiv (Nikolaevskaya oblast), Ukraine</city>
-<city>Ibague, Colombia</city>
-<city>Hanzhong, China</city>
-<city>Tlaxcala, Mexico</city>
-<city>Chuxiong, China</city>
-<city>Denpasar, Indonesia</city>
-<city>Lipetsk, Russia</city>
-<city>Dengta, China</city>
-<city>Tuxtla Gutierrez, Mexico</city>
-<city>Songkhla, Thailand</city>
-<city>Mariupol, Ukraine</city>
-<city>Danjiangkou, China</city>
-<city>Chiclayo, Peru</city>
-<city>COPENHAGEN, Denmark</city>
-<city>Penglai, China</city>
-<city>Oaxaca de Juarez, Mexico</city>
-<city>Aba, Nigeria</city>
-<city>Astrakhan, Russia</city>
-<city>MACAO, China : Macao SAR</city>
-<city>Eskisehir, Turkey</city>
-<city>Shishi, China</city>
-<city>Kannur, India</city>
-<city>Ananindeua, Brazil</city>
-<city>Bokaro Steel City, India</city>
-<city>SAN SALVADOR, El Salvador</city>
-<city>Kolhapur, India</city>
-<city>Xinzhou, China</city>
-<city>Joinville, Brazil</city>
-<city>Dangyang, China</city>
-<city>Londrina, Brazil</city>
-<city>Hebi, China</city>
-<city>Ganzhou, China</city>
-<city>Hamadan, Iran</city>
-<city>Yucheng, China</city>
-<city>Albuquerque (NM), United States</city>
-<city>Agadir, Morocco</city>
-<city>Chuzhou, China</city>
-<city>Geneve, Switzerland</city>
-<city>Durgapur, India</city>
-<city>Siping, China</city>
-<city>Surakarta, Indonesia</city>
-<city>Gomel, Belarus</city>
-<city>Ajmer, India</city>
-<city>Leipzig, Germany</city>
-<city>Kirov, Russia</city>
-<city>Belford Roxo, Brazil</city>
-<city>Nanping, China</city>
-<city>Luhansk, Ukraine</city>
-<city>Al-Sharjah, United Arab Emirates</city>
-<city>Shuangyashan, China</city>
-<city>Qitaihe, China</city>
-<city>Zhangye, China</city>
-<city>Nürnberg, Germany</city>
-<city>Bâle, Switzerland</city>
-<city>Oujda, Morocco</city>
-<city>Erbil, Iraq</city>
-<city>Valenzuela, Philippines</city>
-<city>Hongjiang, China</city>
-<city>Baicheng, China</city>
-<city>Raurkela, India</city>
-<city>PANAMA CITY, Panama</city>
-<city>Barcelona-Puerto La Cruz, Venezuela</city>
-<city>Huanghua, China</city>
-<city>Pontianak, Indonesia</city>
-<city>Himeji, Japan</city>
-<city>Sanya, China</city>
-<city>Orizaba, Mexico</city>
-<city>Dunhua, China</city>
-<city>Kawaguchi, Japan</city>
-<city>Durango (Victoria de Durango), Mexico</city>
-<city>Jian'ou, China</city>
-<city>Tombouctou, Mali</city>
-<city>Niterói, Brazil</city>
-<city>Dresden, Germany</city>
-<city>Arak, Iran</city>
-<city>Soledad, Colombia</city>
-<city>Chaoyang (Liaoning), China</city>
-<city>Shahe, China</city>
-<city>Jiaohe, China</city>
-<city>Long Beach (CA), United States</city>
-<city>Jiangshan, China</city>
-<city>Jian (Jiangxi), China</city>
-<city>Anda, China</city>
-<city>Jiande, China</city>
-<city>Ulhasnagar, India</city>
-<city>Las Piñas, Philippines</city>
-<city>Matsudo, Japan</city>
-<city>Port Said, Egypt</city>
-<city>Yuanping, China</city>
-<city>Gaoping, China</city>
-<city>Fenghua, China</city>
-<city>Makati, Philippines</city>
-<city>Qingzhen, China</city>
-<city>Siliguri, India</city>
-<city>Kurashiki, Japan</city>
-<city>Ipoh, Malaysia</city>
-<city>Lanus, Argentina</city>
-<city>Taguig, Philippines</city>
-<city>Nan'gong, China</city>
-<city>Al-Kamishli, Syria</city>
-<city>Sao Joao de Meriti, Brazil</city>
-<city>Ichikawa, Japan</city>
-<city>London, Canada</city>
-<city>Nishinomiya, Japan</city>
-<city>Constantine (Qacentina), Algeria</city>
-<city>Enping, China</city>
-<city>Weihui, China</city>
-<city>Adhamiyah, Iraq</city>
-<city>Kitchener, Canada</city>
-<city>Duyun, China</city>
-<city>Jhansi, India</city>
-<city>Amagasaki, Japan</city>
-<city>Oita, Japan</city>
-<city>Liaoyuan, China</city>
-<city>Cagayan de Oro, Philippines</city>
-<city>Antwerpen (Anvers), Belgium</city>
-<city>Brighton/Worthing/Littlehampton, United Kingdom</city>
-<city>Fresno (CA), United States</city>
-<city>Baiyin, China</city>
-<city>Tonghua, China</city>
-<city>Maracay, Venezuela</city>
-<city>Sargodha, Pakistan</city>
-<city>Utsunomiya, Japan</city>
-<city>Gdansk, Poland</city>
-<city>Sanhe, China</city>
-<city>Sacramento (CA), United States</city>
-<city>Pingliang, China</city>
-<city>New Orleans (LA), United States</city>
-<city>Kanazawa, Japan</city>
-<city>Zhangjiajie, China</city>
-<city>Cheboksary, Russia</city>
-<city>Gejiu, China</city>
-<city>Aparecida de Goiania, Brazil</city>
-<city>Saharanpur, India</city>
-<city>Cleveland (OH), United States</city>
-<city>Mixco, Guatemala</city>
-<city>BANGUI, Central African Republic</city>
-<city>Yulin (Shaanxi), China</city>
-<city>LOME, Togo</city>
-<city>Qionghai, China</city>
-<city>Paranaque, Philippines</city>
-<city>Edinburgh, United Kingdom</city>
-<city>Linxiang, China</city>
-<city>Puyang, China</city>
-<city>Sangli-Miraj-Kupwad, India</city>
-<city>Qinyang, China</city>
-<city>Pereira, Colombia</city>
-<city>Karaganda, Kazakhstan</city>
-<city>Kansas City (MO), United States</city>
-<city>Lyon, France</city>
-<city>Jingdezhen, China</city>
-<city>Jambi, Indonesia</city>
-<city>Huadian, China</city>
-<city>Putian, China</city>
-<city>Jinghong, China</city>
-<city>Cangzhou, China</city>
-<city>Mesa (AZ), United States</city>
-<city>Nagasaki, Japan</city>
-<city>Beian, China</city>
-<city>Portsmouth, United Kingdom</city>
-<city>Bhatpara, India</city>
-<city>Johore Bharu, Malaysia</city>
-<city>Tabuk, Saudi Arabia</city>
-<city>Leicester, United Kingdom</city>
-<city>Taonan, China</city>
-<city>Sanshui, China</city>
-<city>Xinle, China</city>
-<city>Virginia Beach (VA), United States</city>
-<city>Mishan, China</city>
-<city>Ning'an, China</city>
-<city>Chengde, China</city>
-<city>Bryansk, Russia</city>
-<city>Hailin, China</city>
-<city>Gulbarga, India</city>
-<city>Bobo Dioulasso, Burkina Faso</city>
-<city>Masan, South Korea</city>
-<city>Tieling, China</city>
-<city>Kaili, China</city>
-<city>Ogbomosho, Nigeria</city>
-<city>Shifang, China</city>
-<city>Yanji, China</city>
-<city>Yazd, Iran</city>
-<city>Firozabad, India</city>
-<city>Tirunelveli, India</city>
-<city>Zarqa, Jordan</city>
-<city>Matamoros, Mexico</city>
-<city>Ujjain, India</city>
-<city>Nanded, India</city>
-<city>Daan, China</city>
-<city>Campos dos Goytacazes, Brazil</city>
-<city>Balikpapan, Indonesia</city>
-<city>Bacolod, Philippines</city>
-<city>Wuhai, China</city>
-<city>SAN JUAN, Puerto Rico</city>
-<city>Yokosuka, Japan</city>
-<city>Santiago de Cuba, Cuba</city>
-<city>BRATISLAVA, Slovakia</city>
-<city>Jinhua, China</city>
-<city>Matola, Mozambique</city>
-<city>Lechang, China</city>
-<city>Coatzacoalcos, Mexico</city>
-<city>Emeishan, China</city>
-<city>Kaliningrad (Kaliningradskaya oblast), Russia</city>
-<city>Hengshui, China</city>
-<city>Fangchenggang, China</city>
-<city>Santa Marta, Colombia</city>
-<city>Sialkote, Pakistan</city>
-<city>Yongji, China</city>
-<city>Toyama, Japan</city>
-<city>DOHA, Qatar</city>
-<city>Fujin, China</city>
-<city>Kirkuk, Iraq</city>
-<city>LIBREVILLE, Gabon</city>
-<city>Fukuyama, Japan</city>
-<city>Santos, Brazil</city>
-<city>Cheonan, South Korea</city>
-<city>Suez, Egypt</city>
-<city>Murcia, Spain</city>
-<city>Utrecht, Netherlands</city>
-<city>Makyivka, Ukraine</city>
-<city>Sao Jose do Rio Prêto, Brazil</city>
-<city>Omaha (NE), United States</city>
-<city>Xiaoyi, China</city>
-<city>Maua, Brazil</city>
-<city>Soacha, Colombia</city>
-<city>Malatya, Turkey</city>
-<city>Manado, Indonesia</city>
-<city>Toyota, Japan</city>
-<city>Caxias do Sul, Brazil</city>
-<city>Magnitogorsk, Russia</city>
-<city>General Santos, Philippines</city>
-<city>Sanliurfa, Turkey</city>
-<city>Ivanovo, Russia</city>
-<city>Szczecin, Poland</city>
-<city>Sihui, China</city>
-<city>Gaza, Palestine, Occupied Territory</city>
-<city>Shanwei, China</city>
-<city>Lianzhou, China</city>
-<city>Malegaon, India</city>
-<city>Zhalantun, China</city>
-<city>Yuxi, China</city>
-<city>Bahawalpur, Pakistan</city>
-<city>Rajahmundry, India</city>
-<city>Enugu, Nigeria</city>
-<city>Betim, Brazil</city>
-<city>ASHGABAT, Turkmenistan</city>
-<city>General San Martin, Argentina</city>
-<city>Florianópolis, Brazil</city>
-<city>Santa Fe, Argentina</city>
-<city>Basra, Iraq</city>
-<city>Huangshan, China</city>
-<city>Yakeshi, China</city>
-<city>Heshan (Guangdong), China</city>
-<city>Kursk, Russia</city>
-<city>Tver, Russia</city>
-<city>Machida, Japan</city>
-<city>Pietermaritzburg, South Africa</city>
-<city>Vila Velha, Brazil</city>
-<city>Nellore, India</city>
-<city>Shuangliao, China</city>
-<city>Tongchuan, China</city>
-<city>Hirakata, Japan</city>
-<city>Yan'an, China</city>
-<city>Ningde, China</city>
-<city>Sochi, Russia</city>
-<city>Huambo, Angola</city>
-<city>Akola, India</city>
-<city>Gifu, Japan</city>
-<city>Ruichang, China</city>
-<city>Loudi, China</city>
-<city>Adan, Yemen</city>
-<city>Luquan, China</city>
-<city>Beira, Mozambique</city>
-<city>St. Catharines, Canada</city>
-<city>TALLINN, Estonia</city>
-<city>Erzurum, Turkey</city>
-<city>Fujisawa, Japan</city>
-<city>Diadema, Brazil</city>
-<city>Oakland (CA), United States</city>
-<city>El-Mahalla El-Kubra, Egypt</city>
-<city>Gao, Mali</city>
-<city>Serra, Brazil</city>
-<city>Gaya, India</city>
-<city>TIRANA, Albania</city>
-<city>Bochum, Germany</city>
-<city>Yogyakarta, Indonesia</city>
-<city>South Dum Dum, India</city>
-<city>Namangan, Uzbekistan</city>
-<city>Marikina, Philippines</city>
-<city>Erode, India</city>
-<city>Ardabil, Iran</city>
-<city>Villa Nueva, Guatemala</city>
-<city>Villavicencio, Colombia</city>
-<city>Toulouse, France</city>
-<city>Carapicuiba, Brazil</city>
-<city>Udaipur, India</city>
-<city>Maheshtala, India</city>
-<city>Rajshahi, Bangladesh</city>
-<city>Hami, China</city>
-<city>Pasto, Colombia</city>
-<city>Vellore, India</city>
-<city>Olinda, Brazil</city>
-<city>Changji, China</city>
-<city>Fenyang, China</city>
-<city>Hancheng, China</city>
-<city>Toyonaka, Japan</city>
-<city>Yidu, China</city>
-<city>Thessaloniki, Greece</city>
-<city>Monteria, Colombia</city>
-<city>Dazhou, China</city>
-<city>Bournemouth, United Kingdom</city>
-<city>Keelung, China</city>
-<city>DJIBOUTI, Djibouti</city>
-<city>Da Nang, Viet Nam</city>
-<city>Tulsa (OK), United States</city>
-<city>Halifax, Canada</city>
-<city>Kuerle, China</city>
-<city>Ningguo, China</city>
-<city>Manizales, Colombia</city>
-<city>Wuzhou, China</city>
-<city>Porto Velho, Brazil</city>
-<city>Kashiwa, Japan</city>
-<city>Bello, Colombia</city>
-<city>Kollam, India</city>
-<city>Campina Grande, Brazil</city>
-<city>Vereeniging, South Africa</city>
-<city>Chiang Mai, Thailand</city>
-<city>Muntinlupa, Philippines</city>
-<city>An'guo, China</city>
-<city>ABUJA, Nigeria</city>
-<city>Nizhny Tagil, Russia</city>
-<city>Villahermosa, Mexico</city>
-<city>Nagano, Japan</city>
-<city>Buraydah, Saudi Arabia</city>
-<city>Samsun, Turkey</city>
-<city>Honolulu (HI), United States</city>
-<city>Las Palmas de Gran Canaria, Spain</city>
-<city>PalmasdeGranCanaria, Spain</city>
-<city>Sevastopol, Ukraine</city>
-<city>WELLINGTON, New Zealand</city>
-<city>Wakayama, Japan</city>
-<city>Ulan-Ude, Russia</city>
-<city>Palma de Mallorca, Spain</city>
-<city>Christchurch, New Zealand</city>
-<city>Jizhou, China</city>
-<city>Huanggang, China</city>
-<city>Xuchang, China</city>
-<city>Bologna, Italy</city>
-<city>Jiexiu, China</city>
-<city>Tanta, Egypt</city>
-<city>Nanxiong, China</city>
-<city>Khamis Mushayt, Saudi Arabia</city>
-<city>Toyohashi, Japan</city>
-<city>Moji das Cruzes, Brazil</city>
-<city>Ichinomiya, Japan</city>
-<city>Ndola, Zambia</city>
-<city>Salta, Argentina</city>
-<city>Nara, Japan</city>
-<city>Oyo, Nigeria</city>
-<city>Colorado Springs (CO), United States</city>
-<city>Reading/Wokingham, United Kingdom</city>
-<city>Mansura, Egypt</city>
-<city>Wuppertal, Germany</city>
-<city>Kakinada, India</city>
-<city>Jalgaon, India</city>
-<city>Hejin, China</city>
-<city>Mogilev, Belarus</city>
-<city>Klang, Malaysia</city>
-<city>Macapa, Brazil</city>
-<city>Brno, Czech Republic</city>
-<city>Piracicaba, Brazil</city>
-<city>Firenze, Italy</city>
-<city>Iloilo, Philippines</city>
-<city>Benoni, South Africa</city>
-<city>Udon Thani, Thailand</city>
-<city>Teesside, United Kingdom</city>
-<city>Bydgoszcz, Poland</city>
-<city>Valledupar, Colombia</city>
-<city>Sulamaniya, Iraq</city>
-<city>Davangere, India</city>
-<city>Chaozhou, China</city>
-<city>Warri, Nigeria</city>
-<city>Arlington (TX), United States</city>
-<city>Tongling, China</city>
-<city>Kitwe, Zambia</city>
-<city>The Potteries, United Kingdom</city>
-<city>Bouake, Côte d'Ivoire</city>
-<city>Piura, Peru</city>
-<city>BEIRUT, Lebanon</city>
-<city>Samarkand, Uzbekistan</city>
-<city>Cariacica, Brazil</city>
-<city>Misurata, Libya</city>
-<city>Kaunas, Lithuania</city>
-<city>Stavropol, Russia</city>
-<city>Hsinchu, China</city>
-<city>Vinnytsya, Ukraine</city>
-<city>Dongfang, China</city>
-<city>ASMARA, Eritrea</city>
-<city>Simpheropol, Ukraine</city>
-<city>Yi'ning, China</city>
-<city>Bauru, Brazil</city>
-<city>Iquitos, Peru</city>
-<city>Nuevo Laredo, Mexico</city>
-<city>Wuzhong, China</city>
-<city>Uijeongbu (Eujeongbu), South Korea</city>
-<city>Arkhangelsk, Russia</city>
-<city>Asahikawa, Japan</city>
-<city>Pasay, Philippines</city>
-<city>Kahramanmaras, Turkey</city>
-<city>Wichita (KS), United States</city>
-<city>Okazaki, Japan</city>
-<city>Tieli, China</city>
-<city>Iwaki, Japan</city>
-<city>Meizhou, China</city>
-<city>Lublin, Poland</city>
-<city>Bilbao, Spain</city>
-<city>Panipat, India</city>
-<city>Suita, Japan</city>
-<city>Kherson, Ukraine</city>
-<city>Itaquaquecetuba, Brazil</city>
-<city>Abeokuta, Nigeria</city>
-<city>San Juan, Argentina</city>
-<city>Annaba, Algeria</city>
-<city>Huaying, China</city>
-<city>Vitebsk, Belarus</city>
-<city>Takatsuki, Japan</city>
-<city>Zixing, China</city>
-<city>Petaling Jaya, Malaysia</city>
-<city>Bloemfontein, South Africa</city>
-<city>Onitsha, Nigeria</city>
-<city>Bhagalpur, India</city>
-<city>Fife, United Kingdom</city>
-<city>Al-Rayyan, Qatar</city>
-<city>Montes Claros, Brazil</city>
-<city>Jundiai, Brazil</city>
-<city>Panihati, India</city>
-<city>Lishui, China</city>
-<city>Ahmednagar, India</city>
-<city>Manukau, New Zealand</city>
-<city>Irapuato, Mexico</city>
-<city>Huaihua, China</city>
-<city>Pelotas, Brazil</city>
-<city>Jiuquan, China</city>
-<city>Zanjan, Iran</city>
-<city>Belgorod, Russia</city>
-<city>Kathlehong, South Africa</city>
-<city>SAN JOSE, Costa Rica</city>
-<city>Kempton Park, South Africa</city>
-<city>Oshawa, Canada</city>
-<city>Avellaneda, Argentina</city>
-<city>BERNE, Switzerland</city>
-<city>Assyut, Egypt</city>
-<city>Nice, France</city>
-<city>Plovdiv, Bulgaria</city>
-<city>Kaluga, Russia</city>
-<city>Antofagasta, Chile</city>
-<city>Mataram, Indonesia</city>
-<city>Gumi (Kumi), South Korea</city>
-<city>Raleigh (NC), United States</city>
-<city>Dhule, India</city>
-<city>Kashi (Xinjiang), China</city>
-<city>Baise, China</city>
-<city>Santa Ana (CA), United States</city>
-<city>Vladimir, Russia</city>
-<city>Jinju (Chinju), South Korea</city>
-<city>Umlazi, South Africa</city>
-<city>Lengshuijiang, China</city>
-<city>Malabon, Philippines</city>
-<city>Koriyama, Japan</city>
-<city>Wudalianchi, China</city>
-<city>Andizhan, Uzbekistan</city>
-<city>Zhumadian, China</city>
-<city>Takamatsu, Japan</city>
-<city>Luxi (Yunnan), China</city>
-<city>Sanming, China</city>
-<city>Coventry/Bedworth, United Kingdom</city>
-<city>Rajpur Sonarpur, India</city>
-<city>Carrefour, Haiti</city>
-<city>Tokorozawa, Japan</city>
-<city>Taraz, Kazakhstan</city>
-<city>Khouribga, Morocco</city>
-<city>Buenaventura, Colombia</city>
-<city>Sukkur, Pakistan</city>
-<city>Surat Thani, Thailand</city>
-<city>Baishan, China</city>
-<city>Yong'an, China</city>
-<city>Yaan, China</city>
-<city>Kaesong, North Korea</city>
-<city>Victoria, Canada</city>
-<city>Gwangmyeong (Kwangmyong), South Korea</city>
-<city>Kawagoe, Japan</city>
-<city>Ciudad del Este, Paraguay</city>
-<city>Kochi, Japan</city>
-<city>Canoas, Brazil</city>
-<city>Akita, Japan</city>
-<city>Basilan, Philippines</city>
-<city>Windsor, Canada</city>
-<city>Gimhae (Kimhae), South Korea</city>
-<city>Anaheim (CA), United States</city>
-<city>San Miguelito, Panama</city>
-<city>Muzaffarnagar, India</city>
-<city>Vladikavkaz (Osetinskaya ASSR), Russia</city>
-<city>Bilaspur, India</city>
-<city>Thrissur, India</city>
-<city>Sokoto, Nigeria</city>
-<city>Sao Vicente, Brazil</city>
-<city>Chimbote, Peru</city>
-<city>Kurgan, Russia</city>
-<city>Franca, Brazil</city>
-<city>Al-Ayn, United Arab Emirates</city>
-<city>Sanandaj, Iran</city>
-<city>Cardiff, United Kingdom</city>
-<city>Shangrao, China</city>
-<city>Khon Kaen, Thailand</city>
-<city>Cuzco, Peru</city>
-<city>Sinuiji, North Korea</city>
-<city>Bari, Italy</city>
-<city>CANBERRA, Australia</city>
-<city>Orel, Russia</city>
-<city>Maringa, Brazil</city>
-<city>Van, Turkey</city>
-<city>Zhoukou, China</city>
-<city>Iksan (Iri), South Korea</city>
-<city>Saransk, Russia</city>
-<city>Patiala, India</city>
-<city>Shahjahanpur, India</city>
-<city>Ribeirao das Neves, Brazil</city>
-<city>Córdoba, Spain</city>
-<city>Alicante, Spain</city>
-<city>Eindhoven, Netherlands</city>
-<city>Pachuca (de Soto), Mexico</city>
-<city>Bielefeld, Germany</city>
-<city>North Lanarkshire, United Kingdom</city>
-<city>Celaya, Mexico</city>
-<city>Kurnool, India</city>
-<city>Grodno, Belarus</city>
-<city>Valladolid, Spain</city>
-<city>Birkenhead, United Kingdom</city>
-<city>Neiva, Colombia</city>
-<city>Murmansk, Russia</city>
-<city>Mathura, India</city>
-<city>Anapolis, Brazil</city>
-<city>Volzhsky, Russia</city>
-<city>Maebashi, Japan</city>
-<city>Hechi, China</city>
-<city>Jianyang (Fujian), China</city>
-<city>Smolensk, Russia</city>
-<city>Xifeng, China</city>
-<city>Ta'izz, Yemen</city>
-<city>Vitória, Brazil</city>
-<city>Bellary, India</city>
-<city>Pittsburgh (PA), United States</city>
-<city>Iasi, Romania</city>
-<city>Koshigaya, Japan</city>
-<city>Korba, India</city>
-<city>Bandar-e-Abbas, Iran</city>
-<city>Kamarhati, India</city>
-<city>Shizuishan, China</city>
-<city>Khayelitsa, South Africa</city>
-<city>NoviSad, Serbia</city>
-<city>Rio Branco, Brazil</city>
-<city>Meixian, China</city>
-<city>Caucaia, Brazil</city>
-<city>Khoramabad, Iran</city>
-<city>Wugang (Henan), China</city>
-<city>Okene, Nigeria</city>
-<city>Pathum Thani, Thailand</city>
-<city>Naha, Japan</city>
-<city>Varna, Bulgaria</city>
-<city>Hulin, China</city>
-<city>Aomori, Japan</city>
-<city>Calabar, Nigeria</city>
-<city>Ostrava, Czech Republic</city>
-<city>Petrópolis, Brazil</city>
-<city>Miyazaki, Japan</city>
-<city>Muling, China</city>
-<city>Lausanne, Switzerland</city>
-<city>Sagar, India</city>
-<city>Foz do Iguacu, Brazil</city>
-<city>Najaf, Iraq</city>
-<city>Cincinnati (OH), United States</city>
-<city>Tongren, China</city>
-<city>Port Sudan, Sudan</city>
-<city>Cherepovets, Russia</city>
-<city>Mannheim, Germany</city>
-<city>Qazvin, Iran</city>
-<city>Huancayo, Peru</city>
-<city>Camagüey, Cuba</city>
-<city>Yamunanagar, India</city>
-<city>Kurume, Japan</city>
-<city>Chita, Russia</city>
-<city>Cluj-Napoca, Romania</city>
-<city>Constanta, Romania</city>
-<city>Muzaffarpur, India</city>
-<city>Guaruja, Brazil</city>
-<city>Ponta Grossa, Brazil</city>
-<city>Pavlodar, Kazakhstan</city>
-<city>Southampton, United Kingdom</city>
-<city>Jincheng, China</city>
-<city>Luohe, China</city>
-<city>Cuenca, Ecuador</city>
-<city>Yokkaichi, Japan</city>
-<city>Ganja, Azerbaijan</city>
-<city>Timisoara, Romania</city>
-<city>Tepic, Mexico</city>
-<city>Nampula, Mozambique</city>
-<city>Yeosu, South Korea</city>
-<city>Poltava, Ukraine</city>
-<city>Catania, Italy</city>
-<city>Tirupati, India</city>
-<city>Ambattur, India</city>
-<city>Brest, Belarus</city>
-<city>South Lanarkshire, United Kingdom</city>
-<city>Otsu, Japan</city>
-<city>Yangzhong, China</city>
-<city>Barcelona, Venezuela</city>
-<city>Kingston-upon-Hull, United Kingdom</city>
-<city>Toledo (OH), United States</city>
-<city>Gaoming, China</city>
-<city>Craiova, Romania</city>
-<city>Wonsan, North Korea</city>
-<city>Latur, India</city>
-<city>Paulista, Brazil</city>
-<city>San Isidro, Argentina</city>
-<city>Blumenou, Brazil</city>
-<city>Horlivka, Ukraine</city>
-<city>Al-Hudaydah (Hodeidah), Yemen</city>
-<city>Dexing, China</city>
-<city>Chandrapur, India</city>
-<city>Aurora (CO), United States</city>
-<city>Kerbala, Iraq</city>
-<city>Galati, Romania</city>
-<city>Naltchik, Russia</city>
-<city>Kharagpur, India</city>
-<city>Kasugai, Japan</city>
-<city>Bakersfield (CA), United States</city>
-<city>Denizli, Turkey</city>
-<city>Bialystok, Poland</city>
-<city>Anning, China</city>
-<city>NEW DELHI, India</city>
-<city>Chernihiv, Ukraine</city>
-<city>Rohtak, India</city>
-<city>Vologda, Russia</city>
-<city>Jishou, China</city>
-<city>Århus, Denmark</city>
-<city>Hakodate, Japan</city>
-<city>Noida, India</city>
-<city>Jhang, Pakistan</city>
-<city>Vigo, Spain</city>
-<city>Garoua, Cameroon</city>
-<city>Fuquan, China</city>
-<city>Resistencia, Argentina</city>
-<city>Viña del Mar, Chile</city>
-<city>Kaiyuan (Yunnan), China</city>
-<city>Sumgayit, Azerbaijan</city>
-<city>Cherkasy, Ukraine</city>
-<city>Akashi, Japan</city>
-<city>Fukushima, Japan</city>
-<city>Shimonoseki, Japan</city>
-<city>Kukatpalle, India</city>
-<city>Soyapango, El Salvador</city>
-<city>Surgut, Russia</city>
-<city>Riverside (CA), United States</city>
-<city>Kulti, India</city>
-<city>Vitória da Conquista, Brazil</city>
-<city>Brahmapur, India</city>
-<city>Vicente López, Argentina</city>
-<city>Sanmenxia, China</city>
-<city>Ust-Kamenogorsk, Kazakhstan</city>
-<city>Shaowu, China</city>
-<city>Al-Hufuf, Saudi Arabia</city>
-<city>Kindia, Guinea</city>
-<city>Morioka, Japan</city>
-<city>Nizamabad, India</city>
-<city>Stockton (CA), United States</city>
-<city>Palmira, Colombia</city>
-<city>Quzhou, China</city>
-<city>Barddhaman, India</city>
-<city>Ichalakaranji, India</city>
-<city>Kuitun, China</city>
-<city>Uberaba, Brazil</city>
-<city>Al-Mubarraz, Saudi Arabia</city>
-<city>Iligan, Philippines</city>
-<city>Sumy, Ukraine</city>
-<city>Cascavel, Brazil</city>
-<city>Delmas, Haiti</city>
-<city>Sakarya, Turkey</city>
-<city>Corpus Christi (TX), United States</city>
-<city>Caruaru, Brazil</city>
-<city>Tambov, Russia</city>
-<city>Tongi, Bangladesh</city>
-<city>Gebze, Turkey</city>
-<city>Nzerekore, Guinea</city>
-<city>Alappuzha, India</city>
-<city>Armenia, Colombia</city>
-<city>Ciudad Victoria, Mexico</city>
-<city>GABORONE, Botswana</city>
-<city>Buonmathuot, Viet Nam</city>
-<city>Gelsenkirchen, Germany</city>
-<city>Semipalatinsk, Kazakhstan</city>
-<city>Elazig, Turkey</city>
-<city>Rampur, India</city>
-<city>Novorossiysk, Russia</city>
-<city>Brasov, Romania</city>
-<city>Newark (NJ), United States</city>
-<city>Susano, Brazil</city>
-<city>Sheikhu Pura, Pakistan</city>
-<city>Ichihara, Japan</city>
-<city>Bhilwara, India</city>
-<city>Zuwarah, Libya</city>
-<city>GEORGETOWN, Guyana</city>
-<city>Jeju (Cheju), South Korea</city>
-<city>Buffalo (NY), United States</city>
-<city>Limeira, Brazil</city>
-<city>Roodepoort, South Africa</city>
-<city>Ciudad Bolivar, Venezuela</city>
-<city>Mandaluyong, Philippines</city>
-<city>Abadan, Iran</city>
-<city>Kuching, Malaysia</city>
-<city>Batman, Turkey</city>
-<city>Karlsruhe, Germany</city>
-<city>Zhytomyr, Ukraine</city>
-<city>Belfast, United Kingdom</city>
-<city>Santarem, Brazil</city>
-<city>San Bernardo, Chile</city>
-<city>Gyeongju (Kyongju), South Korea</city>
-<city>Yoshkar-ola, Russia</city>
-<city>St. Paul (MN), United States</city>
-<city>Valparaiso, Chile</city>
-<city>Anchorage (AK), United States</city>
-<city>Huozhou, China</city>
-<city>Wollongong, Australia</city>
-<city>Holguin, Cuba</city>
-<city>Gijón, Spain</city>
-<city>Shimoga, India</city>
-<city>Kostroma, Russia</city>
-<city>Islam Shahr (Qasemabad), Iran</city>
-<city>Yao, Japan</city>
-<city>Cirebon, Indonesia</city>
-<city>Phyongsong, North Korea</city>
-<city>Gunsan (Kunsan), South Korea</city>
-<city>Jining (Inner Mongolia), China</city>
-<city>Merida, Venezuela</city>
-<city>Komsomolsk-na-Amure, Russia</city>
-<city>San Cristóbal, Venezuela</city>
-<city>Pekalongan, Indonesia</city>
-<city>Rajarhat Gopalpur, India</city>
-<city>Taubate, Brazil</city>
-<city>Gravatai, Brazil</city>
-<city>Swansea, United Kingdom</city>
-<city>Nantes, France</city>
-<city>Larkana, Pakistan</city>
-<city>Kelamayi, China</city>
-<city>Santa Maria, Brazil</city>
-<city>Sukabumi, Indonesia</city>
-<city>Banda Aceh, Indonesia</city>
-<city>Nakhon Si Thammarat, Thailand</city>
-<city>Southend, United Kingdom</city>
-<city>Venezia, Italy</city>
-<city>Wulanhaote, China</city>
-<city>Irbid, Jordan</city>
-<city>Hilla, Iraq</city>
-<city>Wiesbaden, Germany</city>
-<city>Wonju, South Korea</city>
-<city>Lexington-Fayette (KY), United States</city>
-<city>Ibaraki, Japan</city>
-<city>Shillong, India</city>
-<city>Tokushima, Japan</city>
-<city>Angeles, Philippines</city>
-<city>Monclova, Mexico</city>
-<city>Zagazig, Egypt</city>
-<city>Butuan, Philippines</city>
-<city>Kakogawa, Japan</city>
-<city>Ha'il, Saudi Arabia</city>
-<city>Darbhanga, India</city>
-<city>Haifa, Israel</city>
-<city>San Pedro de Macoris, Dominican Republic</city>
-<city>Taganrog, Russia</city>
-<city>Nasariya, Iraq</city>
-<city>Suncheon, South Korea</city>
-<city>Sterlitamak, Russia</city>
-<city>Alwar, India</city>
-<city>Petrozavodsk, Russia</city>
-<city>Cumana, Venezuela</city>
-<city>Barueri, Brazil</city>
-<city>Zhangping, China</city>
-<city>Münster (Westf.), Germany</city>
-<city>Chiayi, China</city>
-<city>Fengzhen, China</city>
-<city>Gunpo (Kunpo), South Korea</city>
-<city>Mönchengladbach, Germany</city>
-<city>Strasbourg, France</city>
-<city>Dasarahalli, India</city>
-<city>Santiago del Estero, Argentina</city>
-<city>Yakutsk, Russia</city>
-<city>Chemnitz, Germany</city>
-<city>Boksburg, South Africa</city>
-<city>Hisar, India</city>
-<city>Mito, Japan</city>
-<city>Tarlac, Philippines</city>
-<city>Hailaer, China</city>
-<city>Maturin, Venezuela</city>
-<city>L.B. Nagar, India</city>
-<city>Viamao, Brazil</city>
-<city>Yunfu, China</city>
-<city>Bally, India</city>
-<city>Santa Ana, El Salvador</city>
-<city>Longjing, China</city>
-<city>Kankan, Guinea</city>
-<city>Sao Jose dos Pinhais, Brazil</city>
-<city>Blackpool, United Kingdom</city>
-<city>Cuddapah, India</city>
-<city>Faiyum, Egypt</city>
-<city>Bahia Blanca, Argentina</city>
-<city>Verona, Italy</city>
-<city>Petrolina, Brazil</city>
-<city>Dzerzhinsk (Novgorodskaya oblast), Russia</city>
-<city>Ratchaburi, Thailand</city>
-<city>Mandaue, Philippines</city>
-<city>Popayan, Colombia</city>
-<city>Governador Valadares, Brazil</city>
-<city>Katsina, Nigeria</city>
-<city>San Miguel, El Salvador</city>
-<city>Parbhani, India</city>
-<city>Hiratsuka, Japan</city>
-<city>Gajuwaka, India</city>
-<city>Nôvo Hamburgo, Brazil</city>
-<city>Volta Redonda, Brazil</city>
-<city>Corrientes, Argentina</city>
-<city>Aktobe, Kazakhstan</city>
-<city>Sivas, Turkey</city>
-<city>Floridablanca, Colombia</city>
-<city>Thies, Senegal</city>
-<city>Yamagata, Japan</city>
-<city>Dnieprodzerzhynsk, Ukraine</city>
-<city>Ismailia, Egypt</city>
-<city>Augsburg, Germany</city>
-<city>Varzea Grande, Brazil</city>
-<city>Bengkulu, Indonesia</city>
-<city>Halle, Germany</city>
-<city>NIS, Serbia</city>
-<city>PORT MORESBY, Papua New Guinea</city>
-<city>Sariwon, North Korea</city>
-<city>Ubon Ratchathani, Thailand</city>
-<city>Bratsk, Russia</city>
-<city>Bijapur, India</city>
-<city>Kirovohrad, Ukraine</city>
-<city>Khmelnytskiy (Hmilnyk), Ukraine</city>
-<city>Sari, Iran</city>
-<city>Dongsheng, China</city>
-<city>Chuncheon, South Korea</city>
-<city>Gdynia, Poland</city>
-<city>Baguio, Philippines</city>
-<city>Fukui, Japan</city>
-<city>Junagadh, India</city>
-<city>Kediri, Indonesia</city>
-<city>Bamenda, Cameroon</city>
-<city>Gujrat, Pakistan</city>
-<city>Chishui, China</city>
-<city>Tulufan, China</city>
-<city>Orsk, Russia</city>
-<city>Kure, Japan</city>
-<city>Oshogbo, Nigeria</city>
-<city>Baranagar, India</city>
-<city>Mokpo, South Korea</city>
-<city>Longquan, China</city>
-<city>Plano (TX), United States</city>
-<city>Osh, Kyrgyzstan</city>
-<city>Lingwu, China</city>
-<city>Leiden, Netherlands</city>
-<city>Boa Vista, Brazil</city>
-<city>Labe, Guinea</city>
-<city>Alajuela, Costa Rica</city>
-<city>St. Petersburg (FL), United States</city>
-<city>Phra Nakhon Si Ayutthaya, Thailand</city>
-<city>Pucallpa, Peru</city>
-<city>Sfax, Tunisia</city>
-<city>Qingtongxia, China</city>
-<city>Tumkur, India</city>
-<city>Russiefa, Jordan</city>
-<city>Hospitalet de Llobregat, Spain</city>
-<city>LJUBLJANA, Slovenia</city>
-<city>Sasebo, Japan</city>
-<city>Batangas, Philippines</city>
-<city>Temuco, Chile</city>
-<city>SUCRE, Bolivia</city>
-<city>Najran (Aba as-Suud), Saudi Arabia</city>
-<city>Shakhty, Russia</city>
-<city>Batna, Algeria</city>
-<city>Braunschweig, Germany</city>
-<city>Saraburi, Thailand</city>
-<city>Czestochowa, Poland</city>
-<city>Imphal, India</city>
-<city>Mardan, Pakistan</city>
-<city>Embu, Brazil</city>
-<city>Messina, Italy</city>
-<city>Fuchu, Japan</city>
-<city>Dordrecht, Netherlands</city>
-<city>Praia Grande, Brazil</city>
-<city>Kasur, Pakistan</city>
-<city>Takasaki, Japan</city>
-<city>Angarsk, Russia</city>
-<city>Kashan, Iran</city>
-<city>Hachinohe, Japan</city>
-<city>Suqian, China</city>
-<city>Syktivkar, Russia</city>
-<city>Graz, Austria</city>
-<city>Majnoon, Iraq</city>
-<city>Rivne, Ukraine</city>
-<city>Borujerd, Iran</city>
-<city>Aachen, Germany</city>
-<city>Plymouth, United Kingdom</city>
-<city>Bergen, Norway</city>
-<city>Anantapur, India</city>
-<city>Aldershot, United Kingdom</city>
-<city>Coruña(A), Spain</city>
-<city>La Coruña, Spain</city>
-<city>Jinshi, China</city>
-<city>PARAMARIBO, Suriname</city>
-<city>Thoothukkudi (Tuticorin), India</city>
-<city>Farrukhabad-cum-Fategarh, India</city>
-<city>Huayin, China</city>
-<city>Tegal, Indonesia</city>
-<city>Neyagawa, Japan</city>
-<city>Krefeld, Germany</city>
-<city>Dezful, Iran</city>
-<city>Sincelejo, Colombia</city>
-<city>Nizhenvartovsk, Russia</city>
-<city>Narayanganj, Bangladesh</city>
-<city>Chiang Rai, Thailand</city>
-<city>Rangpur, Bangladesh</city>
-<city>Gorgan, Iran</city>
-<city>Juazeiro do Norte, Brazil</city>
-<city>Jian (Jilin), China</city>
-<city>Tiefa, China</city>
-<city>Jersey City (NJ), United States</city>
-<city>Glendale (AZ), United States</city>
-<city>Lincoln (NE), United States</city>
-<city>Habra, India</city>
-<city>Akure, Nigeria</city>
-<city>Itagüi, Colombia</city>
-<city>Kasukabe, Japan</city>
-<city>Chernivtsy, Ukraine</city>
-<city>Granada, Spain</city>
-<city>Sumare, Brazil</city>
-<city>Tembisa, South Africa</city>
-<city>Bukhara, Uzbekistan</city>
-<city>Dire Dawa, Ethiopia</city>
-<city>Mage, Brazil</city>
-<city>Derby, United Kingdom</city>
-<city>Ramagundam, India</city>
-<city>Fuji, Japan</city>
-<city>Qods, Iran</city>
-<city>Ipatinga, Brazil</city>
-<city>Nagaoka, Japan</city>
-<city>Luton/Dunstable, United Kingdom</city>
-<city>Soka, Japan</city>
-<city>Lishi, China</city>
-<city>Karradah Sharqiyah, Iraq</city>
-<city>Jalna, India</city>
-<city>Saskatoon, Canada</city>
-<city>BUJUMBURA, Burundi</city>
-<city>Zacatecas, Mexico</city>
-<city>Nakhon Pathom, Thailand</city>
-<city>Magdeburg, Germany</city>
-<city>Chandler (AZ), United States</city>
-<city>Kosice, Slovakia</city>
-<city>Kassala, Sudan</city>
-<city>Kota Bahru, Malaysia</city>
-<city>Engels, Russia</city>
-<city>Kiel, Germany</city>
-<city>KIGALI, Rwanda</city>
-<city>Rahimyar Khan, Pakistan</city>
-<city>WINDHOEK, Namibia</city>
-<city>Ratlam, India</city>
-<city>Espoo, Finland</city>
-<city>Kousseri, Cameroon</city>
-<city>Gent (Gand), Belgium</city>
-<city>PORTO-NOVO, Benin</city>
-<city>Imperatriz, Brazil</city>
-<city>Henderson (NV), United States</city>
-<city>Ivano-Frankivsk, Ukraine</city>
-<city>Hafar al-Batin, Saudi Arabia</city>
-<city>Bihar, India</city>
-<city>Greensboro (NC), United States</city>
-<city>Norfolk (VA), United States</city>
-<city>The Medway Towns, United Kingdom</city>
-<city>Ploiesti, Romania</city>
-<city>Barasat, India</city>
-<city>Birmingham (AL), United States</city>
-<city>Durg, India</city>
-<city>Avadi, India</city>
-<city>Simao, China</city>
-<city>Dewas, India</city>
-<city>Porto, Portugal</city>
-<city>Navotas, Philippines</city>
-<city>Manisa, Turkey</city>
-<city>Kremenchuh, Ukraine</city>
-<city>Tacna, Peru</city>
-<city>Uralsk, Kazakhstan</city>
-<city>Blida (El Boulaïda), Algeria</city>
-<city>Mossoró, Brazil</city>
-<city>Aizawl, India</city>
-<city>Al-Obeid, Sudan</city>
-<city>Navsari, India</city>
-<city>Satna, India</city>
-<city>Gurgaon, India</city>
-<city>Haeju, North Korea</city>
-<city>Chigasaki, Japan</city>
-<city>Gangneung (Kangnung), South Korea</city>
-<city>Gyeongsan, South Korea</city>
-<city>Kuala Terengganu, Malaysia</city>
-<city>Trabzon, Turkey</city>
-<city>Kaolack, Senegal</city>
-<city>Heyuan, China</city>
-<city>Acarigua-Araure, Venezuela</city>
-<city>Matsumoto, Japan</city>
-<city>Vitoria-Gasteiz, Spain</city>
-<city>Balikesir, Turkey</city>
-<city>Mymensingh, Bangladesh</city>
-<city>Colimas, Mexico</city>
-<city>Nyala, Sudan</city>
-<city>Sambalpur, India</city>
-<city>Aberdeenshire, United Kingdom</city>
-<city>Rancagua, Chile</city>
-<city>Nizhnekamsk, Russia</city>
-<city>Binjai, Indonesia</city>
-<city>Radom, Poland</city>
-<city>Scottsdale (AZ), United States</city>
-<city>Quthbullapur, India</city>
-<city>Montpellier, France</city>
-<city>Biisk, Russia</city>
-<city>Kandahar (Quandahar), Afghanistan</city>
-<city>Maroua, Cameroon</city>
-<city>Taboao da Serra, Brazil</city>
-<city>Sosnowiec, Poland</city>
-<city>Sonipat, India</city>
-<city>Houma, China</city>
-<city>Bole, China</city>
-<city>LEFKOSIA, Cyprus</city>
-<city>Pematang Siantar, Indonesia</city>
-<city>English Bazar, India</city>
-<city>Ambon, Indonesia</city>
-<city>Marilia, Brazil</city>
-<city>AsSeeb, Oman</city>
-<city>Kanggye, North Korea</city>
-<city>Fort Wayne (IN), United States</city>
-<city>Santa Cruz de Tenerife, Spain</city>
-<city>Mwanza, Tanzania</city>
-<city>Lasa, China</city>
-<city>Mohammedia, Morocco</city>
-<city>Cabanatuan, Philippines</city>
-<city>Ganganagar, India</city>
-<city>Tarsus, Turkey</city>
-<city>Al-Jubayl, Saudi Arabia</city>
-<city>Tilburg, Netherlands</city>
-<city>Atsugi, Japan</city>
-<city>Oberhausen, Germany</city>
-<city>Baton Rouge (LA), United States</city>
-<city>Karnal, India</city>
-<city>San Fernando City, Philippines</city>
-<city>Barinas, Venezuela</city>
-<city>Madison (WI), United States</city>
-<city>Bayamón, Puerto Rico</city>
-<city>Badalona, Spain</city>
-<city>Nhatrang, Viet Nam</city>
-<city>Yamato, Japan</city>
-<city>Itaborai, Brazil</city>
-<city>Ilheus, Brazil</city>
-<city>Palmas, Brazil</city>
-<city>Rishon Leziyyon, Israel</city>
-<city>Hialeah (FL), United States</city>
-<city>Hardwar, India</city>
-<city>Ageo, Japan</city>
-<city>Groznyi, Russia</city>
-<city>North Dumdum, India</city>
-<city>Concepción, Chile</city>
-<city>Takarazuka, Japan</city>
-<city>Wadhwan, India</city>
-<city>Santa Luzia (Minas Gerais), Brazil</city>
-<city>George Town, Malaysia</city>
-<city>Aswan, Egypt</city>
-<city>Ternopil, Ukraine</city>
-<city>Hue, Viet Nam</city>
-<city>Elche, Spain</city>
-<city>Chesapeake (VA), United States</city>
-<city>Bobruisk, Belarus</city>
-<city>Sao Carlo, Brazil</city>
-<city>Starsy Oskol, Russia</city>
-<city>Lipa, Philippines</city>
-<city>Anand, India</city>
-<city>Chungju, South Korea</city>
-<city>Ozhukarai, India</city>
-<city>Bathinda, India</city>
-<city>Machala, Ecuador</city>
-<city>Velikiy Novgorod, Russia</city>
-<city>Lapu-Lapu, Philippines</city>
-<city>Lampang, Thailand</city>
-<city>Prokopyevsk, Russia</city>
-<city>Northshore, New Zealand</city>
-<city>Braila, Romania</city>
-<city>Oruro, Bolivia</city>
-<city>Campeche, Mexico</city>
-<city>Garland (TX), United States</city>
-<city>Chofu, Japan</city>
-<city>Blagoveshchensk (Amurskaya oblast), Russia</city>
-<city>Karimnagar, India</city>
-<city>Thanjavur, India</city>
-<city>Cantho, Viet Nam</city>
-<city>Naihati, India</city>
-<city>Eluru, India</city>
-<city>Sabzewar, Iran</city>
-<city>Bordeaux, France</city>
-<city>Helong, China</city>
-<city>Sete Lagoas, Brazil</city>
-<city>Sunshine Coast, Australia</city>
-<city>Alvorada, Brazil</city>
-<city>Oviedo, Spain</city>
-<city>Setif (Stif), Algeria</city>
-<city>Rybinsk, Russia</city>
-<city>Lucheng, China</city>
-<city>Lübeck, Germany</city>
-<city>Ota, Japan</city>
-<city>Cabimas, Venezuela</city>
-<city>Orlando (FL), United States</city>
-<city>Kalasin, Thailand</city>
-<city>Sao Leopoldo, Brazil</city>
-<city>Norilsk, Russia</city>
-<city>Wuyishan, China</city>
-<city>Aberdeen, United Kingdom</city>
-<city>Nukus, Uzbekistan</city>
-<city>Hapur, India</city>
-<city>Parana, Argentina</city>
-<city>Tiruvottiyur, India</city>
-<city>Santo Domingo de los Colorados, Ecuador</city>
-<city>Jacarei, Brazil</city>
-<city>Etawah, India</city>
-<city>Al-Gezira, Sudan</city>
-<city>Hunchun, China</city>
-<city>Rochester (NY), United States</city>
-<city>NASSAU, Bahamas</city>
-<city>Akron (OH), United States</city>
-<city>Posadas, Argentina</city>
-<city>Padova, Italy</city>
-<city>Chula Vista (CA), United States</city>
-<city>Maunath Bhanjan, India</city>
-<city>Lubbock (TX), United States</city>
-<city>Heerlen-Kerkrade, Netherlands</city>
-<city>Damanhur, Egypt</city>
-<city>Campha, Viet Nam</city>
-<city>Highland, United Kingdom</city>
-<city>Kramatorsk, Ukraine</city>
-<city>Armavir, Russia</city>
-<city>Amara, Iraq</city>
-<city>Sahiwal, Pakistan</city>
-<city>Laredo (TX), United States</city>
-<city>Santa Clara, Cuba</city>
-<city>Cartagena, Spain</city>
-<city>Guantanamo, Cuba</city>
-<city>Juliaca, Peru</city>
-<city>Juazeiro, Brazil</city>
-<city>Faizabad, India</city>
-<city>Nagercoil, India</city>
-<city>Kirikkale, Turkey</city>
-<city>Joetsu, Japan</city>
-<city>Numazu, Japan</city>
-<city>Divinópolis, Brazil</city>
-<city>San Pablo, Philippines</city>
-<city>Kustanai, Kazakhstan</city>
-<city>Dearne Valley, United Kingdom</city>
-<city>Kielce, Poland</city>
-<city>Torun, Poland</city>
-<city>Modesto (CA), United States</city>
-<city>Saga, Japan</city>
-<city>Presidente Prudente, Brazil</city>
-<city>Buri Ram, Thailand</city>
-<city>Bauchi, Nigeria</city>
-<city>Móstoles, Spain</city>
-<city>Rennes, France</city>
-<city>Kimberley, South Africa</city>
-<city>Oradea, Romania</city>
-<city>Neyshabur, Iran</city>
-<city>Ica, Peru</city>
-<city>Trieste, Italy</city>
-<city>Gujiao, China</city>
-<city>Raichur, India</city>
-<city>Bafoussam, Cameroon</city>
-<city>Pyatigorsk, Russia</city>
-<city>Tampere, Finland</city>
-<city>Mirzapur-cum-Vindhyachal, India</city>
-<city>Hagen, Germany</city>
-<city>Bharatpur, India</city>
-<city>Itabuna, Brazil</city>
-<city>Ajman, United Arab Emirates</city>
-<city>Jinchang, China</city>
-<city>Durham (NC), United States</city>
-<city>Karshi, Uzbekistan</city>
-<city>Najafabad, Iran</city>
-<city>Secunderabad, India</city>
-<city>Debrecen, Hungary</city>
-<city>Talca, Chile</city>
-<city>Adiyaman, Turkey</city>
-<city>Americana, Brazil</city>
-<city>DODOMA, Tanzania</city>
-<city>Ambarnath, India</city>
-<city>Reno (NV), United States</city>
-<city>Hobart, Australia</city>
-<city>Toamasina, Madagascar</city>
-<city>Turmero, Venezuela</city>
-<city>Arrah, India</city>
-<city>Rostock, Germany</city>
-<city>San Lorenzo, Paraguay</city>
-<city>Itapevi, Brazil</city>
-<city>Linxia, China</city>
-<city>Freiburg im Breisgau, Germany</city>
-<city>Isesaki, Japan</city>
-<city>Kuantan, Malaysia</city>
-<city>Arapiraca, Brazil</city>
-<city>Ashdod, Israel</city>
-<city>Tamale, Ghana</city>
-<city>Uluberia, India</city>
-<city>Abha, Saudi Arabia</city>
-<city>Okara, Pakistan</city>
-<city>Hortolandia, Brazil</city>
-<city>Tottori, Japan</city>
-<city>Menia, Egypt</city>
-<city>Alcala de Henares, Spain</city>
-<city>Charleroi, Belgium</city>
-<city>Erfurt, Germany</city>
-<city>Bommanahalli, India</city>
-<city>Rayong, Thailand</city>
-<city>Sao Jose, Brazil</city>
-<city>Kishiwada, Japan</city>
-<city>Al-Kharj, Saudi Arabia</city>
-<city>Mejicanos, El Salvador</city>
-<city>Bila Tserkva (Belaya Tserkov), Ukraine</city>
-<city>Maraba, Brazil</city>
-<city>Sabadell, Spain</city>
-<city>Tsukuba, Japan</city>
-<city>Fremont (CA), United States</city>
-<city>Probolinggo, Indonesia</city>
-<city>Balakovo, Russia</city>
-<city>Atushi, China</city>
-<city>Taiping, Malaysia</city>
-<city>Montgomery (AL), United States</city>
-<city>Glendale (CA), United States</city>
-<city>Al Khums, Libya</city>
-<city>Ziguinchor, Senegal</city>
-<city>Groningen, Netherlands</city>
-<city>Lutsk, Ukraine</city>
-<city>Terrassa, Spain</city>
-<city>Araraquara, Brazil</city>
-<city>Jerez de la Frontera, Spain</city>
-<city>Hitachi, Japan</city>
-<city>Luzern, Switzerland</city>
-<city>Gliwice, Poland</city>
-<city>Nakhon Sawan, Thailand</city>
-<city>Wah Cantonment, Pakistan</city>
-<city>Shreveport (LA), United States</city>
-<city>Odawara, Japan</city>
-<city>San Bernardino (CA), United States</city>
-<city>Regina, Canada</city>
-<city>Cachoeiro de Itapemirim, Brazil</city>
-<city>Serampore, India</city>
-<city>Samut Sakhon, Thailand</city>
-<city>BISSAU, Guinea-Bissau</city>
-<city>Kokand, Uzbekistan</city>
-<city>Porbandar, India</city>
-<city>Sirjan, Iran</city>
-<city>Palakkad, India</city>
-<city>Northampton, United Kingdom</city>
-<city>Salmiya, Kuwait</city>
-<city>Camacari, Brazil</city>
-<city>Rio Grande, Brazil</city>
-<city>Taranto, Italy</city>
-<city>Spokane (WA), United States</city>
-<city>Khammam, India</city>
-<city>Purnia, India</city>
-<city>Nadiad, India</city>
-<city>Dindigul, India</city>
-<city>Matsue, Japan</city>
-<city>Babol, Iran</city>
-<city>Diwaniya, Iraq</city>
-<city>Yonkers (NY), United States</city>
-<city>Maracanau, Brazil</city>
-<city>Kassel, Germany</city>
-<city>Severodvinsk, Russia</city>
-<city>Lucena City, Philippines</city>
-<city>Dehiwala-Mount Lavinia, Sri Lanka</city>
-<city>Banja Luka, Bosnia and Herzegovina</city>
-<city>Arlington (VA), United States</city>
-<city>Pskov, Russia</city>
-<city>Tacoma (WA), United States</city>
-<city>Gandhinagar, India</city>
-<city>Pamplona, Spain</city>
-<city>Amol, Iran</city>
-<city>Vizianagarm, India</city>
-<city>Waitakere, New Zealand</city>
-<city>Petropavlovsk-Kamchatsky, Russia</city>
-<city>Portoviejo, Ecuador</city>
-<city>Norwich, United Kingdom</city>
-<city>Huntington Beach (CA), United States</city>
-<city>Burhanpur, India</city>
-<city>Olongapo, Philippines</city>
-<city>Kofu, Japan</city>
-<city>Des Moines (IA), United States</city>
-<city>Kocaeli, Turkey</city>
-<city>Grand Rapids (MI), United States</city>
-<city>Richmond (VA), United States</city>
-<city>Winston-Salem (NC), United States</city>
-<city>Fuenlabrada, Spain</city>
-<city>Irving (TX), United States</city>
-<city>Seremban, Malaysia</city>
-<city>Manta, Ecuador</city>
-<city>Boise City (ID), United States</city>
-<city>Suzuka, Japan</city>
-<city>Jayapura, Indonesia</city>
-<city>Barisal, Bangladesh</city>
-<city>Heihe, China</city>
-<city>Apopa, El Salvador</city>
-<city>Ramadi, Iraq</city>
-<city>Zlatoust, Russia</city>
-<city>Itami, Japan</city>
-<city>La Paz, Mexico</city>
-<city>Yangsan, South Korea</city>
-<city>Ath-Thuqbah, Saudi Arabia</city>
-<city>Hamilton, New Zealand</city>
-<city>Yamaguchi, Japan</city>
-<city>Mobile (AL), United States</city>
-<city>Al-Gadarif, Sudan</city>
-<city>Kumagaya, Japan</city>
-<city>Katihar, India</city>
-<city>Le Havre, France</city>
-<city>Augusta-Richmond (GA), United States</city>
-<city>Zabrze, Poland</city>
-<city>Brescia, Italy</city>
-<city>Barrancabermeja, Colombia</city>
-<city>Dera Ghazi Khan, Pakistan</city>
-<city>Rio Claro, Brazil</city>
-<city>Wusu, China</city>
-<city>Petropavlovsk (Severo- Kazakhstanskaya oblast), Kazakhstan</city>
-<city>REYKJAVIK, Iceland</city>
-<city>Tulua, Colombia</city>
-<city>Nishitokyo, Japan</city>
-<city>Mirpur Khas, Pakistan</city>
-<city>Haarlem, Netherlands</city>
-<city>Uji, Japan</city>
-<city>Nazareth, Ethiopia</city>
-<city>Agartala, India</city>
-<city>Nawabshah, Pakistan</city>
-<city>Osmaniye, Turkey</city>
-<city>Minna, Nigeria</city>
-<city>Bourgas, Bulgaria</city>
-<city>Yumen, China</city>
-<city>Split, Croatia</city>
-<city>Vantaa, Finland</city>
-<city>Yanbu al-Bahr, Saudi Arabia</city>
-<city>Santa Barbara D'Oeste, Brazil</city>
-<city>Linz, Austria</city>
-<city>Kancheepuram, India</city>
-<city>Passo Fundo, Brazil</city>
-<city>Criciúma, Brazil</city>
-<city>Dunhuang, China</city>
-<city>Carolina, Puerto Rico</city>
-<city>Pali, India</city>
-<city>Bhusawal, India</city>
-<city>Tanga, Tanzania</city>
-<city>Krishnarajapura, India</city>
-<city>Munger, India</city>
-<city>Luziânia, Brazil</city>
-<city>Bytom, Poland</city>
-<city>Reims, France</city>
-<city>Varamin, Iran</city>
-<city>Liege (Luik), Belgium</city>
-<city>Birjand, Iran</city>
-<city>Ife, Nigeria</city>
-<city>Irvine (CA), United States</city>
-<city>Murwara (Katni), India</city>
-<city>Klaipeda, Lithuania</city>
-<city>Odense, Denmark</city>
-<city>Dourados, Brazil</city>
-<city>Cork, Ireland</city>
-<city>Hetian, China</city>
-<city>Singrauli, India</city>
-<city>Mesquita, Brazil</city>
-<city>Sikar, India</city>
-<city>Almeria, Spain</city>
-<city>Columbus (GA), United States</city>
-<city>Be'er Sheva, Israel</city>
-<city>Nong Khai, Thailand</city>
-<city>Linjiang, China</city>
-<city>Prato, Italy</city>
-<city>Ikorodu, Nigeria</city>
-<city>Nala Sopara, India</city>
-<city>Little Rock (AR), United States</city>
-<city>Milton Keynes, United Kingdom</city>
-<city>Lille, France</city>
-<city>Higashihiroshima, Japan</city>
-<city>Silchar, India</city>
-<city>Reggio di Calabria, Italy</city>
-<city>Uppsala, Sweden</city>
-<city>Sidi-bel-Abbes, Algeria</city>
-<city>Balashikha, Russia</city>
-<city>Saarbrücken, Germany</city>
-<city>Kutaisi, Georgia</city>
-<city>Kodaira, Japan</city>
-<city>Duran, Ecuador</city>
-<city>Kyzylorda, Kazakhstan</city>
-<city>Oxnard (CA), United States</city>
-<city>Kamensk-Uralsky, Russia</city>
-<city>Neuquen, Argentina</city>
-<city>Machilipatnam, India</city>
-<city>Donostia - San Sebastian, Spain</city>
-<city>Rewa, India</city>
-<city>Kut, Iraq</city>
-<city>Mainz, Germany</city>
-<city>Fergana, Uzbekistan</city>
-<city>Amarillo (TX), United States</city>
-<city>Sunderland, United Kingdom</city>
-<city>Sambhal, India</city>
-<city>Santander, Spain</city>
-<city>Leganes, Spain</city>
-<city>Bojnurd, Iran</city>
-<city>Andong, South Korea</city>
-<city>Pireas, Greece</city>
-<city>Hamm, Germany</city>
-<city>Petah Tiqwa, Israel</city>
-<city>Narathiwat, Thailand</city>
-<city>Aracatuba, Brazil</city>
-<city>Kushiro, Japan</city>
-<city>Syzran, Russia</city>
-<city>St. John's, Canada</city>
-<city>Dos Quebradas, Colombia</city>
-<city>Ponce, Puerto Rico</city>
-<city>Indaiatuba, Brazil</city>
-<city>Manzhouli, China</city>
-<city>Khomeini shahr, Iran</city>
-<city>Miquan, China</city>
-<city>Byatarayanapura, India</city>
-<city>Yuzhno-Sakhalinsk, Russia</city>
-<city>Asan, South Korea</city>
-<city>Yachiyo, Japan</city>
-<city>Khimki, Russia</city>
-<city>Saint-etienne, France</city>
-<city>Modena, Italy</city>
-<city>Antsirabe, Madagascar</city>
-<city>Crawley, United Kingdom</city>
-<city>Knoxville (TN), United States</city>
-<city>San Salvador de Jujuy, Argentina</city>
-<city>Newport News (VA), United States</city>
-<city>Icheon, South Korea</city>
-<city>Cotia, Brazil</city>
-<city>Tagum, Philippines</city>
-<city>Bacau, Romania</city>
-<city>Podolsk, Russia</city>
-<city>Nossa Senhora do Socorro, Brazil</city>
-<city>Ube, Japan</city>
-<city>Chapra, India</city>
-<city>Novocherkassk, Russia</city>
-<city>Envigado, Colombia</city>
-<city>Tacloban, Philippines</city>
-<city>Aletai, China</city>
-<city>Almere, Netherlands</city>
-<city>Yingtan, China</city>
-<city>Moreno Valley (CA), United States</city>
-<city>Iquique, Chile</city>
-<city>Nova Friburgo, Brazil</city>
-<city>Salt Lake City (UT), United States</city>
-<city>Hyesan, North Korea</city>
-<city>Jackson (MS), United States</city>
-<city>Botshabelo, South Africa</city>
-<city>Izumi (Osaka), Japan</city>
-<city>Herat, Afghanistan</city>
-<city>Biskra, Algeria</city>
-<city>Mitaka, Japan</city>
-<city>Pasuruan, Indonesia</city>
-<city>MANAMA, Bahrain</city>
-<city>Lemesos, Cyprus</city>
-<city>Providence (RI), United States</city>
-<city>Bielsko-Biala, Poland</city>
-<city>Jessore, Bangladesh</city>
-<city>North Las Vegas (NV), United States</city>
-<city>Hino, Japan</city>
-<city>Ferraz de Vasconcelos, Brazil</city>
-<city>Bharuch, India</city>
-<city>Mangaung, South Africa</city>
-<city>Parma, Italy</city>
-<city>Puerto Cabello, Venezuela</city>
-<city>Los Teques, Venezuela</city>
-<city>Bulandshahr, India</city>
-<city>Riohacha, Colombia</city>
-<city>Barra Mansa, Brazil</city>
-<city>Puerto Montt, Chile</city>
-<city>Kütahya, Turkey</city>
-<city>Worcester (MA), United States</city>
-<city>Sobral, Brazil</city>
-<city>Atirau, Kazakhstan</city>
-<city>Herne, Germany</city>
-<city>Maikop, Russia</city>
-<city>Takoradi, Ghana</city>
-<city>Malolos, Philippines</city>
-<city>Nueva San Salvador, El Salvador</city>
-<city>Turku, Finland</city>
-<city>Sullana, Peru</city>
-<city>Raiganj, India</city>
-<city>La Serena, Chile</city>
-<city>Malkajgiri, India</city>
-<city>Amadora, Portugal</city>
-<city>Kragujevac, Serbia</city>
-<city>Olsztyn, Poland</city>
-<city>Vasai, India</city>
-<city>Phusro, India</city>
-<city>Chlef (Ech Cheliff), Algeria</city>
-<city>Gilbert (AZ), United States</city>
-<city>Imabari, Japan</city>
-<city>Corum, Turkey</city>
-<city>Mülheim an der Ruhr, Germany</city>
-<city>Mangora, Pakistan</city>
-<city>Xilin'haote, China</city>
-<city>Bidar, India</city>
-<city>Burgos, Spain</city>
-<city>Ibirite, Brazil</city>
-<city>Kosti, Sudan</city>
-<city>Miskolc, Hungary</city>
-<city>Chapecó, Brazil</city>
-<city>Arica, Chile</city>
-<city>Hirosaki, Japan</city>
-<city>Kaliningrad (Moskovskaya oblast), Russia</city>
-<city>Bukand, Iran</city>
-<city>Kottayam, India</city>
-<city>Renfrewshire, United Kingdom</city>
-<city>Tomakomai, Japan</city>
-<city>Ontario (CA), United States</city>
-<city>Netanya, Israel</city>
-<city>Tachikawa, Japan</city>
-<city>Chiniot, Pakistan</city>
-<city>Cabo de Santo Agostinho, Brazil</city>
-<city>Castellón de la Plana, Spain</city>
-<city>Khandwa, India</city>
-<city>Nakhodka, Russia</city>
-<city>Pointe-a-Pitre, Guadeloupe</city>
-<city>Beni-Suef, Egypt</city>
-<city>Namdinh, Viet Nam</city>
-<city>Bat Dambang, Cambodia</city>
-<city>Alexandra, South Africa</city>
-<city>Sakura, Japan</city>
-<city>Kamakura, Japan</city>
-<city>Chimoio, Mozambique</city>
-<city>Iseyin, Nigeria</city>
-<city>Tarija, Bolivia</city>
-<city>Iwata, Japan</city>
-<city>Haldia, India</city>
-<city>Temirtau, Kazakhstan</city>
-<city>Francisco Morato, Brazil</city>
-<city>Obihiro, Japan</city>
-<city>Volgodonsk, Russia</city>
-<city>Mutare, Zimbabwe</city>
-<city>Luque, Paraguay</city>
-<city>Sohag, Egypt</city>
-<city>Madiun, Indonesia</city>
-<city>Kabwe, Zambia</city>
-<city>Malappuram, India</city>
-<city>Baharampur, India</city>
-<city>Anjo, Japan</city>
-<city>Pitesti, Romania</city>
-<city>Hugli-Chinsurah, India</city>
-<city>Parnamirim, Brazil</city>
-<city>Moratuwa, Sri Lanka</city>
-<city>Rondonópolis, Brazil</city>
-<city>Breda, Netherlands</city>
-<city>Bhiwani, India</city>
-<city>Rancho Cucamonga (CA), United States</city>
-<city>Rae Bareli, India</city>
-<city>Guarenas, Venezuela</city>
-<city>Ambato, Ecuador</city>
-<city>Malayer, Iran</city>
-<city>Guarapuava, Brazil</city>
-<city>EL AAIUN, Western Sahara</city>
-<city>Matsusaka, Japan</city>
-<city>Aguas Lindas de Goias, Brazil</city>
-<city>Patrai, Greece</city>
-<city>Lages, Brazil</city>
-<city>Bahraich, India</city>
-<city>Qaem shahr, Iran</city>
-<city>Hadano, Japan</city>
-<city>Pathankot, India</city>
-<city>Santa Clarita (CA), United States</city>
-<city>Aurora (IL), United States</city>
-<city>Itajai, Brazil</city>
-<city>Ussuriisk, Russia</city>
-<city>Geoje, South Korea</city>
-<city>Ambala, India</city>
-<city>Arad, Romania</city>
-<city>SUVA, Fiji</city>
-<city>Coquimbo, Chile</city>
-<city>Baranovichi, Belarus</city>
-<city>Bidhan Nagar, India</city>
-<city>Miass, Russia</city>
-<city>Takaoka, Japan</city>
-<city>Berezniki, Russia</city>
-<city>Brownsville (TX), United States</city>
-<city>Fort Lauderdale (FL), United States</city>
-<city>Ishinomaki, Japan</city>
-<city>Coro, Venezuela</city>
-<city>Khoy, Iran</city>
-<city>Chirala, India</city>
-<city>Wigan, United Kingdom</city>
-<city>Biratnagar, Nepal</city>
-<city>Holon, Israel</city>
-<city>Comilla, Bangladesh</city>
-<city>Huntsville (AL), United States</city>
-<city>Oceanside (CA), United States</city>
-<city>Mango, India</city>
-<city>Garden Grove (CA), United States</city>
-<city>Palangkaraya, Indonesia</city>
-<city>Hebron, Palestine, Occupied Territory</city>
-<city>Aktau, Kazakhstan</city>
-<city>Amersfoort, Netherlands</city>
-<city>Geelong, Australia</city>
-<city>Al-Khubar, Saudi Arabia</city>
-<city>Cabo Frio, Brazil</city>
-<city>Solingen, Germany</city>
-<city>Qarchak, Iran</city>
-<city>Fianarantsoa, Madagascar</city>
-<city>Tsu, Japan</city>
-<city>Chingola, Zambia</city>
-<city>Proddatur, India</city>
-<city>Amroha, India</city>
-<city>Overland Park (KS), United States</city>
-<city>Sherbrooke, Canada</city>
-<city>Alcorcón, Spain</city>
-<city>Tongjiang, China</city>
-<city>Osnabrück, Germany</city>
-<city>Alor Setar, Malaysia</city>
-<city>Corlu, Turkey</city>
-<city>Germiston, South Africa</city>
-<city>Szeged, Hungary</city>
-<city>Ciudad Delgado, El Salvador</city>
-<city>Chardzhou, Turkmenistan</city>
-<city>Tumaco, Colombia</city>
-<city>Fontana (CA), United States</city>
-<city>Cotabato, Philippines</city>
-<city>Ludwigshafen am Rhein, Germany</city>
-<city>Sultan Pur Majra, India</city>
-<city>Gombe, Nigeria</city>
-<city>Abakan, Russia</city>
-<city>Ålborg, Denmark</city>
-<city>Qui Nhon, Viet Nam</city>
-<city>Springs, South Africa</city>
-<city>Hospet, India</city>
-<city>Rzeszów, Poland</city>
-<city>Gondar, Ethiopia</city>
-<city>Bitung, Indonesia</city>
-<city>Lalitpur, Nepal</city>
-<city>Plzen, Czech Republic</city>
-<city>Mytishchi, Russia</city>
-<city>Itapecerica da Serra, Brazil</city>
-<city>Chandan Nagar, India</city>
-<city>Sudbury, Canada</city>
-<city>Puerto Princesa, Philippines</city>
-<city>Abbotsford, Canada</city>
-<city>Perugia, Italy</city>
-<city>Ayacucho, Peru</city>
-<city>Albacete, Spain</city>
-<city>Roi Et, Thailand</city>
-<city>Tempe (AZ), United States</city>
-<city>Adoni, India</city>
-<city>Leverkusen, Germany</city>
-<city>Kumbakonam, India</city>
-<city>Macae, Brazil</city>
-<city>Salatiga, Indonesia</city>
-<city>Toulon, France</city>
-<city>Livorno, Italy</city>
-<city>Ciudad Del Carmen, Mexico</city>
-<city>Bhadravati, India</city>
-<city>Kota Kinabalu, Malaysia</city>
-<city>Trondheim, Norway</city>
-<city>Oyama, Japan</city>
-<city>Sirsa, India</city>
-<city>Jaunpur, India</city>
-<city>s-Hertogenbosch, Netherlands</city>
-<city>Cagliari, Italy</city>
-<city>Ashikaga, Japan</city>
-<city>Salamanca, Spain</city>
-<city>Kanchanaburi, Thailand</city>
-<city>Jiayuguan, China</city>
-<city>Nijmegen, Netherlands</city>
-<city>Kapra, India</city>
-<city>Melitopol, Ukraine</city>
-<city>Haldwani-cum-Kathgodam, India</city>
-<city>Effon-Alaiye, Nigeria</city>
-<city>Dayton (OH), United States</city>
-<city>Lyubertsy, Russia</city>
-<city>Narashino, Japan</city>
-<city>West Lothian, United Kingdom</city>
-<city>Iskenderun, Turkey</city>
-<city>El Djelfa, Algeria</city>
-<city>Reggio nell'Emilia, Italy</city>
-<city>Cuddalore, India</city>
-<city>Tallahassee (FL), United States</city>
-<city>Castanhal, Brazil</city>
-<city>Pervouralsk, Russia</city>
-<city>Nacala, Mozambique</city>
-<city>Warrington, United Kingdom</city>
-<city>Pangkal Pinang, Indonesia</city>
-<city>Mansfield, United Kingdom</city>
-<city>Sayama, Japan</city>
-<city>Rubtsovsk, Russia</city>
-<city>Dinajpur, Bangladesh</city>
-<city>Isparta, Turkey</city>
-<city>Veraval, India</city>
-<city>Kawanishi, Japan</city>
-<city>Tunja, Colombia</city>
-<city>Zanzibar, Tanzania</city>
-<city>Puri, India</city>
-<city>Rousse, Bulgaria</city>
-<city>Vancouver (WA), United States</city>
-<city>Genhe, China</city>
-<city>Owo, Nigeria</city>
-<city>Legasp, Philippines</city>
-<city>Robertson Pet, India</city>
-<city>Talcahuano, Chile</city>
-<city>Ngaoundere, Cameroon</city>
-<city>Shebin-El-Kom, Egypt</city>
-<city>Sandakan, Malaysia</city>
-<city>Salavat, Russia</city>
-<city>Salalah, Oman</city>
-<city>Portmore, Jamaica</city>
-<city>Surendranagar Dudhrej, India</city>
-<city>Pecs, Hungary</city>
-<city>Getafe, Spain</city>
-<city>Pokhara, Nepal</city>
-<city>Baleshwar, India</city>
-<city>Tlemcen (Tilimsen), Algeria</city>
-<city>Nandyal, India</city>
-<city>Ado-Ekiti, Nigeria</city>
-<city>Itu, Brazil</city>
-<city>Apeldoorn, Netherlands</city>
-<city>Madhyamgram, India</city>
-<city>Swindon, United Kingdom</city>
-<city>Kena, Egypt</city>
-<city>Maraqeh, Iran</city>
-<city>Urayasu, Japan</city>
-<city>Ruili, China</city>
-<city>Kingston, Canada</city>
-<city>Gadag-Betgeri, India</city>
-<city>Bogra, Bangladesh</city>
-<city>Chattanooga (TN), United States</city>
-<city>Pocos de Caldas, Brazil</city>
-<city>Capiata, Paraguay</city>
-<city>Sibiu, Romania</city>
-<city>Enschede, Netherlands</city>
-<city>Tebessa, Algeria</city>
-<city>Ormoc, Philippines</city>
-<city>San Carlos (Pangasinan), Philippines</city>
-<city>Oldenburg, Germany</city>
-<city>Kirari Suleman Nagar, India</city>
-<city>Kerch, Ukraine</city>
-<city>Pomona (CA), United States</city>
-<city>Bhind, India</city>
-<city>Luxer, Egypt</city>
-<city>Hitachinaka, Japan</city>
-<city>Chhindwara, India</city>
-<city>Foggia, Italy</city>
-<city>Skikda, Algeria</city>
-<city>Grenoble, France</city>
-<city>Mutrah, Oman</city>
-<city>Medinipur, India</city>
-<city>Niiza, Japan</city>
-<city>Santa Rosa (CA), United States</city>
-<city>Karur, India</city>
-<city>Leskovac, Serbia</city>
-<city>Chillan, Chile</city>
-<city>Chittoor, India</city>
-<city>Fukang, China</city>
-<city>Ongole, India</city>
-<city>Aydin, Turkey</city>
-<city>Rockford (IL), United States</city>
-<city>Mbeya, Tanzania</city>
-<city>Mahajanga, Madagascar</city>
-<city>Nagareyama, Japan</city>
-<city>Shunan, Japan</city>
-<city>Kamoke, Pakistan</city>
-<city>Nawabganj, Bangladesh</city>
-<city>Quetzaltenango, Guatemala</city>
-<city>Chicoutimi-Jonquiere, Canada</city>
-<city>Burewala, Pakistan</city>
-<city>Enakievo (Yenakievo), Ukraine</city>
-<city>Nong Bua Lam Phu, Thailand</city>
-<city>Sitapur, India</city>
-<city>Fatehpur, India</city>
-<city>Springfield (MA), United States</city>
-<city>Chaiyaphum, Thailand</city>
-<city>Makurdi, Nigeria</city>
-<city>Bhalswa Jahangir Pur, India</city>
-<city>Angers, France</city>
-<city>Kovrov, Russia</city>
-<city>Noda, Japan</city>
-<city>Ogaki, Japan</city>
-<city>Teresópolis, Brazil</city>
-<city>Morena, India</city>
-<city>Serilingampalle, India</city>
-<city>Nilópolis, Brazil</city>
-<city>Bawshar, Oman</city>
-<city>Bushehr, Iran</city>
-<city>Pembroke Pines (FL), United States</city>
-<city>Nangloi Jat, India</city>
-<city>Camaragibe, Brazil</city>
-<city>Springfield (MO), United States</city>
-<city>Uttarpara Kotrung, India</city>
-<city>Dijon, France</city>
-<city>Quelimane, Mozambique</city>
-<city>Ravenna, Italy</city>
-<city>Sebha, Libya</city>
-<city>Paterson (NJ), United States</city>
-<city>Tenali, India</city>
-<city>Burnley/Nelson, United Kingdom</city>
-<city>Borisov, Belarus</city>
-<city>Kabankalan, Philippines</city>
-<city>Neuss, Germany</city>
-<city>Margilan, Uzbekistan</city>
-<city>Phetchaburi, Thailand</city>
-<city>Hatay, Turkey</city>
-<city>Yonago, Japan</city>
-<city>Las Tunas, Cuba</city>
-<city>Brest, France</city>
-<city>Corona (CA), United States</city>
-<city>Potosi, Bolivia</city>
-<city>Siverek, Turkey</city>
-<city>Tacheng, China</city>
-<city>Townsville, Australia</city>
-<city>Jequie, Brazil</city>
-<city>Balti, Moldova</city>
-<city>PORT LOUIS, Mauritius</city>
-<city>Tiaert, Algeria</city>
-<city>Salem (OR), United States</city>
-<city>Krishnanagar, India</city>
-<city>Iruma, Japan</city>
-<city>Karawal Nagar, India</city>
-<city>Salzburg, Austria</city>
-<city>Saqez, Iran</city>
-<city>Hoshiarpur, India</city>
-<city>Budaun, India</city>
-<city>Leninakan(Gyumzi), Armenia</city>
-<city>Kolomna, Russia</city>
-<city>Saint Louis, Senegal</city>
-<city>Paranagua, Brazil</city>
-<city>Gimcheon, South Korea</city>
-<city>Dumfries and Galloway, United Kingdom</city>
-<city>Batala, India</city>
-<city>Formosa, Argentina</city>
-<city>Chanthaburi, Thailand</city>
-<city>Moriguchi, Japan</city>
-<city>Phetchabun, Thailand</city>
-<city>Jhelum, Pakistan</city>
-<city>Calbayog, Philippines</city>
-<city>Komaki, Japan</city>
-<city>Umuahia, Nigeria</city>
-<city>Logroño, Spain</city>
-<city>Shivapuri, India</city>
-<city>Prachuap Khiri Khan, Thailand</city>
-<city>Pesterion, Greece</city>
-<city>Cartago, Costa Rica</city>
-<city>Bene Beraq, Israel</city>
-<city>Tirgu-Mures, Romania</city>
-<city>Salinas (CA), United States</city>
-<city>Izumo, Japan</city>
-<city>Florencia (Caqueta), Colombia</city>
-<city>Bayamo, Cuba</city>
-<city>Subotica, Serbia</city>
-<city>Alandur, India</city>
-<city>Lauro de Freitas, Brazil</city>
-<city>Timon, Brazil</city>
-<city>Elektrostal, Russia</city>
-<city>Ondo, Nigeria</city>
-<city>Le Mans, France</city>
-<city>Ruda Slaska, Poland</city>
-<city>Tama, Japan</city>
-<city>Salamanca, Mexico</city>
-<city>Zenica, Bosnia and Herzegovina</city>
-<city>Gorontalo, Indonesia</city>
-<city>Jinggangshan, China</city>
-<city>Huelva, Spain</city>
-<city>Usak, Turkey</city>
-<city>Belovo, Russia</city>
-<city>Dundee, United Kingdom</city>
-<city>Valsad, India</city>
-<city>Hollywood (FL), United States</city>
-<city>Hampton (VA), United States</city>
-<city>Tanjung Balai, Indonesia</city>
-<city>Copiapó, Chile</city>
-<city>St. Gallen, Switzerland</city>
-<city>Koga, Japan</city>
-<city>Ar'ar, Saudi Arabia</city>
-<city>Falkirk, United Kingdom</city>
-<city>Ranaghat, India</city>
-<city>Vungtau, Viet Nam</city>
-<city>Quilpue, Chile</city>
-<city>Ilopango, El Salvador</city>
-<city>Higashimurayama, Japan</city>
-<city>Unnao, India</city>
-<city>Calama, Chile</city>
-<city>Viransehir, Turkey</city>
-<city>Parakou, Benin</city>
-<city>Shimla, India</city>
-<city>Eugene (OR), United States</city>
-<city>Bejaïa, Algeria</city>
-<city>Sadiqabad, Pakistan</city>
-<city>Caxias, Brazil</city>
-<city>Grand Prairie (TX), United States</city>
-<city>Barrackpur, India</city>
-<city>Kansas City (KS), United States</city>
-<city>Kakamigahara, Japan</city>
-<city>Angra dos Reis, Brazil</city>
-<city>Rijeka, Croatia</city>
-<city>Isahaya, Japan</city>
-<city>Luanshya, Zambia</city>
-<city>Pallavaram, India</city>
-<city>Pasadena (TX), United States</city>
-<city>Badajoz, Spain</city>
-<city>Pindamonhangaba, Brazil</city>
-<city>Pasadena (CA), United States</city>
-<city>Rajnandgaon, India</city>
-<city>Jecheon (Chechon), South Korea</city>
-<city>Arnhem, Netherlands</city>
-<city>Parnaiba, Brazil</city>
-<city>Braganca Paulista, Brazil</city>
-<city>Seosan, South Korea</city>
-<city>Itapetininga, Brazil</city>
-<city>Balurghat, India</city>
-<city>Oxford, United Kingdom</city>
-<city>Caguas, Puerto Rico</city>
-<city>Huanuco, Peru</city>
-<city>Trois-Rivieres, Canada</city>
-<city>Pagadian, Philippines</city>
-<city>Khoramshahr, Iran</city>
-<city>Cienfuegos, Cuba</city>
-<city>Tsuruoka, Japan</city>
-<city>Torrance (CA), United States</city>
-<city>Ede, Nigeria</city>
-<city>Ome, Japan</city>
-<city>Osorno, Chile</city>
-<city>Otaru, Japan</city>
-<city>San Cristóbal de La Laguna, Spain</city>
-<city>Kariya, Japan</city>
-<city>Bheemavaram, India</city>
-<city>Yavatmal, India</city>
-<city>Cadiz, Philippines</city>
-<city>Ilam, Iran</city>
-<city>Damaturu, Nigeria</city>
-<city>Al-Fasher, Sudan</city>
-<city>Slough, United Kingdom</city>
-<city>Almetievsk, Russia</city>
-<city>Chirchik, Uzbekistan</city>
-<city>Jimeta, Nigeria</city>
-<city>Bago, Philippines</city>
-<city>Syracuse (NY), United States</city>
-<city>Ipswich, United Kingdom</city>
-<city>Dessie, Ethiopia</city>
-<city>Naperville (IL), United States</city>
-<city>Moji-Guacu, Brazil</city>
-<city>Stara Zagora, Bulgaria</city>
-<city>Aksaray, Turkey</city>
+	<city>TOKYO, Japan</city>
+	<city>JAKARTA, Indonesia</city>
+	<city>New York (NY), United States</city>
+	<city>SEOUL, South Korea</city>
+	<city>MANILA, Philippines</city>
+	<city>Mumbai (Bombay), India</city>
+	<city>Sao Paulo, Brazil</city>
+	<city>MEXICO CITY, Mexico</city>
+	<city>Delhi, India</city>
+	<city>Osaka, Japan</city>
+	<city>CAIRO, Egypt</city>
+	<city>Kolkata (Calcutta), India</city>
+	<city>Los Angeles (CA), United States</city>
+	<city>Shanghai, China</city>
+	<city>MOSCOW, Russia</city>
+	<city>BEIJING (PEKING), China</city>
+	<city>BUENOS AIRES, Argentina</city>
+	<city>Guangzhou, China</city>
+	<city>Shenzhen, China</city>
+	<city>Istanbul, Turkey</city>
+	<city>Rio de Janeiro, Brazil</city>
+	<city>PARIS, France</city>
+	<city>Karachi, Pakistan</city>
+	<city>Nagoya, Japan</city>
+	<city>Chicago (IL), United States</city>
+	<city>Lagos, Nigeria</city>
+	<city>LONDON, United Kingdom</city>
+	<city>BANGKOK, Thailand</city>
+	<city>KINSHASA, Dem Rep of Congo </city>
+	<city>TEHRAN, Iran</city>
+	<city>LIMA, Peru</city>
+	<city>Dongguan, China</city>
+	<city>BOGOTA, Colombia</city>
+	<city>Chennai (Madras), India</city>
+	<city>DHAKA, Bangladesh</city>
+	<city>Essen, Germany</city>
+	<city>Tianjin (Tientsin), China</city>
+	<city>HONG KONG, China</city>
+	<city>Taipei, Taiwan</city>
+	<city>Lahore, Pakistan</city>
+	<city>Ho Chi Minh City (Saigon), Viet Nam</city>
+	<city>Bangalore, India</city>
+	<city>Hyderabad, India</city>
+	<city>Johannesburg, South Africa</city>
+	<city>BAGHDAD, Iraq</city>
+	<city>Toronto, Canada</city>
+	<city>SANTIAGO, Chile</city>
+	<city>KUALA LUMPUR, Malaysia</city>
+	<city>San Francisco (CA), United States</city>
+	<city>Philadelphia (PA), United States</city>
+	<city>Wuhan, China</city>
+	<city>Miami (FL), United States</city>
+	<city>Dallas (TX), United States</city>
+	<city>MADRID, Spain</city>
+	<city>Ahmedabad, India</city>
+	<city>Boston (MA), United States</city>
+	<city>Belo Horizonte, Brazil</city>
+	<city>KHARTOUM, Sudan</city>
+	<city>Saint Petersburg (Leningrad), Russia</city>
+	<city>Shenyang, China</city>
+	<city>Houston (TX), United States</city>
+	<city>Pune, India</city>
+	<city>RIYADH, Saudi Arabia</city>
+	<city>SINGAPORE, Singapore</city>
+	<city>WASHINGTON (DC), United States</city>
+	<city>Yangon , Myanmar </city>
+	<city>Milan (Milano), Italy</city>
+	<city>Atlanta (GA), United States</city>
+	<city>Chongqing, China</city>
+	<city>Alexandria, Egypt</city>
+	<city>Nanjing (Nanking) , China</city>
+	<city>Guadalajara, Mexico</city>
+	<city>Barcelona, Spain</city>
+	<city>Chengdu, China</city>
+	<city>Detroit (MI), United States</city>
+	<city>ANKARA, Turkey</city>
+	<city>Abidjan, Cote d'Ivoire</city>
+	<city>ATHENS, Greece</city>
+	<city>BERLIN, Germany</city>
+	<city>Sydney, Australia</city>
+	<city>Monterrey, Mexico</city>
+	<city>Phoenix (AZ), United States</city>
+	<city>Busan (Pusan), South Korea</city>
+	<city>Recife, Brazil</city>
+	<city>Bandung, Indonesia</city>
+	<city>Porto Alegre, Brazil</city>
+	<city>Melbourne, Australia</city>
+	<city>LUANDA, Angola</city>
+	<city>Hangzhou (Hangchow) , China</city>
+	<city>ALGIERS, Algeria</city>
+	<city>Ha Noi (HANOI), Viet Nam</city>
+	<city>Montreal, Canada</city>
+	<city>Xi'an (Sian) , China</city>
+	<city>PYONGYANG, North Korea</city>
+	<city>Qingdao (Tsingtao) , China</city>
+	<city>Surat, India</city>
+	<city>Fortaleza, Brazil</city>
+	<city>Medellin, Colombia</city>
+	<city>Durban, South Africa</city>
+	<city>Kanpur, India</city>
+	<city>ADDIS ABABA, Ethiopia</city>
+	<city>NAIROBI, Kenya</city>
+	<city>Jeddah (Jiddah), Saudi Arabia</city>
+	<city>Naples (Napoli), Italy</city>
+	<city>KABUL, Afghanistan</city>
+	<city>Salvador, Brazil</city>
+	<city>Harbin (Haerbin), China</city>
+	<city>Kano, Nigeria</city>
+	<city>Casablanca (Dar-el-Beida), Morocco</city>
+	<city>CAPE TOWN, South Africa</city>
+	<city>Curitiba, Brazil</city>
+	<city>Surabaya, Indonesia</city>
+	<city>San Diego (CA), United States</city>
+	<city>Seattle (WA), United States</city>
+	<city>ROME, Italy</city>
+	<city>Dar es Salaam, Tanzania</city>
+	<city>Taichung, China</city>
+	<city>Jaipur, India</city>
+	<city>CARACAS, Venezuela</city>
+	<city>DAKAR, Senegal</city>
+	<city>Kaohsiung, China</city>
+	<city>Minneapolis (MN), United States</city>
+	<city>Lucknow, India</city>
+	<city>AMMAN, Jordan</city>
+	<city>Tel Aviv-Yafo, Israel</city>
+	<city>Guayaquil, Ecuador</city>
+	<city>KYIV (KIEV), Ukraine</city>
+	<city>Faisalabad (Lyallpur), Pakistan</city>
+	<city>Mashhad, Iran</city>
+	<city>Izmir, Turkey</city>
+	<city>Rawalpindi, Pakistan</city>
+	<city>TASHKENT, Uzbekistan</city>
+	<city>Katowice, Poland</city>
+	<city>Changchun, China</city>
+	<city>Campinas, Brazil</city>
+	<city>Daegu (Taegu), South Korea</city>
+	<city>Changsha, China</city>
+	<city>Nagpur, India</city>
+	<city>San Juan, Philippines</city>
+	<city>Aleppo, Syria</city>
+	<city>LISBON, Portugal</city>
+	<city>Frankfurt am Main, Germany</city>
+	<city>Nanchang, China</city>
+	<city>Birmingham[] , United Kingdom </city>
+	<city>Tampa (FL), United States</city>
+	<city>Medan, Indonesia</city>
+	<city>Dalian, China</city>
+	<city>TUNIS, Tunisia</city>
+	<city>Shijiazhuang, China</city>
+	<city>Manchester, United Kingdom</city>
+	<city>PORT-AU-PRINCE, Haiti</city>
+	<city>DAMASCUS, Syria</city>
+	<city>Ji'nan, China</city>
+	<city>Fukuoka, Japan</city>
+	<city>SANTO DOMINGO, Dominican Republic</city>
+	<city>HAVANA, Cuba</city>
+	<city>Cali, Colombia</city>
+	<city>Denver (CO), United States</city>
+	<city>St. Louis (MO), United States</city>
+	<city>Colombo, Brazil</city>
+	<city>Dubai, United Arab Emirates</city>
+	<city>Baltimore (MD), United States</city>
+	<city>Sapporo, Japan</city>
+	<city>Rotterdam, Netherlands</city>
+	<city>Vancouver, Canada</city>
+	<city>Preston, United Kingdom</city>
+	<city>Patna, India</city>
+	<city>SANA'A, Yemen</city>
+	<city>WARSAW, Poland</city>
+	<city>Bonn, Germany</city>
+	<city>ACCRA, Ghana</city>
+	<city>BUCHAREST, Romania</city>
+	<city>Yokohama, Japan</city>
+	<city>Kunming, China</city>
+	<city>Guiyang, China</city>
+	<city>Zibo, China</city>
+	<city>Incheon, South Korea</city>
+	<city>Zhengzhou, China</city>
+	<city>Taiyuan, China</city>
+	<city>Chaoyang (Guangdong), China</city>
+	<city>BRASILIA, Brazil</city>
+	<city>Zhongshan, China</city>
+	<city>West Midlands, United Kingdom</city>
+	<city>Giza, Egypt</city>
+	<city>Quezon City, Philippines</city>
+	<city>Nanhai, China</city>
+	<city>Fuzhou (Fujian), China</city>
+	<city>Lanzhou, China</city>
+	<city>Xiamen, China</city>
+	<city>Chittagong, Bangladesh</city>
+	<city>Zaozhuang, China</city>
+	<city>Jilin, China</city>
+	<city>Linyi, China</city>
+	<city>Wenzhou, China</city>
+	<city>STOCKHOLM, Sweden</city>
+	<city>Puebla de Zaragoza, Mexico</city>
+	<city>Puning, China</city>
+	<city>BAKU, Azerbaijan</city>
+	<city>Ibadan, Nigeria</city>
+	<city>Brisbane, Australia</city>
+	<city>MINSK, Belarus</city>
+	<city>Sikasso, Mali</city>
+	<city>Nanchong, China</city>
+	<city>Nanning, China</city>
+	<city>Urumqi, China</city>
+	<city>Yantai, China</city>
+	<city>Fuyang (Zhejiang), China</city>
+	<city>Tangshan, China</city>
+	<city>Maracaibo, Venezuela</city>
+	<city>Hamburg, Germany</city>
+	<city>BUDAPEST, Hungary</city>
+	<city>Shunde, China</city>
+	<city>Manaus, Brazil</city>
+	<city>Xuzhou, China</city>
+	<city>Segou, Mali</city>
+	<city>Baotou, China</city>
+	<city>Hefei, China</city>
+	<city>VIENNA, Austria</city>
+	<city>Indore, India</city>
+	<city>ASUNCION, Paraguay</city>
+	<city>Tianmen, China</city>
+	<city>BELGRADE, Serbia</city>
+	<city>Suzhou (Anhui), China</city>
+	<city>Suizhou, China</city>
+	<city>Nanyang, China</city>
+	<city>Nakuru, Kenya</city>
+	<city>Koulikoro, Mali</city>
+	<city>Ningbo, China</city>
+	<city>Liuan, China</city>
+	<city>Anshan, China</city>
+	<city>Tengzhou, China</city>
+	<city>Qiqihaer, China</city>
+	<city>Pizhou, China</city>
+	<city>Taian, China</city>
+	<city>Datong, China</city>
+	<city>Kobe, Japan</city>
+	<city>Hama, Syria</city>
+	<city>Esfahan, Iran</city>
+	<city>TRIPOLI, Libya</city>
+	<city>West Yorkshire, United Kingdom</city>
+	<city>Vadodara, India</city>
+	<city>Taizhou (Zhejiang), China</city>
+	<city>Luoyang, China</city>
+	<city>QUITO, Ecuador</city>
+	<city>Jinjiang, China</city>
+	<city>Mopti, Mali</city>
+	<city>Perth, Australia</city>
+	<city>Daejeon (Taejon), South Korea</city>
+	<city>Kyoto, Japan</city>
+	<city>Xiantao, China</city>
+	<city>Tangerang, Indonesia</city>
+	<city>Bhopal, India</city>
+	<city>Coimbatore, India</city>
+	<city>Kharkiv, Ukraine</city>
+	<city>Gwangju (Kwangchu), South Korea</city>
+	<city>Xinghua, China</city>
+	<city>HARARE, Zimbabwe</city>
+	<city>Fushun, China</city>
+	<city>Shangqiu, China</city>
+	<city>Belem, Brazil</city>
+	<city>Wuxi, China</city>
+	<city>Hechuan, China</city>
+	<city>Wujin, China</city>
+	<city>Guigang, China</city>
+	<city>Jianyang (Sichuan), China</city>
+	<city>Huhehaote, China</city>
+	<city>Santa Cruz, Bolivia</city>
+	<city>Semarang, Indonesia</city>
+	<city>Ludhiana, India</city>
+	<city>Novosibirsk, Russia</city>
+	<city>Neijiang, China</city>
+	<city>MAPUTO, Mozambique</city>
+	<city>Nan'an, China</city>
+	<city>Douala, Cameroon</city>
+	<city>Weifang, China</city>
+	<city>Daqing, China</city>
+	<city>Kayes, Mali</city>
+	<city>Tongzhou, China</city>
+	<city>Tabriz, Iran</city>
+	<city>Homs, Syria</city>
+	<city>Rugao, China</city>
+	<city>Guiping, China</city>
+	<city>Huainan, China</city>
+	<city>Kochi, India</city>
+	<city>Suining, China</city>
+	<city>Bozhou, China</city>
+	<city>Zhanjiang, China</city>
+	<city>Changde, China</city>
+	<city>MONTEVIDEO, Uruguay</city>
+	<city>Suzhou (Jiangsu), China</city>
+	<city>Xintai, China</city>
+	<city>Ekaterinoburg, Russia</city>
+	<city>Juarez, Mexico</city>
+	<city>Handan, China</city>
+	<city>Visakhapatnam, India</city>
+	<city>Kawasaki, Japan</city>
+	<city>Jiangjin, China</city>
+	<city>Pingdu, China</city>
+	<city>Agra, India</city>
+	<city>Jiangyin, China</city>
+	<city>Tijuana, Mexico</city>
+	<city>Liuyang, China</city>
+	<city>Bursa, Turkey</city>
+	<city>Al-Hasakeh, Syria</city>
+	<city>Makkah, Saudi Arabia</city>
+	<city>YAOUNDE, Cameroon</city>
+	<city>Xuanwei, China</city>
+	<city>Dengzhou, China</city>
+	<city>Palembang, Indonesia</city>
+	<city>Nizhny Novgorod, Russia</city>
+	<city>Leon (de los Aldama), Mexico</city>
+	<city>Guarulhos, Brazil</city>
+	<city>Heze, China</city>
+	<city>Auckland, New Zealand</city>
+	<city>Omdurman, Sudan</city>
+	<city>Shantou, China</city>
+	<city>Leizhou, China</city>
+	<city>Yongcheng, China</city>
+	<city>Valencia, Venezuela</city>
+	<city>Thane, India</city>
+	<city>San Antonio (TX), United States</city>
+	<city>Xinyang, China</city>
+	<city>Luzhou, China</city>
+	<city>Almaty, Kazakhstan</city>
+	<city>Changshu, China</city>
+	<city>Taixing, China</city>
+	<city>PHNOM PENH, Cambodia</city>
+	<city>Laiwu, China</city>
+	<city>Xiaoshan, China</city>
+	<city>Yiyang, China</city>
+	<city>Goiania, Brazil</city>
+	<city>Liuzhou, China</city>
+	<city>Gaozhou, China</city>
+	<city>Fengcheng (Jiangxi), China</city>
+	<city>Cixi, China</city>
+	<city>Karaj, Iran</city>
+	<city>MOGADISHU, Somalia</city>
+	<city>Varanasi, India</city>
+	<city>Cordoba, Argentina</city>
+	<city>KAMPALA, Uganda</city>
+	<city>Ruian, China</city>
+	<city>Lianjiang, China</city>
+	<city>Huaian, China</city>
+	<city>Shiraz, Iran</city>
+	<city>Multan, Pakistan</city>
+	<city>Madurai, India</city>
+	<city>Munchen, Germany</city>
+	<city>Kalyan, India</city>
+	<city>Quanzhou, China</city>
+	<city>Adana, Turkey</city>
+	<city>Bazhong, China</city>
+	<city>Fes, Morocco</city>
+	<city>OUAGADOUGOU, Burkina Faso</city>
+	<city>Haicheng, China</city>
+	<city>Xishan, China</city>
+	<city>Leiyang, China</city>
+	<city>Caloocan, Philippines</city>
+	<city>Kalookan (Caloocan), Philippines</city>
+	<city>Jingzhou, China</city>
+	<city>Saitama, Japan</city>
+	<city>PRAGUE, Czech Republic</city>
+	<city>Fuqing, China</city>
+	<city>Kumasi, Ghana</city>
+	<city>Meerut, India</city>
+	<city>Hyderabad, Pakistan</city>
+	<city>Lufeng, China</city>
+	<city>Dongtai, China</city>
+	<city>Yixing, China</city>
+	<city>Mianyang, China</city>
+	<city>Wenling, China</city>
+	<city>Leqing, China</city>
+	<city>OTTAWA, Canada</city>
+	<city>Yushu, China</city>
+	<city>Barranquilla, Colombia</city>
+	<city>Hiroshima, Japan</city>
+	<city>Chifeng, China</city>
+	<city>Nashik, India</city>
+	<city>Makasar (Ujung Pandang), Indonesia</city>
+	<city>SOFIA, Bulgaria</city>
+	<city>Rizhao, China</city>
+	<city>Davao, Philippines</city>
+	<city>Tianshui, China</city>
+	<city>Huzhou, China</city>
+	<city>Samara (Samarskaya oblast), Russia</city>
+	<city>Omsk, Russia</city>
+	<city>Gujranwala, Pakistan</city>
+	<city>Adelaide, Australia</city>
+	<city>Macheng, China</city>
+	<city>Wuxian, China</city>
+	<city>Bijie, China</city>
+	<city>Yuzhou, China</city>
+	<city>Leshan, China</city>
+	<city>La Matanza, Argentina</city>
+	<city>Rosario, Argentina</city>
+	<city>Jabalpur, India</city>
+	<city>Kazan, Russia</city>
+	<city>Jimo, China</city>
+	<city>Dingzhou, China</city>
+	<city>Calgary, Canada</city>
+	<city>YEREVAN, Armenia</city>
+	<city>El-Jadida, Morocco</city>
+	<city>Jamshedpur, India</city>
+	<city>Zurich, Switzerland</city>
+	<city>Zoucheng, China</city>
+	<city>Pikine-Guediawaye, Senegal</city>
+	<city>Anqiu, China</city>
+	<city>Guang'an, China</city>
+	<city>Chelyabinsk, Russia</city>
+	<city>CONAKRY, Guinea</city>
+	<city>Asansol, India</city>
+	<city>Shouguang, China</city>
+	<city>Changzhou, China</city>
+	<city>Ulsan, South Korea</city>
+	<city>Zhuji, China</city>
+	<city>Toluca (de Lerdo), Mexico</city>
+	<city>Marrakech, Morocco</city>
+	<city>Dhanbad, India</city>
+	<city>TBILISI, Georgia</city>
+	<city>Hanchuan, China</city>
+	<city>LUSAKA, Zambia</city>
+	<city>Qidong, China</city>
+	<city>Faridabad, India</city>
+	<city>Zaoyang, China</city>
+	<city>Zhucheng, China</city>
+	<city>Rostov-na-Donu, Russia</city>
+	<city>Jiangdu, China</city>
+	<city>Xiangcheng, China</city>
+	<city>Zigong, China</city>
+	<city>Jining (Shandong), China</city>
+	<city>Edmonton, Canada</city>
+	<city>Allahabad, India</city>
+	<city>Beiliu, China</city>
+	<city>Dnipropetrovsk, Ukraine</city>
+	<city>Gongzhuling, China</city>
+	<city>Qinzhou, China</city>
+	<city>Ufa, Russia</city>
+	<city>Sendai, Japan</city>
+	<city>Volgograd, Russia</city>
+	<city>Ezhou, China</city>
+	<city>GUATEMALA CITY, Guatemala</city>
+	<city>Zhongxiang, China</city>
+	<city>AMSTERDAM, Netherlands</city>
+	<city>BRUSSELS, Belgium</city>
+	<city>BAMAKO, Mali</city>
+	<city>Ziyang, China</city>
+	<city>ANTANANARIVO, Madagascar</city>
+	<city>Mudanjiang, China</city>
+	<city>Amritsar, India</city>
+	<city>Vijayawada, India</city>
+	<city>Haora (Howrah), India</city>
+	<city>Donetsk (Donestskaya oblast), Ukraine</city>
+	<city>Huazhou, China</city>
+	<city>Fuzhou (Jiangxi), China</city>
+	<city>Pimpri Chinchwad, India</city>
+	<city>DUBLIN, Ireland</city>
+	<city>Rajkot, India</city>
+	<city>Sao Luis, Brazil</city>
+	<city>Beni-Mellal, Morocco</city>
+	<city>Lianyuan, China</city>
+	<city>Liupanshui, China</city>
+	<city>Kaduna, Nigeria</city>
+	<city>Kitakyushu, Japan</city>
+	<city>Qianjiang, China</city>
+	<city>Perm, Russia</city>
+	<city>Odessa, Ukraine</city>
+	<city>Qom, Iran</city>
+	<city>Yongchuan, China</city>
+	<city>Peshawar, Pakistan</city>
+	<city>Linzhou, China</city>
+	<city>Benxi, China</city>
+	<city>ULAANBAATAR, Mongolia</city>
+	<city>Zhangqiu, China</city>
+	<city>Yongzhou, China</city>
+	<city>Sao Goncalo, Brazil</city>
+	<city>Srinagar, India</city>
+	<city>Ghaziabad, India</city>
+	<city>Xinyi (Jiangsu), China</city>
+	<city>Koln, Germany</city>
+	<city>Zhangjiagang, China</city>
+	<city>Wafangdian, China</city>
+	<city>Xianyang, China</city>
+	<city>Liaocheng, China</city>
+	<city>Ahwaz, Iran</city>
+	<city>Taishan, China</city>
+	<city>Linhai, China</city>
+	<city>Feicheng, China</city>
+	<city>Suwon (Puwan), South Korea</city>
+	<city>Wuwei, China</city>
+	<city>Haimen, China</city>
+	<city>San Luis Potosi, Mexico</city>
+	<city>Liling, China</city>
+	<city>Xinhui, China</city>
+	<city>Gaziantep, Turkey</city>
+	<city>Krasnoyarsk, Russia</city>
+	<city>Chiba, Japan</city>
+	<city>Voronezh, Russia</city>
+	<city>Durg-Bhilai Nagar, India</city>
+	<city>Ruzhou, China</city>
+	<city>Maceio, Brazil</city>
+	<city>Yichun (Jiangxi), China</city>
+	<city>Al-Madinah, Saudi Arabia</city>
+	<city>Yulin (Guangxi), China</city>
+	<city>Seongnam, South Korea</city>
+	<city>Yueyang, China</city>
+	<city>Yiwu, China</city>
+	<city>San Jose (CA), United States</city>
+	<city>Jixi, China</city>
+	<city>MANAGUA, Nicaragua</city>
+	<city>Xinyi (Guangdong), China</city>
+	<city>Safi, Morocco</city>
+	<city>Guangyuan, China</city>
+	<city>Soweto, South Africa</city>
+	<city>Zhangjiakou, China</city>
+	<city>Baoding, China</city>
+	<city>Cartagena, Colombia</city>
+	<city>Huludao, China</city>
+	<city>Pingdingshan, China</city>
+	<city>Torino, Italy</city>
+	<city>Zengcheng, China</city>
+	<city>Laiyang, China</city>
+	<city>Qingzhou, China</city>
+	<city>Aurangabad, India</city>
+	<city>Lattakia, Syria</city>
+	<city>Merida, Mexico</city>
+	<city>Laizhou, China</city>
+	<city>Thiruvananthapuram, India</city>
+	<city>Weinan, China</city>
+	<city>Wuchang, China</city>
+	<city>Guangshui, China</city>
+	<city>Gaizhou, China</city>
+	<city>Goteborg, Sweden</city>
+	<city>Xiaogan, China</city>
+	<city>Torreon, Mexico</city>
+	<city>Jiaxing, China</city>
+	<city>Kozhikode, India</city>
+	<city>Sale, Morocco</city>
+	<city>Zhuzhou, China</city>
+	<city>Tyneside, United Kingdom</city>
+	<city>Hengyang, China</city>
+	<city>Dehui, China</city>
+	<city>Honghu, China</city>
+	<city>Danyang, China</city>
+	<city>Daye, China</city>
+	<city>Solapur, India</city>
+	<city>Xingning, China</city>
+	<city>Xiangfan, China</city>
+	<city>Shubra-El-Khema, Egypt</city>
+	<city>Luoding, China</city>
+	<city>Gwalior, India</city>
+	<city>Ranchi, India</city>
+	<city>Huiyang, China</city>
+	<city>Mombasa, Kenya</city>
+	<city>Jinzhou (Liaoning), China</city>
+	<city>Jiangyan, China</city>
+	<city>Chenghai, China</city>
+	<city>Jiamusi, China</city>
+	<city>Songzi, China</city>
+	<city>TEGUCIGALPA, Honduras</city>
+	<city>Wujiang, China</city>
+	<city>Jodhpur, India</city>
+	<city>Duque de Caxias, Brazil</city>
+	<city>Xi'ning, China</city>
+	<city>Yuyao, China</city>
+	<city>Hezhou, China</city>
+	<city>Jiangyou, China</city>
+	<city>Tiruchchirappalli, India</city>
+	<city>Baoshan, China</city>
+	<city>Saratov, Russia</city>
+	<city>Nova Iguacu, Brazil</city>
+	<city>Ankang, China</city>
+	<city>Gaomi, China</city>
+	<city>Yangchun, China</city>
+	<city>Santiago de los Caballeros, Dominican Republic</city>
+	<city>Danzhou, China</city>
+	<city>LA PAZ, Bolivia</city>
+	<city>Zhuanghe, China</city>
+	<city>Zhuhai, China</city>
+	<city>Zhaodong, China</city>
+	<city>Sakai, Japan</city>
+	<city>Haikou, China</city>
+	<city>Jiaonan, China</city>
+	<city>El Alto, Bolivia</city>
+	<city>Xuancheng, China</city>
+	<city>Wuchuan, China</city>
+	<city>Yuhang, China</city>
+	<city>Qinhuangdao, China</city>
+	<city>Bogor, Indonesia</city>
+	<city>Kermanshah, Iran</city>
+	<city>Longhai, China</city>
+	<city>Liverpool, United Kingdom</city>
+	<city>Yanshi, China</city>
+	<city>Guwahati, India</city>
+	<city>Yichun (Heilongjiang), China</city>
+	<city>Konya, Turkey</city>
+	<city>Barquisimeto, Venezuela</city>
+	<city>Yingde, China</city>
+	<city>Bengbu, China</city>
+	<city>Yibin, China</city>
+	<city>Chandigarh, India</city>
+	<city>Xiangxiang, China</city>
+	<city>Yinchuan, China</city>
+	<city>Valencia, Spain</city>
+	<city>Guilin, China</city>
+	<city>Hamamatsu, Japan</city>
+	<city>Sao Bernardo do Campo, Brazil</city>
+	<city>Deir El-Zor, Syria</city>
+	<city>BISHKEK, Kyrgyzstan</city>
+	<city>Teresina, Brazil</city>
+	<city>Suihua, China</city>
+	<city>BENGHAZI, Libya</city>
+	<city>Jiutai, China</city>
+	<city>Meishan, China</city>
+	<city>Zaporizhya, Ukraine</city>
+	<city>Gaoyou, China</city>
+	<city>Marseille, France</city>
+	<city>Kaifeng, China</city>
+	<city>Changning, China</city>
+	<city>Tongliao, China</city>
+	<city>Natal, Brazil</city>
+	<city>Bandar Lampung, Indonesia</city>
+	<city>Dongying, China</city>
+	<city>Gaoan, China</city>
+	<city>Langzhong, China</city>
+	<city>Lichuan, China</city>
+	<city>Hubli-Dharwad, India</city>
+	<city>Mysore, India</city>
+	<city>Niigata, Japan</city>
+	<city>Indianapolis (IN), United States</city>
+	<city>Jiaozhou, China</city>
+	<city>Pingxiang (Jiangxi), China</city>
+	<city>Haiphong, Viet Nam</city>
+	<city>Arequipa, Peru</city>
+	<city>Jacksonville (FL), United States</city>
+	<city>Tanger, Morocco</city>
+	<city>Dandong, China</city>
+	<city>KISHINEV, Moldova</city>
+	<city>Krasnodar, Russia</city>
+	<city>ZAGREB, Croatia</city>
+	<city>Xinmi, China</city>
+	<city>Chaohu, China</city>
+	<city>Xinyu, China</city>
+	<city>Gongyi, China</city>
+	<city>Huixian, China</city>
+	<city>Xinxiang, China</city>
+	<city>Port Elizabeth, South Africa</city>
+	<city>Mendoza, Argentina</city>
+	<city>Nantong, China</city>
+	<city>Pengzhou, China</city>
+	<city>Khulna, Bangladesh</city>
+	<city>Malang, Indonesia</city>
+	<city>Padang, Indonesia</city>
+	<city>Anyang, China</city>
+	<city>Renqiu, China</city>
+	<city>Foshan, China</city>
+	<city>Anshun, China</city>
+	<city>Chihuahua, Mexico</city>
+	<city>Campo Grande, Brazil</city>
+	<city>Lodz, Poland</city>
+	<city>Goyang, South Korea</city>
+	<city>Benin City, Nigeria</city>
+	<city>Bucheon (Puchon), South Korea</city>
+	<city>Gaocheng, China</city>
+	<city>Pulandian, China</city>
+	<city>Hejian, China</city>
+	<city>Dafeng, China</city>
+	<city>Krakow, Poland</city>
+	<city>Enshi, China</city>
+	<city>Dongyang, China</city>
+	<city>Lviv, Ukraine</city>
+	<city>Kunshan, China</city>
+	<city>Shuangcheng, China</city>
+	<city>Salem, India</city>
+	<city>Jiaozuo, China</city>
+	<city>Ad-Dammam, Saudi Arabia</city>
+	<city>Huaibei, China</city>
+	<city>Liyang, China</city>
+	<city>Samut Prakan, Thailand</city>
+	<city>Rongcheng, China</city>
+	<city>Cenxi, China</city>
+	<city>Nampho, North Korea</city>
+	<city>Columbus (OH), United States</city>
+	<city>Bareilly, India</city>
+	<city>Leping, China</city>
+	<city>Laixi, China</city>
+	<city>Liaoyang, China</city>
+	<city>Zhaotong, China</city>
+	<city>JERUSALEM, Israel</city>
+	<city>Tainan, China</city>
+	<city>Cuernavaca, Mexico</city>
+	<city>RIGA, Latvia</city>
+	<city>Linfen, China</city>
+	<city>Quebec, Canada</city>
+	<city>Lingbao, China</city>
+	<city>Shangyu, China</city>
+	<city>Wuan, China</city>
+	<city>Hailun, China</city>
+	<city>Xingyi, China</city>
+	<city>Wuxue, China</city>
+	<city>Cebu, Philippines</city>
+	<city>Aguascalientes, Mexico</city>
+	<city>Tolyatti, Russia</city>
+	<city>Hamilton, Canada</city>
+	<city>Zhoushan, China</city>
+	<city>Langfang, China</city>
+	<city>Osasco, Brazil</city>
+	<city>Nonthaburi, Thailand</city>
+	<city>Dashiqiao, China</city>
+	<city>Tongxiang, China</city>
+	<city>Yichang, China</city>
+	<city>Yangzhou, China</city>
+	<city>Blantyre City, Malawi</city>
+	<city>Hamhung, North Korea</city>
+	<city>Jalandhar, India</city>
+	<city>Al-Rakka, Syria</city>
+	<city>NIAMEY, Niger</city>
+	<city>Xiangtan, China</city>
+	<city>Winnipeg, Canada</city>
+	<city>Oran (Wahran), Algeria</city>
+	<city>Kota, India</city>
+	<city>Sevilla, Spain</city>
+	<city>Navi Mumbai (New Bombay), India</city>
+	<city>Port Harcourt, Nigeria</city>
+	<city>Saltillo, Mexico</city>
+	<city>Khartoum North, Sudan</city>
+	<city>Shizuoka, Japan</city>
+	<city>Yuanjiang, China</city>
+	<city>Raipur, India</city>
+	<city>Kryviy Rig, Ukraine</city>
+	<city>Yingkou, China</city>
+	<city>Wuhu, China</city>
+	<city>Zhenjiang, China</city>
+	<city>Queretaro, Mexico</city>
+	<city>Nankang, China</city>
+	<city>Wugang (Hunan), China</city>
+	<city>Hegang, China</city>
+	<city>Linqing, China</city>
+	<city>PRETORIA, South Africa</city>
+	<city>Zunyi, China</city>
+	<city>Panzhihua, China</city>
+	<city>Austin (TX), United States</city>
+	<city>Changle, China</city>
+	<city>Lianyungang, China</city>
+	<city>Yancheng, China</city>
+	<city>Zunhua, China</city>
+	<city>Changyi, China</city>
+	<city>Meknes, Morocco</city>
+	<city>Qiongshan, China</city>
+	<city>Bulawayo, Zimbabwe</city>
+	<city>Wendeng, China</city>
+	<city>Okayama, Japan</city>
+	<city>Santo Andre, Brazil</city>
+	<city>RABAT, Morocco</city>
+	<city>Pakanbaru, Indonesia</city>
+	<city>Nehe, China</city>
+	<city>Memphis (TN), United States</city>
+	<city>Joao Pessoa, Brazil</city>
+	<city>KATHMANDU, Nepal</city>
+	<city>Longkou, China</city>
+	<city>Shengzhou, China</city>
+	<city>Antalya, Turkey</city>
+	<city>Kumamoto, Japan</city>
+	<city>LILONGWE, Malawi</city>
+	<city>Mexicali, Mexico</city>
+	<city>Kaiping, China</city>
+	<city>Palermo, Italy</city>
+	<city>Aligarh, India</city>
+	<city>Nottingham, United Kingdom</city>
+	<city>Haining, China</city>
+	<city>Mosul, Iraq</city>
+	<city>Hermosillo, Mexico</city>
+	<city>Tongcheng, China</city>
+	<city>Shulan, China</city>
+	<city>Miluo, China</city>
+	<city>Bhubaneswar, India</city>
+	<city>Yangquan, China</city>
+	<city>Chenzhou, China</city>
+	<city>Haiyang, China</city>
+	<city>Morelia, Mexico</city>
+	<city>Huangshi (Hubei), China</city>
+	<city>Xinmin, China</city>
+	<city>Tetouan, Morocco</city>
+	<city>Barnaul, Russia</city>
+	<city>Qixia, China</city>
+	<city>Jaboatao dos Guarapes, Brazil</city>
+	<city>Chongzhou, China</city>
+	<city>Cotonou, Benin</city>
+	<city>Yingcheng, China</city>
+	<city>Zaragoza, Spain</city>
+	<city>Changzhi, China</city>
+	<city>Qujing, China</city>
+	<city>Linghai, China</city>
+	<city>Changge, China</city>
+	<city>Trujillo, Peru</city>
+	<city>Tampico, Mexico</city>
+	<city>Maoming, China</city>
+	<city>Moron, Argentina</city>
+	<city>La Plata, Argentina</city>
+	<city>Ciudad Guayana, Venezuela</city>
+	<city>Moradabad, India</city>
+	<city>Jieshou, China</city>
+	<city>Sheffield, United Kingdom</city>
+	<city>Donggang, China</city>
+	<city>Jingjiang, China</city>
+	<city>Acheng, China</city>
+	<city>Acapulco (de Juarez), Mexico</city>
+	<city>Veracruz, Mexico</city>
+	<city>Ulyanovsk, Russia</city>
+	<city>Wroclaw, Poland</city>
+	<city>Jieyang, China</city>
+	<city>Shaoxing, China</city>
+	<city>Qian'an, China</city>
+	<city>Nanchuan, China</city>
+	<city>Qionglai, China</city>
+	<city>Deyang, China</city>
+	<city>Sagamihara, Japan</city>
+	<city>Fuyang (Anhui), China</city>
+	<city>Fuxin, China</city>
+	<city>Jiyuan, China</city>
+	<city>Puente Alto, Chile</city>
+	<city>Qufu, China</city>
+	<city>Gaoyao, China</city>
+	<city>Gorakhpur, India</city>
+	<city>Fort Worth (TX), United States</city>
+	<city>Xinji, China</city>
+	<city>San Miguel de Tucuman, Argentina</city>
+	<city>Dujiangyan, China</city>
+	<city>The Hague, Netherlands</city>
+	<city>Bhiwandi, India</city>
+	<city>Culiacan Rosales, Mexico</city>
+	<city>Lingyuan, China</city>
+	<city>Xingyang, China</city>
+	<city>Maiduguri, Nigeria</city>
+	<city>Genova, Italy</city>
+	<city>Meihekou, China</city>
+	<city>Izhevsk, Russia</city>
+	<city>Jeonju (Chonchu), South Korea</city>
+	<city>Leling, China</city>
+	<city>Xichang, China</city>
+	<city>COLOMBO, Sri Lanka</city>
+	<city>Zaria, Nigeria</city>
+	<city>Anlu, China</city>
+	<city>Sao Jose dos Campos, Brazil</city>
+	<city>Charlotte (NC), United States</city>
+	<city>Yizheng, China</city>
+	<city>Malmo, Sweden</city>
+	<city>Weihai, China</city>
+	<city>Xinzheng, China</city>
+	<city>Dengfeng, China</city>
+	<city>Vladivostok, Russia</city>
+	<city>Shaoyang, China</city>
+	<city>Taizhou (Jiangsu), China</city>
+	<city>Jammu, India</city>
+	<city>Lanxi, China</city>
+	<city>Yuncheng, China</city>
+	<city>Kagoshima, Japan</city>
+	<city>Yaroslave, Russia</city>
+	<city>Contagem, Brazil</city>
+	<city>Shishou, China</city>
+	<city>Panjin, China</city>
+	<city>Zamboanga, Philippines</city>
+	<city>Orumiyeh, Iran</city>
+	<city>Binzhou, China</city>
+	<city>Kisumu, Kenya</city>
+	<city>Baoji, China</city>
+	<city>Uberlandia, Brazil</city>
+	<city>El Paso (TX), United States</city>
+	<city>Yunzhou, China</city>
+	<city>Kenitra, Morocco</city>
+	<city>Diyarbakir, Turkey</city>
+	<city>Jurong, China</city>
+	<city>Cúcuta, Colombia</city>
+	<city>Zhaoyuan, China</city>
+	<city>Huizhou, China</city>
+	<city>Tianchang, China</city>
+	<city>Dortmund, Germany</city>
+	<city>Shihezi, China</city>
+	<city>Shiyan, China</city>
+	<city>Cuttack, India</city>
+	<city>Cochabamba, Bolivia</city>
+	<city>Cheongju, South Korea</city>
+	<city>Jingmen, China</city>
+	<city>Shangzhi, China</city>
+	<city>Anqing, China</city>
+	<city>Chongjin, North Korea</city>
+	<city>Stuttgart, Germany</city>
+	<city>Rushan, China</city>
+	<city>KINGSTON, Jamaica</city>
+	<city>Milwaukee (WI), United States</city>
+	<city>Sorocaba, Brazil</city>
+	<city>Glasgow, United Kingdom</city>
+	<city>Khabarovsk, Russia</city>
+	<city>Guanghan, China</city>
+	<city>Warangal, India</city>
+	<city>Irkutsk, Russia</city>
+	<city>Tyumen, Russia</city>
+	<city>Lomas de Zamora, Argentina</city>
+	<city>Beipiao, China</city>
+	<city>Funabashi, Japan</city>
+	<city>Mingguang, China</city>
+	<city>Dusseldorf, Germany</city>
+	<city>Shenzhou, China</city>
+	<city>Icel, Turkey</city>
+	<city>Zhangzhou, China</city>
+	<city>Xianning, China</city>
+	<city>Maanshan, China</city>
+	<city>Bandjarmasin, Indonesia</city>
+	<city>Callao, Peru</city>
+	<city>Poznan, Poland</city>
+	<city>Kayseri, Turkey</city>
+	<city>Chon Buri, Thailand</city>
+	<city>Quetta, Pakistan</city>
+	<city>Shuozhou, China</city>
+	<city>Samarinda, Indonesia</city>
+	<city>HELSINKI, Finland</city>
+	<city>Akesu, China</city>
+	<city>Novokuznetsk, Russia</city>
+	<city>Malaga, Spain</city>
+	<city>Fengcheng (Liaoning), China</city>
+	<city>Hachioji, Japan</city>
+	<city>Ribeirao Prêto, Brazil</city>
+	<city>Beihai, China</city>
+	<city>Jamnagar, India</city>
+	<city>NOUAKCHOTT, Mauritania</city>
+	<city>Bazhou, China</city>
+	<city>Yongkang, China</city>
+	<city>Louisville (KY), United States</city>
+	<city>Chizhou, China</city>
+	<city>Huaiyin, China</city>
+	<city>Fuan, China</city>
+	<city>Bhilai Nagar, India</city>
+	<city>Dezhou, China</city>
+	<city>Makhachkala, Russia</city>
+	<city>Xingping, China</city>
+	<city>Jiujiang, China</city>
+	<city>Bristol, United Kingdom</city>
+	<city>Botou, China</city>
+	<city>Fengnan, China</city>
+	<city>ASTANA, Kazakhstan</city>
+	<city>Yizhou, China</city>
+	<city>Amravati, India</city>
+	<city>Nashville-Davidson (TN), United States</city>
+	<city>Batam, Indonesia</city>
+	<city>Orenburg, Russia</city>
+	<city>Zhuozhou, China</city>
+	<city>Las Vegas (NV), United States</city>
+	<city>Cancun, Mexico</city>
+	<city>Longyan, China</city>
+	<city>OSLO, Norway</city>
+	<city>Cuiaba, Brazil</city>
+	<city>Tiruppur, India</city>
+	<city>VILNIUS, Lithuania</city>
+	<city>Bremen, Germany</city>
+	<city>Gold Coast, Australia</city>
+	<city>Gaobeidian, China</city>
+	<city>Mangalore, India</city>
+	<city>Songyuan, China</city>
+	<city>Yangjiang, China</city>
+	<city>Wanyuan, China</city>
+	<city>Jiangmen, China</city>
+	<city>Xingtai, China</city>
+	<city>Shaoguan, China</city>
+	<city>Feira de Santana, Brazil</city>
+	<city>Guixi, China</city>
+	<city>Ruijin, China</city>
+	<city>Zahedan, Iran</city>
+	<city>Jinzhong, China</city>
+	<city>Portland (OR), United States</city>
+	<city>Jintan, China</city>
+	<city>Reynosa, Mexico</city>
+	<city>Ilorin, Nigeria</city>
+	<city>Oklahoma City (OK), United States</city>
+	<city>Nakhon Ratchasima, Thailand</city>
+	<city>N'DJAMENA, Chad</city>
+	<city>Shangzhou, China</city>
+	<city>Panshi, China</city>
+	<city>Kerman, Iran</city>
+	<city>Kaiyuan (Liaoning), China</city>
+	<city>ISLAMABAD, Pakistan</city>
+	<city>SARAJEVO, Bosnia and Herzegovina</city>
+	<city>Bikaner, India</city>
+	<city>DUSHANBE, Tajikistan</city>
+	<city>VIENTIANE, Laos</city>
+	<city>Dehradun, India</city>
+	<city>Zhangshu, China</city>
+	<city>Beining, China</city>
+	<city>ABU DHABI, United Arab Emirates</city>
+	<city>Shimkent, Kazakhstan</city>
+	<city>Xingcheng, China</city>
+	<city>Imbaba, Egypt</city>
+	<city>Yicheng, China</city>
+	<city>SKOPLJE, Macedonia</city>
+	<city>Kadhimain, Iraq</city>
+	<city>At-Ta'if, Saudi Arabia</city>
+	<city>Dali, China</city>
+	<city>Fuding, China</city>
+	<city>Jinzhou (Hebei), China</city>
+	<city>Renhuai, China</city>
+	<city>Mira-Bhayandar, India</city>
+	<city>Kemerovo, Russia</city>
+	<city>Duisburg, Germany</city>
+	<city>Rasht, Iran</city>
+	<city>San Pedro Sula, Honduras</city>
+	<city>Bucaramanga, Colombia</city>
+	<city>Bhavnagar, India</city>
+	<city>Conghua, China</city>
+	<city>Changwon, South Korea</city>
+	<city>Mianzhu, China</city>
+	<city>Pohang, South Korea</city>
+	<city>Tucson (AZ), United States</city>
+	<city>Taicang, China</city>
+	<city>Matsuyama, Japan</city>
+	<city>Hannover, Germany</city>
+	<city>Guntur, India</city>
+	<city>Lin'an, China</city>
+	<city>Higashiosaka, Japan</city>
+	<city>Wanning, China</city>
+	<city>Mar del Plata, Argentina</city>
+	<city>Ryazan, Russia</city>
+	<city>Quilmes, Argentina</city>
+	<city>Tomsk, Russia</city>
+	<city>Linhe, China</city>
+	<city>Chibi, China</city>
+	<city>Jos, Nigeria</city>
+	<city>Penza, Russia</city>
+	<city>Laohekou, China</city>
+	<city>Wenchang, China</city>
+	<city>Juiz de Fora, Brazil</city>
+	<city>Zhijiang, China</city>
+	<city>Newcastle, Australia</city>
+	<city>Pinghu, China</city>
+	<city>Zhaoqing, China</city>
+	<city>Naberezhnye Tchelny, Russia</city>
+	<city>Qingyuan, China</city>
+	<city>Tula, Russia</city>
+	<city>Belgaum, India</city>
+	<city>Pondicherry, India</city>
+	<city>Aracaju, Brazil</city>
+	<city>Pasig, Philippines</city>
+	<city>Mykolayiv (Nikolaevskaya oblast), Ukraine</city>
+	<city>Ibague, Colombia</city>
+	<city>Hanzhong, China</city>
+	<city>Tlaxcala, Mexico</city>
+	<city>Chuxiong, China</city>
+	<city>Denpasar, Indonesia</city>
+	<city>Lipetsk, Russia</city>
+	<city>Dengta, China</city>
+	<city>Tuxtla Gutierrez, Mexico</city>
+	<city>Songkhla, Thailand</city>
+	<city>Mariupol, Ukraine</city>
+	<city>Danjiangkou, China</city>
+	<city>Chiclayo, Peru</city>
+	<city>COPENHAGEN, Denmark</city>
+	<city>Penglai, China</city>
+	<city>Oaxaca de Juarez, Mexico</city>
+	<city>Aba, Nigeria</city>
+	<city>Astrakhan, Russia</city>
+	<city>MACAO, China : Macao SAR</city>
+	<city>Eskisehir, Turkey</city>
+	<city>Shishi, China</city>
+	<city>Kannur, India</city>
+	<city>Ananindeua, Brazil</city>
+	<city>Bokaro Steel City, India</city>
+	<city>SAN SALVADOR, El Salvador</city>
+	<city>Kolhapur, India</city>
+	<city>Xinzhou, China</city>
+	<city>Joinville, Brazil</city>
+	<city>Dangyang, China</city>
+	<city>Londrina, Brazil</city>
+	<city>Hebi, China</city>
+	<city>Ganzhou, China</city>
+	<city>Hamadan, Iran</city>
+	<city>Yucheng, China</city>
+	<city>Albuquerque (NM), United States</city>
+	<city>Agadir, Morocco</city>
+	<city>Chuzhou, China</city>
+	<city>Geneve, Switzerland</city>
+	<city>Durgapur, India</city>
+	<city>Siping, China</city>
+	<city>Surakarta, Indonesia</city>
+	<city>Gomel, Belarus</city>
+	<city>Ajmer, India</city>
+	<city>Leipzig, Germany</city>
+	<city>Kirov, Russia</city>
+	<city>Belford Roxo, Brazil</city>
+	<city>Nanping, China</city>
+	<city>Luhansk, Ukraine</city>
+	<city>Al-Sharjah, United Arab Emirates</city>
+	<city>Shuangyashan, China</city>
+	<city>Qitaihe, China</city>
+	<city>Zhangye, China</city>
+	<city>Nurnberg, Germany</city>
+	<city>Bale, Switzerland</city>
+	<city>Oujda, Morocco</city>
+	<city>Erbil, Iraq</city>
+	<city>Valenzuela, Philippines</city>
+	<city>Hongjiang, China</city>
+	<city>Baicheng, China</city>
+	<city>Raurkela, India</city>
+	<city>PANAMA CITY, Panama</city>
+	<city>Barcelona-Puerto La Cruz, Venezuela</city>
+	<city>Huanghua, China</city>
+	<city>Pontianak, Indonesia</city>
+	<city>Himeji, Japan</city>
+	<city>Sanya, China</city>
+	<city>Orizaba, Mexico</city>
+	<city>Dunhua, China</city>
+	<city>Kawaguchi, Japan</city>
+	<city>Durango (Victoria de Durango), Mexico</city>
+	<city>Jian'ou, China</city>
+	<city>Tombouctou, Mali</city>
+	<city>Niteroi, Brazil</city>
+	<city>Dresden, Germany</city>
+	<city>Arak, Iran</city>
+	<city>Soledad, Colombia</city>
+	<city>Chaoyang (Liaoning), China</city>
+	<city>Shahe, China</city>
+	<city>Jiaohe, China</city>
+	<city>Long Beach (CA), United States</city>
+	<city>Jiangshan, China</city>
+	<city>Jian (Jiangxi), China</city>
+	<city>Anda, China</city>
+	<city>Jiande, China</city>
+	<city>Ulhasnagar, India</city>
+	<city>Las Piñas, Philippines</city>
+	<city>Matsudo, Japan</city>
+	<city>Port Said, Egypt</city>
+	<city>Yuanping, China</city>
+	<city>Gaoping, China</city>
+	<city>Fenghua, China</city>
+	<city>Makati, Philippines</city>
+	<city>Qingzhen, China</city>
+	<city>Siliguri, India</city>
+	<city>Kurashiki, Japan</city>
+	<city>Ipoh, Malaysia</city>
+	<city>Lanus, Argentina</city>
+	<city>Taguig, Philippines</city>
+	<city>Nan'gong, China</city>
+	<city>Al-Kamishli, Syria</city>
+	<city>Sao Joao de Meriti, Brazil</city>
+	<city>Ichikawa, Japan</city>
+	<city>London, Canada</city>
+	<city>Nishinomiya, Japan</city>
+	<city>Constantine (Qacentina), Algeria</city>
+	<city>Enping, China</city>
+	<city>Weihui, China</city>
+	<city>Adhamiyah, Iraq</city>
+	<city>Kitchener, Canada</city>
+	<city>Duyun, China</city>
+	<city>Jhansi, India</city>
+	<city>Amagasaki, Japan</city>
+	<city>Oita, Japan</city>
+	<city>Liaoyuan, China</city>
+	<city>Cagayan de Oro, Philippines</city>
+	<city>Antwerpen (Anvers), Belgium</city>
+	<city>Brighton/Worthing/Littlehampton, United Kingdom</city>
+	<city>Fresno (CA), United States</city>
+	<city>Baiyin, China</city>
+	<city>Tonghua, China</city>
+	<city>Maracay, Venezuela</city>
+	<city>Sargodha, Pakistan</city>
+	<city>Utsunomiya, Japan</city>
+	<city>Gdansk, Poland</city>
+	<city>Sanhe, China</city>
+	<city>Sacramento (CA), United States</city>
+	<city>Pingliang, China</city>
+	<city>New Orleans (LA), United States</city>
+	<city>Kanazawa, Japan</city>
+	<city>Zhangjiajie, China</city>
+	<city>Cheboksary, Russia</city>
+	<city>Gejiu, China</city>
+	<city>Aparecida de Goiania, Brazil</city>
+	<city>Saharanpur, India</city>
+	<city>Cleveland (OH), United States</city>
+	<city>Mixco, Guatemala</city>
+	<city>BANGUI, Central African Republic</city>
+	<city>Yulin (Shaanxi), China</city>
+	<city>LOME, Togo</city>
+	<city>Qionghai, China</city>
+	<city>Paranaque, Philippines</city>
+	<city>Edinburgh, United Kingdom</city>
+	<city>Linxiang, China</city>
+	<city>Puyang, China</city>
+	<city>Sangli-Miraj-Kupwad, India</city>
+	<city>Qinyang, China</city>
+	<city>Pereira, Colombia</city>
+	<city>Karaganda, Kazakhstan</city>
+	<city>Kansas City (MO), United States</city>
+	<city>Lyon, France</city>
+	<city>Jingdezhen, China</city>
+	<city>Jambi, Indonesia</city>
+	<city>Huadian, China</city>
+	<city>Putian, China</city>
+	<city>Jinghong, China</city>
+	<city>Cangzhou, China</city>
+	<city>Mesa (AZ), United States</city>
+	<city>Nagasaki, Japan</city>
+	<city>Beian, China</city>
+	<city>Portsmouth, United Kingdom</city>
+	<city>Bhatpara, India</city>
+	<city>Johore Bharu, Malaysia</city>
+	<city>Tabuk, Saudi Arabia</city>
+	<city>Leicester, United Kingdom</city>
+	<city>Taonan, China</city>
+	<city>Sanshui, China</city>
+	<city>Xinle, China</city>
+	<city>Virginia Beach (VA), United States</city>
+	<city>Mishan, China</city>
+	<city>Ning'an, China</city>
+	<city>Chengde, China</city>
+	<city>Bryansk, Russia</city>
+	<city>Hailin, China</city>
+	<city>Gulbarga, India</city>
+	<city>Bobo Dioulasso, Burkina Faso</city>
+	<city>Masan, South Korea</city>
+	<city>Tieling, China</city>
+	<city>Kaili, China</city>
+	<city>Ogbomosho, Nigeria</city>
+	<city>Shifang, China</city>
+	<city>Yanji, China</city>
+	<city>Yazd, Iran</city>
+	<city>Firozabad, India</city>
+	<city>Tirunelveli, India</city>
+	<city>Zarqa, Jordan</city>
+	<city>Matamoros, Mexico</city>
+	<city>Ujjain, India</city>
+	<city>Nanded, India</city>
+	<city>Daan, China</city>
+	<city>Campos dos Goytacazes, Brazil</city>
+	<city>Balikpapan, Indonesia</city>
+	<city>Bacolod, Philippines</city>
+	<city>Wuhai, China</city>
+	<city>SAN JUAN, Puerto Rico</city>
+	<city>Yokosuka, Japan</city>
+	<city>Santiago de Cuba, Cuba</city>
+	<city>BRATISLAVA, Slovakia</city>
+	<city>Jinhua, China</city>
+	<city>Matola, Mozambique</city>
+	<city>Lechang, China</city>
+	<city>Coatzacoalcos, Mexico</city>
+	<city>Emeishan, China</city>
+	<city>Kaliningrad (Kaliningradskaya oblast), Russia</city>
+	<city>Hengshui, China</city>
+	<city>Fangchenggang, China</city>
+	<city>Santa Marta, Colombia</city>
+	<city>Sialkote, Pakistan</city>
+	<city>Yongji, China</city>
+	<city>Toyama, Japan</city>
+	<city>DOHA, Qatar</city>
+	<city>Fujin, China</city>
+	<city>Kirkuk, Iraq</city>
+	<city>LIBREVILLE, Gabon</city>
+	<city>Fukuyama, Japan</city>
+	<city>Santos, Brazil</city>
+	<city>Cheonan, South Korea</city>
+	<city>Suez, Egypt</city>
+	<city>Murcia, Spain</city>
+	<city>Utrecht, Netherlands</city>
+	<city>Makyivka, Ukraine</city>
+	<city>Sao Jose do Rio Prêto, Brazil</city>
+	<city>Omaha (NE), United States</city>
+	<city>Xiaoyi, China</city>
+	<city>Maua, Brazil</city>
+	<city>Soacha, Colombia</city>
+	<city>Malatya, Turkey</city>
+	<city>Manado, Indonesia</city>
+	<city>Toyota, Japan</city>
+	<city>Caxias do Sul, Brazil</city>
+	<city>Magnitogorsk, Russia</city>
+	<city>General Santos, Philippines</city>
+	<city>Sanliurfa, Turkey</city>
+	<city>Ivanovo, Russia</city>
+	<city>Szczecin, Poland</city>
+	<city>Sihui, China</city>
+	<city>Gaza, Palestine, Occupied Territory</city>
+	<city>Shanwei, China</city>
+	<city>Lianzhou, China</city>
+	<city>Malegaon, India</city>
+	<city>Zhalantun, China</city>
+	<city>Yuxi, China</city>
+	<city>Bahawalpur, Pakistan</city>
+	<city>Rajahmundry, India</city>
+	<city>Enugu, Nigeria</city>
+	<city>Betim, Brazil</city>
+	<city>ASHGABAT, Turkmenistan</city>
+	<city>General San Martin, Argentina</city>
+	<city>Florianopolis, Brazil</city>
+	<city>Santa Fe, Argentina</city>
+	<city>Basra, Iraq</city>
+	<city>Huangshan, China</city>
+	<city>Yakeshi, China</city>
+	<city>Heshan (Guangdong), China</city>
+	<city>Kursk, Russia</city>
+	<city>Tver, Russia</city>
+	<city>Machida, Japan</city>
+	<city>Pietermaritzburg, South Africa</city>
+	<city>Vila Velha, Brazil</city>
+	<city>Nellore, India</city>
+	<city>Shuangliao, China</city>
+	<city>Tongchuan, China</city>
+	<city>Hirakata, Japan</city>
+	<city>Yan'an, China</city>
+	<city>Ningde, China</city>
+	<city>Sochi, Russia</city>
+	<city>Huambo, Angola</city>
+	<city>Akola, India</city>
+	<city>Gifu, Japan</city>
+	<city>Ruichang, China</city>
+	<city>Loudi, China</city>
+	<city>Adan, Yemen</city>
+	<city>Luquan, China</city>
+	<city>Beira, Mozambique</city>
+	<city>St. Catharines, Canada</city>
+	<city>TALLINN, Estonia</city>
+	<city>Erzurum, Turkey</city>
+	<city>Fujisawa, Japan</city>
+	<city>Diadema, Brazil</city>
+	<city>Oakland (CA), United States</city>
+	<city>El-Mahalla El-Kubra, Egypt</city>
+	<city>Gao, Mali</city>
+	<city>Serra, Brazil</city>
+	<city>Gaya, India</city>
+	<city>TIRANA, Albania</city>
+	<city>Bochum, Germany</city>
+	<city>Yogyakarta, Indonesia</city>
+	<city>South Dum Dum, India</city>
+	<city>Namangan, Uzbekistan</city>
+	<city>Marikina, Philippines</city>
+	<city>Erode, India</city>
+	<city>Ardabil, Iran</city>
+	<city>Villa Nueva, Guatemala</city>
+	<city>Villavicencio, Colombia</city>
+	<city>Toulouse, France</city>
+	<city>Carapicuiba, Brazil</city>
+	<city>Udaipur, India</city>
+	<city>Maheshtala, India</city>
+	<city>Rajshahi, Bangladesh</city>
+	<city>Hami, China</city>
+	<city>Pasto, Colombia</city>
+	<city>Vellore, India</city>
+	<city>Olinda, Brazil</city>
+	<city>Changji, China</city>
+	<city>Fenyang, China</city>
+	<city>Hancheng, China</city>
+	<city>Toyonaka, Japan</city>
+	<city>Yidu, China</city>
+	<city>Thessaloniki, Greece</city>
+	<city>Monteria, Colombia</city>
+	<city>Dazhou, China</city>
+	<city>Bournemouth, United Kingdom</city>
+	<city>Keelung, China</city>
+	<city>DJIBOUTI, Djibouti</city>
+	<city>Da Nang, Viet Nam</city>
+	<city>Tulsa (OK), United States</city>
+	<city>Halifax, Canada</city>
+	<city>Kuerle, China</city>
+	<city>Ningguo, China</city>
+	<city>Manizales, Colombia</city>
+	<city>Wuzhou, China</city>
+	<city>Porto Velho, Brazil</city>
+	<city>Kashiwa, Japan</city>
+	<city>Bello, Colombia</city>
+	<city>Kollam, India</city>
+	<city>Campina Grande, Brazil</city>
+	<city>Vereeniging, South Africa</city>
+	<city>Chiang Mai, Thailand</city>
+	<city>Muntinlupa, Philippines</city>
+	<city>An'guo, China</city>
+	<city>ABUJA, Nigeria</city>
+	<city>Nizhny Tagil, Russia</city>
+	<city>Villahermosa, Mexico</city>
+	<city>Nagano, Japan</city>
+	<city>Buraydah, Saudi Arabia</city>
+	<city>Samsun, Turkey</city>
+	<city>Honolulu (HI), United States</city>
+	<city>Las Palmas de Gran Canaria, Spain</city>
+	<city>PalmasdeGranCanaria, Spain</city>
+	<city>Sevastopol, Ukraine</city>
+	<city>WELLINGTON, New Zealand</city>
+	<city>Wakayama, Japan</city>
+	<city>Ulan-Ude, Russia</city>
+	<city>Palma de Mallorca, Spain</city>
+	<city>Christchurch, New Zealand</city>
+	<city>Jizhou, China</city>
+	<city>Huanggang, China</city>
+	<city>Xuchang, China</city>
+	<city>Bologna, Italy</city>
+	<city>Jiexiu, China</city>
+	<city>Tanta, Egypt</city>
+	<city>Nanxiong, China</city>
+	<city>Khamis Mushayt, Saudi Arabia</city>
+	<city>Toyohashi, Japan</city>
+	<city>Moji das Cruzes, Brazil</city>
+	<city>Ichinomiya, Japan</city>
+	<city>Ndola, Zambia</city>
+	<city>Salta, Argentina</city>
+	<city>Nara, Japan</city>
+	<city>Oyo, Nigeria</city>
+	<city>Colorado Springs (CO), United States</city>
+	<city>Reading/Wokingham, United Kingdom</city>
+	<city>Mansura, Egypt</city>
+	<city>Wuppertal, Germany</city>
+	<city>Kakinada, India</city>
+	<city>Jalgaon, India</city>
+	<city>Hejin, China</city>
+	<city>Mogilev, Belarus</city>
+	<city>Klang, Malaysia</city>
+	<city>Macapa, Brazil</city>
+	<city>Brno, Czech Republic</city>
+	<city>Piracicaba, Brazil</city>
+	<city>Firenze, Italy</city>
+	<city>Iloilo, Philippines</city>
+	<city>Benoni, South Africa</city>
+	<city>Udon Thani, Thailand</city>
+	<city>Teesside, United Kingdom</city>
+	<city>Bydgoszcz, Poland</city>
+	<city>Valledupar, Colombia</city>
+	<city>Sulamaniya, Iraq</city>
+	<city>Davangere, India</city>
+	<city>Chaozhou, China</city>
+	<city>Warri, Nigeria</city>
+	<city>Arlington (TX), United States</city>
+	<city>Tongling, China</city>
+	<city>Kitwe, Zambia</city>
+	<city>The Potteries, United Kingdom</city>
+	<city>Bouake, Cote d'Ivoire</city>
+	<city>Piura, Peru</city>
+	<city>BEIRUT, Lebanon</city>
+	<city>Samarkand, Uzbekistan</city>
+	<city>Cariacica, Brazil</city>
+	<city>Misurata, Libya</city>
+	<city>Kaunas, Lithuania</city>
+	<city>Stavropol, Russia</city>
+	<city>Hsinchu, China</city>
+	<city>Vinnytsya, Ukraine</city>
+	<city>Dongfang, China</city>
+	<city>ASMARA, Eritrea</city>
+	<city>Simpheropol, Ukraine</city>
+	<city>Yi'ning, China</city>
+	<city>Bauru, Brazil</city>
+	<city>Iquitos, Peru</city>
+	<city>Nuevo Laredo, Mexico</city>
+	<city>Wuzhong, China</city>
+	<city>Uijeongbu (Eujeongbu), South Korea</city>
+	<city>Arkhangelsk, Russia</city>
+	<city>Asahikawa, Japan</city>
+	<city>Pasay, Philippines</city>
+	<city>Kahramanmaras, Turkey</city>
+	<city>Wichita (KS), United States</city>
+	<city>Okazaki, Japan</city>
+	<city>Tieli, China</city>
+	<city>Iwaki, Japan</city>
+	<city>Meizhou, China</city>
+	<city>Lublin, Poland</city>
+	<city>Bilbao, Spain</city>
+	<city>Panipat, India</city>
+	<city>Suita, Japan</city>
+	<city>Kherson, Ukraine</city>
+	<city>Itaquaquecetuba, Brazil</city>
+	<city>Abeokuta, Nigeria</city>
+	<city>San Juan, Argentina</city>
+	<city>Annaba, Algeria</city>
+	<city>Huaying, China</city>
+	<city>Vitebsk, Belarus</city>
+	<city>Takatsuki, Japan</city>
+	<city>Zixing, China</city>
+	<city>Petaling Jaya, Malaysia</city>
+	<city>Bloemfontein, South Africa</city>
+	<city>Onitsha, Nigeria</city>
+	<city>Bhagalpur, India</city>
+	<city>Fife, United Kingdom</city>
+	<city>Al-Rayyan, Qatar</city>
+	<city>Montes Claros, Brazil</city>
+	<city>Jundiai, Brazil</city>
+	<city>Panihati, India</city>
+	<city>Lishui, China</city>
+	<city>Ahmednagar, India</city>
+	<city>Manukau, New Zealand</city>
+	<city>Irapuato, Mexico</city>
+	<city>Huaihua, China</city>
+	<city>Pelotas, Brazil</city>
+	<city>Jiuquan, China</city>
+	<city>Zanjan, Iran</city>
+	<city>Belgorod, Russia</city>
+	<city>Kathlehong, South Africa</city>
+	<city>SAN JOSE, Costa Rica</city>
+	<city>Kempton Park, South Africa</city>
+	<city>Oshawa, Canada</city>
+	<city>Avellaneda, Argentina</city>
+	<city>BERNE, Switzerland</city>
+	<city>Assyut, Egypt</city>
+	<city>Nice, France</city>
+	<city>Plovdiv, Bulgaria</city>
+	<city>Kaluga, Russia</city>
+	<city>Antofagasta, Chile</city>
+	<city>Mataram, Indonesia</city>
+	<city>Gumi (Kumi), South Korea</city>
+	<city>Raleigh (NC), United States</city>
+	<city>Dhule, India</city>
+	<city>Kashi (Xinjiang), China</city>
+	<city>Baise, China</city>
+	<city>Santa Ana (CA), United States</city>
+	<city>Vladimir, Russia</city>
+	<city>Jinju (Chinju), South Korea</city>
+	<city>Umlazi, South Africa</city>
+	<city>Lengshuijiang, China</city>
+	<city>Malabon, Philippines</city>
+	<city>Koriyama, Japan</city>
+	<city>Wudalianchi, China</city>
+	<city>Andizhan, Uzbekistan</city>
+	<city>Zhumadian, China</city>
+	<city>Takamatsu, Japan</city>
+	<city>Luxi (Yunnan), China</city>
+	<city>Sanming, China</city>
+	<city>Coventry/Bedworth, United Kingdom</city>
+	<city>Rajpur Sonarpur, India</city>
+	<city>Carrefour, Haiti</city>
+	<city>Tokorozawa, Japan</city>
+	<city>Taraz, Kazakhstan</city>
+	<city>Khouribga, Morocco</city>
+	<city>Buenaventura, Colombia</city>
+	<city>Sukkur, Pakistan</city>
+	<city>Surat Thani, Thailand</city>
+	<city>Baishan, China</city>
+	<city>Yong'an, China</city>
+	<city>Yaan, China</city>
+	<city>Kaesong, North Korea</city>
+	<city>Victoria, Canada</city>
+	<city>Gwangmyeong (Kwangmyong), South Korea</city>
+	<city>Kawagoe, Japan</city>
+	<city>Ciudad del Este, Paraguay</city>
+	<city>Kochi, Japan</city>
+	<city>Canoas, Brazil</city>
+	<city>Akita, Japan</city>
+	<city>Basilan, Philippines</city>
+	<city>Windsor, Canada</city>
+	<city>Gimhae (Kimhae), South Korea</city>
+	<city>Anaheim (CA), United States</city>
+	<city>San Miguelito, Panama</city>
+	<city>Muzaffarnagar, India</city>
+	<city>Vladikavkaz (Osetinskaya ASSR), Russia</city>
+	<city>Bilaspur, India</city>
+	<city>Thrissur, India</city>
+	<city>Sokoto, Nigeria</city>
+	<city>Sao Vicente, Brazil</city>
+	<city>Chimbote, Peru</city>
+	<city>Kurgan, Russia</city>
+	<city>Franca, Brazil</city>
+	<city>Al-Ayn, United Arab Emirates</city>
+	<city>Sanandaj, Iran</city>
+	<city>Cardiff, United Kingdom</city>
+	<city>Shangrao, China</city>
+	<city>Khon Kaen, Thailand</city>
+	<city>Cuzco, Peru</city>
+	<city>Sinuiji, North Korea</city>
+	<city>Bari, Italy</city>
+	<city>CANBERRA, Australia</city>
+	<city>Orel, Russia</city>
+	<city>Maringa, Brazil</city>
+	<city>Van, Turkey</city>
+	<city>Zhoukou, China</city>
+	<city>Iksan (Iri), South Korea</city>
+	<city>Saransk, Russia</city>
+	<city>Patiala, India</city>
+	<city>Shahjahanpur, India</city>
+	<city>Ribeirao das Neves, Brazil</city>
+	<city>Cordoba, Spain</city>
+	<city>Alicante, Spain</city>
+	<city>Eindhoven, Netherlands</city>
+	<city>Pachuca (de Soto), Mexico</city>
+	<city>Bielefeld, Germany</city>
+	<city>North Lanarkshire, United Kingdom</city>
+	<city>Celaya, Mexico</city>
+	<city>Kurnool, India</city>
+	<city>Grodno, Belarus</city>
+	<city>Valladolid, Spain</city>
+	<city>Birkenhead, United Kingdom</city>
+	<city>Neiva, Colombia</city>
+	<city>Murmansk, Russia</city>
+	<city>Mathura, India</city>
+	<city>Anapolis, Brazil</city>
+	<city>Volzhsky, Russia</city>
+	<city>Maebashi, Japan</city>
+	<city>Hechi, China</city>
+	<city>Jianyang (Fujian), China</city>
+	<city>Smolensk, Russia</city>
+	<city>Xifeng, China</city>
+	<city>Ta'izz, Yemen</city>
+	<city>Vitoria, Brazil</city>
+	<city>Bellary, India</city>
+	<city>Pittsburgh (PA), United States</city>
+	<city>Iasi, Romania</city>
+	<city>Koshigaya, Japan</city>
+	<city>Korba, India</city>
+	<city>Bandar-e-Abbas, Iran</city>
+	<city>Kamarhati, India</city>
+	<city>Shizuishan, China</city>
+	<city>Khayelitsa, South Africa</city>
+	<city>NoviSad, Serbia</city>
+	<city>Rio Branco, Brazil</city>
+	<city>Meixian, China</city>
+	<city>Caucaia, Brazil</city>
+	<city>Khoramabad, Iran</city>
+	<city>Wugang (Henan), China</city>
+	<city>Okene, Nigeria</city>
+	<city>Pathum Thani, Thailand</city>
+	<city>Naha, Japan</city>
+	<city>Varna, Bulgaria</city>
+	<city>Hulin, China</city>
+	<city>Aomori, Japan</city>
+	<city>Calabar, Nigeria</city>
+	<city>Ostrava, Czech Republic</city>
+	<city>Petropolis, Brazil</city>
+	<city>Miyazaki, Japan</city>
+	<city>Muling, China</city>
+	<city>Lausanne, Switzerland</city>
+	<city>Sagar, India</city>
+	<city>Foz do Iguacu, Brazil</city>
+	<city>Najaf, Iraq</city>
+	<city>Cincinnati (OH), United States</city>
+	<city>Tongren, China</city>
+	<city>Port Sudan, Sudan</city>
+	<city>Cherepovets, Russia</city>
+	<city>Mannheim, Germany</city>
+	<city>Qazvin, Iran</city>
+	<city>Huancayo, Peru</city>
+	<city>Camaguey, Cuba</city>
+	<city>Yamunanagar, India</city>
+	<city>Kurume, Japan</city>
+	<city>Chita, Russia</city>
+	<city>Cluj-Napoca, Romania</city>
+	<city>Constanta, Romania</city>
+	<city>Muzaffarpur, India</city>
+	<city>Guaruja, Brazil</city>
+	<city>Ponta Grossa, Brazil</city>
+	<city>Pavlodar, Kazakhstan</city>
+	<city>Southampton, United Kingdom</city>
+	<city>Jincheng, China</city>
+	<city>Luohe, China</city>
+	<city>Cuenca, Ecuador</city>
+	<city>Yokkaichi, Japan</city>
+	<city>Ganja, Azerbaijan</city>
+	<city>Timisoara, Romania</city>
+	<city>Tepic, Mexico</city>
+	<city>Nampula, Mozambique</city>
+	<city>Yeosu, South Korea</city>
+	<city>Poltava, Ukraine</city>
+	<city>Catania, Italy</city>
+	<city>Tirupati, India</city>
+	<city>Ambattur, India</city>
+	<city>Brest, Belarus</city>
+	<city>South Lanarkshire, United Kingdom</city>
+	<city>Otsu, Japan</city>
+	<city>Yangzhong, China</city>
+	<city>Barcelona, Venezuela</city>
+	<city>Kingston-upon-Hull, United Kingdom</city>
+	<city>Toledo (OH), United States</city>
+	<city>Gaoming, China</city>
+	<city>Craiova, Romania</city>
+	<city>Wonsan, North Korea</city>
+	<city>Latur, India</city>
+	<city>Paulista, Brazil</city>
+	<city>San Isidro, Argentina</city>
+	<city>Blumenou, Brazil</city>
+	<city>Horlivka, Ukraine</city>
+	<city>Al-Hudaydah (Hodeidah), Yemen</city>
+	<city>Dexing, China</city>
+	<city>Chandrapur, India</city>
+	<city>Aurora (CO), United States</city>
+	<city>Kerbala, Iraq</city>
+	<city>Galati, Romania</city>
+	<city>Naltchik, Russia</city>
+	<city>Kharagpur, India</city>
+	<city>Kasugai, Japan</city>
+	<city>Bakersfield (CA), United States</city>
+	<city>Denizli, Turkey</city>
+	<city>Bialystok, Poland</city>
+	<city>Anning, China</city>
+	<city>NEW DELHI, India</city>
+	<city>Chernihiv, Ukraine</city>
+	<city>Rohtak, India</city>
+	<city>Vologda, Russia</city>
+	<city>Jishou, China</city>
+	<city>Århus, Denmark</city>
+	<city>Hakodate, Japan</city>
+	<city>Noida, India</city>
+	<city>Jhang, Pakistan</city>
+	<city>Vigo, Spain</city>
+	<city>Garoua, Cameroon</city>
+	<city>Fuquan, China</city>
+	<city>Resistencia, Argentina</city>
+	<city>Viña del Mar, Chile</city>
+	<city>Kaiyuan (Yunnan), China</city>
+	<city>Sumgayit, Azerbaijan</city>
+	<city>Cherkasy, Ukraine</city>
+	<city>Akashi, Japan</city>
+	<city>Fukushima, Japan</city>
+	<city>Shimonoseki, Japan</city>
+	<city>Kukatpalle, India</city>
+	<city>Soyapango, El Salvador</city>
+	<city>Surgut, Russia</city>
+	<city>Riverside (CA), United States</city>
+	<city>Kulti, India</city>
+	<city>Vitoria da Conquista, Brazil</city>
+	<city>Brahmapur, India</city>
+	<city>Vicente Lopez, Argentina</city>
+	<city>Sanmenxia, China</city>
+	<city>Ust-Kamenogorsk, Kazakhstan</city>
+	<city>Shaowu, China</city>
+	<city>Al-Hufuf, Saudi Arabia</city>
+	<city>Kindia, Guinea</city>
+	<city>Morioka, Japan</city>
+	<city>Nizamabad, India</city>
+	<city>Stockton (CA), United States</city>
+	<city>Palmira, Colombia</city>
+	<city>Quzhou, China</city>
+	<city>Barddhaman, India</city>
+	<city>Ichalakaranji, India</city>
+	<city>Kuitun, China</city>
+	<city>Uberaba, Brazil</city>
+	<city>Al-Mubarraz, Saudi Arabia</city>
+	<city>Iligan, Philippines</city>
+	<city>Sumy, Ukraine</city>
+	<city>Cascavel, Brazil</city>
+	<city>Delmas, Haiti</city>
+	<city>Sakarya, Turkey</city>
+	<city>Corpus Christi (TX), United States</city>
+	<city>Caruaru, Brazil</city>
+	<city>Tambov, Russia</city>
+	<city>Tongi, Bangladesh</city>
+	<city>Gebze, Turkey</city>
+	<city>Nzerekore, Guinea</city>
+	<city>Alappuzha, India</city>
+	<city>Armenia, Colombia</city>
+	<city>Ciudad Victoria, Mexico</city>
+	<city>GABORONE, Botswana</city>
+	<city>Buonmathuot, Viet Nam</city>
+	<city>Gelsenkirchen, Germany</city>
+	<city>Semipalatinsk, Kazakhstan</city>
+	<city>Elazig, Turkey</city>
+	<city>Rampur, India</city>
+	<city>Novorossiysk, Russia</city>
+	<city>Brasov, Romania</city>
+	<city>Newark (NJ), United States</city>
+	<city>Susano, Brazil</city>
+	<city>Sheikhu Pura, Pakistan</city>
+	<city>Ichihara, Japan</city>
+	<city>Bhilwara, India</city>
+	<city>Zuwarah, Libya</city>
+	<city>GEORGETOWN, Guyana</city>
+	<city>Jeju (Cheju), South Korea</city>
+	<city>Buffalo (NY), United States</city>
+	<city>Limeira, Brazil</city>
+	<city>Roodepoort, South Africa</city>
+	<city>Ciudad Bolivar, Venezuela</city>
+	<city>Mandaluyong, Philippines</city>
+	<city>Abadan, Iran</city>
+	<city>Kuching, Malaysia</city>
+	<city>Batman, Turkey</city>
+	<city>Karlsruhe, Germany</city>
+	<city>Zhytomyr, Ukraine</city>
+	<city>Belfast, United Kingdom</city>
+	<city>Santarem, Brazil</city>
+	<city>San Bernardo, Chile</city>
+	<city>Gyeongju (Kyongju), South Korea</city>
+	<city>Yoshkar-ola, Russia</city>
+	<city>St. Paul (MN), United States</city>
+	<city>Valparaiso, Chile</city>
+	<city>Anchorage (AK), United States</city>
+	<city>Huozhou, China</city>
+	<city>Wollongong, Australia</city>
+	<city>Holguin, Cuba</city>
+	<city>Gijon, Spain</city>
+	<city>Shimoga, India</city>
+	<city>Kostroma, Russia</city>
+	<city>Islam Shahr (Qasemabad), Iran</city>
+	<city>Yao, Japan</city>
+	<city>Cirebon, Indonesia</city>
+	<city>Phyongsong, North Korea</city>
+	<city>Gunsan (Kunsan), South Korea</city>
+	<city>Jining (Inner Mongolia), China</city>
+	<city>Merida, Venezuela</city>
+	<city>Komsomolsk-na-Amure, Russia</city>
+	<city>San Cristobal, Venezuela</city>
+	<city>Pekalongan, Indonesia</city>
+	<city>Rajarhat Gopalpur, India</city>
+	<city>Taubate, Brazil</city>
+	<city>Gravatai, Brazil</city>
+	<city>Swansea, United Kingdom</city>
+	<city>Nantes, France</city>
+	<city>Larkana, Pakistan</city>
+	<city>Kelamayi, China</city>
+	<city>Santa Maria, Brazil</city>
+	<city>Sukabumi, Indonesia</city>
+	<city>Banda Aceh, Indonesia</city>
+	<city>Nakhon Si Thammarat, Thailand</city>
+	<city>Southend, United Kingdom</city>
+	<city>Venezia, Italy</city>
+	<city>Wulanhaote, China</city>
+	<city>Irbid, Jordan</city>
+	<city>Hilla, Iraq</city>
+	<city>Wiesbaden, Germany</city>
+	<city>Wonju, South Korea</city>
+	<city>Lexington-Fayette (KY), United States</city>
+	<city>Ibaraki, Japan</city>
+	<city>Shillong, India</city>
+	<city>Tokushima, Japan</city>
+	<city>Angeles, Philippines</city>
+	<city>Monclova, Mexico</city>
+	<city>Zagazig, Egypt</city>
+	<city>Butuan, Philippines</city>
+	<city>Kakogawa, Japan</city>
+	<city>Ha'il, Saudi Arabia</city>
+	<city>Darbhanga, India</city>
+	<city>Haifa, Israel</city>
+	<city>San Pedro de Macoris, Dominican Republic</city>
+	<city>Taganrog, Russia</city>
+	<city>Nasariya, Iraq</city>
+	<city>Suncheon, South Korea</city>
+	<city>Sterlitamak, Russia</city>
+	<city>Alwar, India</city>
+	<city>Petrozavodsk, Russia</city>
+	<city>Cumana, Venezuela</city>
+	<city>Barueri, Brazil</city>
+	<city>Zhangping, China</city>
+	<city>Munster (Westf.), Germany</city>
+	<city>Chiayi, China</city>
+	<city>Fengzhen, China</city>
+	<city>Gunpo (Kunpo), South Korea</city>
+	<city>Monchengladbach, Germany</city>
+	<city>Strasbourg, France</city>
+	<city>Dasarahalli, India</city>
+	<city>Santiago del Estero, Argentina</city>
+	<city>Yakutsk, Russia</city>
+	<city>Chemnitz, Germany</city>
+	<city>Boksburg, South Africa</city>
+	<city>Hisar, India</city>
+	<city>Mito, Japan</city>
+	<city>Tarlac, Philippines</city>
+	<city>Hailaer, China</city>
+	<city>Maturin, Venezuela</city>
+	<city>L.B. Nagar, India</city>
+	<city>Viamao, Brazil</city>
+	<city>Yunfu, China</city>
+	<city>Bally, India</city>
+	<city>Santa Ana, El Salvador</city>
+	<city>Longjing, China</city>
+	<city>Kankan, Guinea</city>
+	<city>Sao Jose dos Pinhais, Brazil</city>
+	<city>Blackpool, United Kingdom</city>
+	<city>Cuddapah, India</city>
+	<city>Faiyum, Egypt</city>
+	<city>Bahia Blanca, Argentina</city>
+	<city>Verona, Italy</city>
+	<city>Petrolina, Brazil</city>
+	<city>Dzerzhinsk (Novgorodskaya oblast), Russia</city>
+	<city>Ratchaburi, Thailand</city>
+	<city>Mandaue, Philippines</city>
+	<city>Popayan, Colombia</city>
+	<city>Governador Valadares, Brazil</city>
+	<city>Katsina, Nigeria</city>
+	<city>San Miguel, El Salvador</city>
+	<city>Parbhani, India</city>
+	<city>Hiratsuka, Japan</city>
+	<city>Gajuwaka, India</city>
+	<city>Novo Hamburgo, Brazil</city>
+	<city>Volta Redonda, Brazil</city>
+	<city>Corrientes, Argentina</city>
+	<city>Aktobe, Kazakhstan</city>
+	<city>Sivas, Turkey</city>
+	<city>Floridablanca, Colombia</city>
+	<city>Thies, Senegal</city>
+	<city>Yamagata, Japan</city>
+	<city>Dnieprodzerzhynsk, Ukraine</city>
+	<city>Ismailia, Egypt</city>
+	<city>Augsburg, Germany</city>
+	<city>Varzea Grande, Brazil</city>
+	<city>Bengkulu, Indonesia</city>
+	<city>Halle, Germany</city>
+	<city>NIS, Serbia</city>
+	<city>PORT MORESBY, Papua New Guinea</city>
+	<city>Sariwon, North Korea</city>
+	<city>Ubon Ratchathani, Thailand</city>
+	<city>Bratsk, Russia</city>
+	<city>Bijapur, India</city>
+	<city>Kirovohrad, Ukraine</city>
+	<city>Khmelnytskiy (Hmilnyk), Ukraine</city>
+	<city>Sari, Iran</city>
+	<city>Dongsheng, China</city>
+	<city>Chuncheon, South Korea</city>
+	<city>Gdynia, Poland</city>
+	<city>Baguio, Philippines</city>
+	<city>Fukui, Japan</city>
+	<city>Junagadh, India</city>
+	<city>Kediri, Indonesia</city>
+	<city>Bamenda, Cameroon</city>
+	<city>Gujrat, Pakistan</city>
+	<city>Chishui, China</city>
+	<city>Tulufan, China</city>
+	<city>Orsk, Russia</city>
+	<city>Kure, Japan</city>
+	<city>Oshogbo, Nigeria</city>
+	<city>Baranagar, India</city>
+	<city>Mokpo, South Korea</city>
+	<city>Longquan, China</city>
+	<city>Plano (TX), United States</city>
+	<city>Osh, Kyrgyzstan</city>
+	<city>Lingwu, China</city>
+	<city>Leiden, Netherlands</city>
+	<city>Boa Vista, Brazil</city>
+	<city>Labe, Guinea</city>
+	<city>Alajuela, Costa Rica</city>
+	<city>St. Petersburg (FL), United States</city>
+	<city>Phra Nakhon Si Ayutthaya, Thailand</city>
+	<city>Pucallpa, Peru</city>
+	<city>Sfax, Tunisia</city>
+	<city>Qingtongxia, China</city>
+	<city>Tumkur, India</city>
+	<city>Russiefa, Jordan</city>
+	<city>Hospitalet de Llobregat, Spain</city>
+	<city>LJUBLJANA, Slovenia</city>
+	<city>Sasebo, Japan</city>
+	<city>Batangas, Philippines</city>
+	<city>Temuco, Chile</city>
+	<city>SUCRE, Bolivia</city>
+	<city>Najran (Aba as-Suud), Saudi Arabia</city>
+	<city>Shakhty, Russia</city>
+	<city>Batna, Algeria</city>
+	<city>Braunschweig, Germany</city>
+	<city>Saraburi, Thailand</city>
+	<city>Czestochowa, Poland</city>
+	<city>Imphal, India</city>
+	<city>Mardan, Pakistan</city>
+	<city>Embu, Brazil</city>
+	<city>Messina, Italy</city>
+	<city>Fuchu, Japan</city>
+	<city>Dordrecht, Netherlands</city>
+	<city>Praia Grande, Brazil</city>
+	<city>Kasur, Pakistan</city>
+	<city>Takasaki, Japan</city>
+	<city>Angarsk, Russia</city>
+	<city>Kashan, Iran</city>
+	<city>Hachinohe, Japan</city>
+	<city>Suqian, China</city>
+	<city>Syktivkar, Russia</city>
+	<city>Graz, Austria</city>
+	<city>Majnoon, Iraq</city>
+	<city>Rivne, Ukraine</city>
+	<city>Borujerd, Iran</city>
+	<city>Aachen, Germany</city>
+	<city>Plymouth, United Kingdom</city>
+	<city>Bergen, Norway</city>
+	<city>Anantapur, India</city>
+	<city>Aldershot, United Kingdom</city>
+	<city>Coruña(A), Spain</city>
+	<city>La Coruña, Spain</city>
+	<city>Jinshi, China</city>
+	<city>PARAMARIBO, Suriname</city>
+	<city>Thoothukkudi (Tuticorin), India</city>
+	<city>Farrukhabad-cum-Fategarh, India</city>
+	<city>Huayin, China</city>
+	<city>Tegal, Indonesia</city>
+	<city>Neyagawa, Japan</city>
+	<city>Krefeld, Germany</city>
+	<city>Dezful, Iran</city>
+	<city>Sincelejo, Colombia</city>
+	<city>Nizhenvartovsk, Russia</city>
+	<city>Narayanganj, Bangladesh</city>
+	<city>Chiang Rai, Thailand</city>
+	<city>Rangpur, Bangladesh</city>
+	<city>Gorgan, Iran</city>
+	<city>Juazeiro do Norte, Brazil</city>
+	<city>Jian (Jilin), China</city>
+	<city>Tiefa, China</city>
+	<city>Jersey City (NJ), United States</city>
+	<city>Glendale (AZ), United States</city>
+	<city>Lincoln (NE), United States</city>
+	<city>Habra, India</city>
+	<city>Akure, Nigeria</city>
+	<city>Itagui, Colombia</city>
+	<city>Kasukabe, Japan</city>
+	<city>Chernivtsy, Ukraine</city>
+	<city>Granada, Spain</city>
+	<city>Sumare, Brazil</city>
+	<city>Tembisa, South Africa</city>
+	<city>Bukhara, Uzbekistan</city>
+	<city>Dire Dawa, Ethiopia</city>
+	<city>Mage, Brazil</city>
+	<city>Derby, United Kingdom</city>
+	<city>Ramagundam, India</city>
+	<city>Fuji, Japan</city>
+	<city>Qods, Iran</city>
+	<city>Ipatinga, Brazil</city>
+	<city>Nagaoka, Japan</city>
+	<city>Luton/Dunstable, United Kingdom</city>
+	<city>Soka, Japan</city>
+	<city>Lishi, China</city>
+	<city>Karradah Sharqiyah, Iraq</city>
+	<city>Jalna, India</city>
+	<city>Saskatoon, Canada</city>
+	<city>BUJUMBURA, Burundi</city>
+	<city>Zacatecas, Mexico</city>
+	<city>Nakhon Pathom, Thailand</city>
+	<city>Magdeburg, Germany</city>
+	<city>Chandler (AZ), United States</city>
+	<city>Kosice, Slovakia</city>
+	<city>Kassala, Sudan</city>
+	<city>Kota Bahru, Malaysia</city>
+	<city>Engels, Russia</city>
+	<city>Kiel, Germany</city>
+	<city>KIGALI, Rwanda</city>
+	<city>Rahimyar Khan, Pakistan</city>
+	<city>WINDHOEK, Namibia</city>
+	<city>Ratlam, India</city>
+	<city>Espoo, Finland</city>
+	<city>Kousseri, Cameroon</city>
+	<city>Gent (Gand), Belgium</city>
+	<city>PORTO-NOVO, Benin</city>
+	<city>Imperatriz, Brazil</city>
+	<city>Henderson (NV), United States</city>
+	<city>Ivano-Frankivsk, Ukraine</city>
+	<city>Hafar al-Batin, Saudi Arabia</city>
+	<city>Bihar, India</city>
+	<city>Greensboro (NC), United States</city>
+	<city>Norfolk (VA), United States</city>
+	<city>The Medway Towns, United Kingdom</city>
+	<city>Ploiesti, Romania</city>
+	<city>Barasat, India</city>
+	<city>Birmingham (AL), United States</city>
+	<city>Durg, India</city>
+	<city>Avadi, India</city>
+	<city>Simao, China</city>
+	<city>Dewas, India</city>
+	<city>Porto, Portugal</city>
+	<city>Navotas, Philippines</city>
+	<city>Manisa, Turkey</city>
+	<city>Kremenchuh, Ukraine</city>
+	<city>Tacna, Peru</city>
+	<city>Uralsk, Kazakhstan</city>
+	<city>Blida (El Boulaida), Algeria</city>
+	<city>Mossoro, Brazil</city>
+	<city>Aizawl, India</city>
+	<city>Al-Obeid, Sudan</city>
+	<city>Navsari, India</city>
+	<city>Satna, India</city>
+	<city>Gurgaon, India</city>
+	<city>Haeju, North Korea</city>
+	<city>Chigasaki, Japan</city>
+	<city>Gangneung (Kangnung), South Korea</city>
+	<city>Gyeongsan, South Korea</city>
+	<city>Kuala Terengganu, Malaysia</city>
+	<city>Trabzon, Turkey</city>
+	<city>Kaolack, Senegal</city>
+	<city>Heyuan, China</city>
+	<city>Acarigua-Araure, Venezuela</city>
+	<city>Matsumoto, Japan</city>
+	<city>Vitoria-Gasteiz, Spain</city>
+	<city>Balikesir, Turkey</city>
+	<city>Mymensingh, Bangladesh</city>
+	<city>Colimas, Mexico</city>
+	<city>Nyala, Sudan</city>
+	<city>Sambalpur, India</city>
+	<city>Aberdeenshire, United Kingdom</city>
+	<city>Rancagua, Chile</city>
+	<city>Nizhnekamsk, Russia</city>
+	<city>Binjai, Indonesia</city>
+	<city>Radom, Poland</city>
+	<city>Scottsdale (AZ), United States</city>
+	<city>Quthbullapur, India</city>
+	<city>Montpellier, France</city>
+	<city>Biisk, Russia</city>
+	<city>Kandahar (Quandahar), Afghanistan</city>
+	<city>Maroua, Cameroon</city>
+	<city>Taboao da Serra, Brazil</city>
+	<city>Sosnowiec, Poland</city>
+	<city>Sonipat, India</city>
+	<city>Houma, China</city>
+	<city>Bole, China</city>
+	<city>LEFKOSIA, Cyprus</city>
+	<city>Pematang Siantar, Indonesia</city>
+	<city>English Bazar, India</city>
+	<city>Ambon, Indonesia</city>
+	<city>Marilia, Brazil</city>
+	<city>AsSeeb, Oman</city>
+	<city>Kanggye, North Korea</city>
+	<city>Fort Wayne (IN), United States</city>
+	<city>Santa Cruz de Tenerife, Spain</city>
+	<city>Mwanza, Tanzania</city>
+	<city>Lasa, China</city>
+	<city>Mohammedia, Morocco</city>
+	<city>Cabanatuan, Philippines</city>
+	<city>Ganganagar, India</city>
+	<city>Tarsus, Turkey</city>
+	<city>Al-Jubayl, Saudi Arabia</city>
+	<city>Tilburg, Netherlands</city>
+	<city>Atsugi, Japan</city>
+	<city>Oberhausen, Germany</city>
+	<city>Baton Rouge (LA), United States</city>
+	<city>Karnal, India</city>
+	<city>San Fernando City, Philippines</city>
+	<city>Barinas, Venezuela</city>
+	<city>Madison (WI), United States</city>
+	<city>Bayamon, Puerto Rico</city>
+	<city>Badalona, Spain</city>
+	<city>Nhatrang, Viet Nam</city>
+	<city>Yamato, Japan</city>
+	<city>Itaborai, Brazil</city>
+	<city>Ilheus, Brazil</city>
+	<city>Palmas, Brazil</city>
+	<city>Rishon Leziyyon, Israel</city>
+	<city>Hialeah (FL), United States</city>
+	<city>Hardwar, India</city>
+	<city>Ageo, Japan</city>
+	<city>Groznyi, Russia</city>
+	<city>North Dumdum, India</city>
+	<city>Concepcion, Chile</city>
+	<city>Takarazuka, Japan</city>
+	<city>Wadhwan, India</city>
+	<city>Santa Luzia (Minas Gerais), Brazil</city>
+	<city>George Town, Malaysia</city>
+	<city>Aswan, Egypt</city>
+	<city>Ternopil, Ukraine</city>
+	<city>Hue, Viet Nam</city>
+	<city>Elche, Spain</city>
+	<city>Chesapeake (VA), United States</city>
+	<city>Bobruisk, Belarus</city>
+	<city>Sao Carlo, Brazil</city>
+	<city>Starsy Oskol, Russia</city>
+	<city>Lipa, Philippines</city>
+	<city>Anand, India</city>
+	<city>Chungju, South Korea</city>
+	<city>Ozhukarai, India</city>
+	<city>Bathinda, India</city>
+	<city>Machala, Ecuador</city>
+	<city>Velikiy Novgorod, Russia</city>
+	<city>Lapu-Lapu, Philippines</city>
+	<city>Lampang, Thailand</city>
+	<city>Prokopyevsk, Russia</city>
+	<city>Northshore, New Zealand</city>
+	<city>Braila, Romania</city>
+	<city>Oruro, Bolivia</city>
+	<city>Campeche, Mexico</city>
+	<city>Garland (TX), United States</city>
+	<city>Chofu, Japan</city>
+	<city>Blagoveshchensk (Amurskaya oblast), Russia</city>
+	<city>Karimnagar, India</city>
+	<city>Thanjavur, India</city>
+	<city>Cantho, Viet Nam</city>
+	<city>Naihati, India</city>
+	<city>Eluru, India</city>
+	<city>Sabzewar, Iran</city>
+	<city>Bordeaux, France</city>
+	<city>Helong, China</city>
+	<city>Sete Lagoas, Brazil</city>
+	<city>Sunshine Coast, Australia</city>
+	<city>Alvorada, Brazil</city>
+	<city>Oviedo, Spain</city>
+	<city>Setif (Stif), Algeria</city>
+	<city>Rybinsk, Russia</city>
+	<city>Lucheng, China</city>
+	<city>Lubeck, Germany</city>
+	<city>Ota, Japan</city>
+	<city>Cabimas, Venezuela</city>
+	<city>Orlando (FL), United States</city>
+	<city>Kalasin, Thailand</city>
+	<city>Sao Leopoldo, Brazil</city>
+	<city>Norilsk, Russia</city>
+	<city>Wuyishan, China</city>
+	<city>Aberdeen, United Kingdom</city>
+	<city>Nukus, Uzbekistan</city>
+	<city>Hapur, India</city>
+	<city>Parana, Argentina</city>
+	<city>Tiruvottiyur, India</city>
+	<city>Santo Domingo de los Colorados, Ecuador</city>
+	<city>Jacarei, Brazil</city>
+	<city>Etawah, India</city>
+	<city>Al-Gezira, Sudan</city>
+	<city>Hunchun, China</city>
+	<city>Rochester (NY), United States</city>
+	<city>NASSAU, Bahamas</city>
+	<city>Akron (OH), United States</city>
+	<city>Posadas, Argentina</city>
+	<city>Padova, Italy</city>
+	<city>Chula Vista (CA), United States</city>
+	<city>Maunath Bhanjan, India</city>
+	<city>Lubbock (TX), United States</city>
+	<city>Heerlen-Kerkrade, Netherlands</city>
+	<city>Damanhur, Egypt</city>
+	<city>Campha, Viet Nam</city>
+	<city>Highland, United Kingdom</city>
+	<city>Kramatorsk, Ukraine</city>
+	<city>Armavir, Russia</city>
+	<city>Amara, Iraq</city>
+	<city>Sahiwal, Pakistan</city>
+	<city>Laredo (TX), United States</city>
+	<city>Santa Clara, Cuba</city>
+	<city>Cartagena, Spain</city>
+	<city>Guantanamo, Cuba</city>
+	<city>Juliaca, Peru</city>
+	<city>Juazeiro, Brazil</city>
+	<city>Faizabad, India</city>
+	<city>Nagercoil, India</city>
+	<city>Kirikkale, Turkey</city>
+	<city>Joetsu, Japan</city>
+	<city>Numazu, Japan</city>
+	<city>Divinopolis, Brazil</city>
+	<city>San Pablo, Philippines</city>
+	<city>Kustanai, Kazakhstan</city>
+	<city>Dearne Valley, United Kingdom</city>
+	<city>Kielce, Poland</city>
+	<city>Torun, Poland</city>
+	<city>Modesto (CA), United States</city>
+	<city>Saga, Japan</city>
+	<city>Presidente Prudente, Brazil</city>
+	<city>Buri Ram, Thailand</city>
+	<city>Bauchi, Nigeria</city>
+	<city>Mostoles, Spain</city>
+	<city>Rennes, France</city>
+	<city>Kimberley, South Africa</city>
+	<city>Oradea, Romania</city>
+	<city>Neyshabur, Iran</city>
+	<city>Ica, Peru</city>
+	<city>Trieste, Italy</city>
+	<city>Gujiao, China</city>
+	<city>Raichur, India</city>
+	<city>Bafoussam, Cameroon</city>
+	<city>Pyatigorsk, Russia</city>
+	<city>Tampere, Finland</city>
+	<city>Mirzapur-cum-Vindhyachal, India</city>
+	<city>Hagen, Germany</city>
+	<city>Bharatpur, India</city>
+	<city>Itabuna, Brazil</city>
+	<city>Ajman, United Arab Emirates</city>
+	<city>Jinchang, China</city>
+	<city>Durham (NC), United States</city>
+	<city>Karshi, Uzbekistan</city>
+	<city>Najafabad, Iran</city>
+	<city>Secunderabad, India</city>
+	<city>Debrecen, Hungary</city>
+	<city>Talca, Chile</city>
+	<city>Adiyaman, Turkey</city>
+	<city>Americana, Brazil</city>
+	<city>DODOMA, Tanzania</city>
+	<city>Ambarnath, India</city>
+	<city>Reno (NV), United States</city>
+	<city>Hobart, Australia</city>
+	<city>Toamasina, Madagascar</city>
+	<city>Turmero, Venezuela</city>
+	<city>Arrah, India</city>
+	<city>Rostock, Germany</city>
+	<city>San Lorenzo, Paraguay</city>
+	<city>Itapevi, Brazil</city>
+	<city>Linxia, China</city>
+	<city>Freiburg im Breisgau, Germany</city>
+	<city>Isesaki, Japan</city>
+	<city>Kuantan, Malaysia</city>
+	<city>Arapiraca, Brazil</city>
+	<city>Ashdod, Israel</city>
+	<city>Tamale, Ghana</city>
+	<city>Uluberia, India</city>
+	<city>Abha, Saudi Arabia</city>
+	<city>Okara, Pakistan</city>
+	<city>Hortolandia, Brazil</city>
+	<city>Tottori, Japan</city>
+	<city>Menia, Egypt</city>
+	<city>Alcala de Henares, Spain</city>
+	<city>Charleroi, Belgium</city>
+	<city>Erfurt, Germany</city>
+	<city>Bommanahalli, India</city>
+	<city>Rayong, Thailand</city>
+	<city>Sao Jose, Brazil</city>
+	<city>Kishiwada, Japan</city>
+	<city>Al-Kharj, Saudi Arabia</city>
+	<city>Mejicanos, El Salvador</city>
+	<city>Bila Tserkva (Belaya Tserkov), Ukraine</city>
+	<city>Maraba, Brazil</city>
+	<city>Sabadell, Spain</city>
+	<city>Tsukuba, Japan</city>
+	<city>Fremont (CA), United States</city>
+	<city>Probolinggo, Indonesia</city>
+	<city>Balakovo, Russia</city>
+	<city>Atushi, China</city>
+	<city>Taiping, Malaysia</city>
+	<city>Montgomery (AL), United States</city>
+	<city>Glendale (CA), United States</city>
+	<city>Al Khums, Libya</city>
+	<city>Ziguinchor, Senegal</city>
+	<city>Groningen, Netherlands</city>
+	<city>Lutsk, Ukraine</city>
+	<city>Terrassa, Spain</city>
+	<city>Araraquara, Brazil</city>
+	<city>Jerez de la Frontera, Spain</city>
+	<city>Hitachi, Japan</city>
+	<city>Luzern, Switzerland</city>
+	<city>Gliwice, Poland</city>
+	<city>Nakhon Sawan, Thailand</city>
+	<city>Wah Cantonment, Pakistan</city>
+	<city>Shreveport (LA), United States</city>
+	<city>Odawara, Japan</city>
+	<city>San Bernardino (CA), United States</city>
+	<city>Regina, Canada</city>
+	<city>Cachoeiro de Itapemirim, Brazil</city>
+	<city>Serampore, India</city>
+	<city>Samut Sakhon, Thailand</city>
+	<city>BISSAU, Guinea-Bissau</city>
+	<city>Kokand, Uzbekistan</city>
+	<city>Porbandar, India</city>
+	<city>Sirjan, Iran</city>
+	<city>Palakkad, India</city>
+	<city>Northampton, United Kingdom</city>
+	<city>Salmiya, Kuwait</city>
+	<city>Camacari, Brazil</city>
+	<city>Rio Grande, Brazil</city>
+	<city>Taranto, Italy</city>
+	<city>Spokane (WA), United States</city>
+	<city>Khammam, India</city>
+	<city>Purnia, India</city>
+	<city>Nadiad, India</city>
+	<city>Dindigul, India</city>
+	<city>Matsue, Japan</city>
+	<city>Babol, Iran</city>
+	<city>Diwaniya, Iraq</city>
+	<city>Yonkers (NY), United States</city>
+	<city>Maracanau, Brazil</city>
+	<city>Kassel, Germany</city>
+	<city>Severodvinsk, Russia</city>
+	<city>Lucena City, Philippines</city>
+	<city>Dehiwala-Mount Lavinia, Sri Lanka</city>
+	<city>Banja Luka, Bosnia and Herzegovina</city>
+	<city>Arlington (VA), United States</city>
+	<city>Pskov, Russia</city>
+	<city>Tacoma (WA), United States</city>
+	<city>Gandhinagar, India</city>
+	<city>Pamplona, Spain</city>
+	<city>Amol, Iran</city>
+	<city>Vizianagarm, India</city>
+	<city>Waitakere, New Zealand</city>
+	<city>Petropavlovsk-Kamchatsky, Russia</city>
+	<city>Portoviejo, Ecuador</city>
+	<city>Norwich, United Kingdom</city>
+	<city>Huntington Beach (CA), United States</city>
+	<city>Burhanpur, India</city>
+	<city>Olongapo, Philippines</city>
+	<city>Kofu, Japan</city>
+	<city>Des Moines (IA), United States</city>
+	<city>Kocaeli, Turkey</city>
+	<city>Grand Rapids (MI), United States</city>
+	<city>Richmond (VA), United States</city>
+	<city>Winston-Salem (NC), United States</city>
+	<city>Fuenlabrada, Spain</city>
+	<city>Irving (TX), United States</city>
+	<city>Seremban, Malaysia</city>
+	<city>Manta, Ecuador</city>
+	<city>Boise City (ID), United States</city>
+	<city>Suzuka, Japan</city>
+	<city>Jayapura, Indonesia</city>
+	<city>Barisal, Bangladesh</city>
+	<city>Heihe, China</city>
+	<city>Apopa, El Salvador</city>
+	<city>Ramadi, Iraq</city>
+	<city>Zlatoust, Russia</city>
+	<city>Itami, Japan</city>
+	<city>La Paz, Mexico</city>
+	<city>Yangsan, South Korea</city>
+	<city>Ath-Thuqbah, Saudi Arabia</city>
+	<city>Hamilton, New Zealand</city>
+	<city>Yamaguchi, Japan</city>
+	<city>Mobile (AL), United States</city>
+	<city>Al-Gadarif, Sudan</city>
+	<city>Kumagaya, Japan</city>
+	<city>Katihar, India</city>
+	<city>Le Havre, France</city>
+	<city>Augusta-Richmond (GA), United States</city>
+	<city>Zabrze, Poland</city>
+	<city>Brescia, Italy</city>
+	<city>Barrancabermeja, Colombia</city>
+	<city>Dera Ghazi Khan, Pakistan</city>
+	<city>Rio Claro, Brazil</city>
+	<city>Wusu, China</city>
+	<city>Petropavlovsk (Severo- Kazakhstanskaya oblast), Kazakhstan</city>
+	<city>REYKJAVIK, Iceland</city>
+	<city>Tulua, Colombia</city>
+	<city>Nishitokyo, Japan</city>
+	<city>Mirpur Khas, Pakistan</city>
+	<city>Haarlem, Netherlands</city>
+	<city>Uji, Japan</city>
+	<city>Nazareth, Ethiopia</city>
+	<city>Agartala, India</city>
+	<city>Nawabshah, Pakistan</city>
+	<city>Osmaniye, Turkey</city>
+	<city>Minna, Nigeria</city>
+	<city>Bourgas, Bulgaria</city>
+	<city>Yumen, China</city>
+	<city>Split, Croatia</city>
+	<city>Vantaa, Finland</city>
+	<city>Yanbu al-Bahr, Saudi Arabia</city>
+	<city>Santa Barbara D'Oeste, Brazil</city>
+	<city>Linz, Austria</city>
+	<city>Kancheepuram, India</city>
+	<city>Passo Fundo, Brazil</city>
+	<city>Criciúma, Brazil</city>
+	<city>Dunhuang, China</city>
+	<city>Carolina, Puerto Rico</city>
+	<city>Pali, India</city>
+	<city>Bhusawal, India</city>
+	<city>Tanga, Tanzania</city>
+	<city>Krishnarajapura, India</city>
+	<city>Munger, India</city>
+	<city>Luziania, Brazil</city>
+	<city>Bytom, Poland</city>
+	<city>Reims, France</city>
+	<city>Varamin, Iran</city>
+	<city>Liege (Luik), Belgium</city>
+	<city>Birjand, Iran</city>
+	<city>Ife, Nigeria</city>
+	<city>Irvine (CA), United States</city>
+	<city>Murwara (Katni), India</city>
+	<city>Klaipeda, Lithuania</city>
+	<city>Odense, Denmark</city>
+	<city>Dourados, Brazil</city>
+	<city>Cork, Ireland</city>
+	<city>Hetian, China</city>
+	<city>Singrauli, India</city>
+	<city>Mesquita, Brazil</city>
+	<city>Sikar, India</city>
+	<city>Almeria, Spain</city>
+	<city>Columbus (GA), United States</city>
+	<city>Be'er Sheva, Israel</city>
+	<city>Nong Khai, Thailand</city>
+	<city>Linjiang, China</city>
+	<city>Prato, Italy</city>
+	<city>Ikorodu, Nigeria</city>
+	<city>Nala Sopara, India</city>
+	<city>Little Rock (AR), United States</city>
+	<city>Milton Keynes, United Kingdom</city>
+	<city>Lille, France</city>
+	<city>Higashihiroshima, Japan</city>
+	<city>Silchar, India</city>
+	<city>Reggio di Calabria, Italy</city>
+	<city>Uppsala, Sweden</city>
+	<city>Sidi-bel-Abbes, Algeria</city>
+	<city>Balashikha, Russia</city>
+	<city>Saarbrucken, Germany</city>
+	<city>Kutaisi, Georgia</city>
+	<city>Kodaira, Japan</city>
+	<city>Duran, Ecuador</city>
+	<city>Kyzylorda, Kazakhstan</city>
+	<city>Oxnard (CA), United States</city>
+	<city>Kamensk-Uralsky, Russia</city>
+	<city>Neuquen, Argentina</city>
+	<city>Machilipatnam, India</city>
+	<city>Donostia - San Sebastian, Spain</city>
+	<city>Rewa, India</city>
+	<city>Kut, Iraq</city>
+	<city>Mainz, Germany</city>
+	<city>Fergana, Uzbekistan</city>
+	<city>Amarillo (TX), United States</city>
+	<city>Sunderland, United Kingdom</city>
+	<city>Sambhal, India</city>
+	<city>Santander, Spain</city>
+	<city>Leganes, Spain</city>
+	<city>Bojnurd, Iran</city>
+	<city>Andong, South Korea</city>
+	<city>Pireas, Greece</city>
+	<city>Hamm, Germany</city>
+	<city>Petah Tiqwa, Israel</city>
+	<city>Narathiwat, Thailand</city>
+	<city>Aracatuba, Brazil</city>
+	<city>Kushiro, Japan</city>
+	<city>Syzran, Russia</city>
+	<city>St. John's, Canada</city>
+	<city>Dos Quebradas, Colombia</city>
+	<city>Ponce, Puerto Rico</city>
+	<city>Indaiatuba, Brazil</city>
+	<city>Manzhouli, China</city>
+	<city>Khomeini shahr, Iran</city>
+	<city>Miquan, China</city>
+	<city>Byatarayanapura, India</city>
+	<city>Yuzhno-Sakhalinsk, Russia</city>
+	<city>Asan, South Korea</city>
+	<city>Yachiyo, Japan</city>
+	<city>Khimki, Russia</city>
+	<city>Saint-etienne, France</city>
+	<city>Modena, Italy</city>
+	<city>Antsirabe, Madagascar</city>
+	<city>Crawley, United Kingdom</city>
+	<city>Knoxville (TN), United States</city>
+	<city>San Salvador de Jujuy, Argentina</city>
+	<city>Newport News (VA), United States</city>
+	<city>Icheon, South Korea</city>
+	<city>Cotia, Brazil</city>
+	<city>Tagum, Philippines</city>
+	<city>Bacau, Romania</city>
+	<city>Podolsk, Russia</city>
+	<city>Nossa Senhora do Socorro, Brazil</city>
+	<city>Ube, Japan</city>
+	<city>Chapra, India</city>
+	<city>Novocherkassk, Russia</city>
+	<city>Envigado, Colombia</city>
+	<city>Tacloban, Philippines</city>
+	<city>Aletai, China</city>
+	<city>Almere, Netherlands</city>
+	<city>Yingtan, China</city>
+	<city>Moreno Valley (CA), United States</city>
+	<city>Iquique, Chile</city>
+	<city>Nova Friburgo, Brazil</city>
+	<city>Salt Lake City (UT), United States</city>
+	<city>Hyesan, North Korea</city>
+	<city>Jackson (MS), United States</city>
+	<city>Botshabelo, South Africa</city>
+	<city>Izumi (Osaka), Japan</city>
+	<city>Herat, Afghanistan</city>
+	<city>Biskra, Algeria</city>
+	<city>Mitaka, Japan</city>
+	<city>Pasuruan, Indonesia</city>
+	<city>MANAMA, Bahrain</city>
+	<city>Lemesos, Cyprus</city>
+	<city>Providence (RI), United States</city>
+	<city>Bielsko-Biala, Poland</city>
+	<city>Jessore, Bangladesh</city>
+	<city>North Las Vegas (NV), United States</city>
+	<city>Hino, Japan</city>
+	<city>Ferraz de Vasconcelos, Brazil</city>
+	<city>Bharuch, India</city>
+	<city>Mangaung, South Africa</city>
+	<city>Parma, Italy</city>
+	<city>Puerto Cabello, Venezuela</city>
+	<city>Los Teques, Venezuela</city>
+	<city>Bulandshahr, India</city>
+	<city>Riohacha, Colombia</city>
+	<city>Barra Mansa, Brazil</city>
+	<city>Puerto Montt, Chile</city>
+	<city>Kutahya, Turkey</city>
+	<city>Worcester (MA), United States</city>
+	<city>Sobral, Brazil</city>
+	<city>Atirau, Kazakhstan</city>
+	<city>Herne, Germany</city>
+	<city>Maikop, Russia</city>
+	<city>Takoradi, Ghana</city>
+	<city>Malolos, Philippines</city>
+	<city>Nueva San Salvador, El Salvador</city>
+	<city>Turku, Finland</city>
+	<city>Sullana, Peru</city>
+	<city>Raiganj, India</city>
+	<city>La Serena, Chile</city>
+	<city>Malkajgiri, India</city>
+	<city>Amadora, Portugal</city>
+	<city>Kragujevac, Serbia</city>
+	<city>Olsztyn, Poland</city>
+	<city>Vasai, India</city>
+	<city>Phusro, India</city>
+	<city>Chlef (Ech Cheliff), Algeria</city>
+	<city>Gilbert (AZ), United States</city>
+	<city>Imabari, Japan</city>
+	<city>Corum, Turkey</city>
+	<city>Mulheim an der Ruhr, Germany</city>
+	<city>Mangora, Pakistan</city>
+	<city>Xilin'haote, China</city>
+	<city>Bidar, India</city>
+	<city>Burgos, Spain</city>
+	<city>Ibirite, Brazil</city>
+	<city>Kosti, Sudan</city>
+	<city>Miskolc, Hungary</city>
+	<city>Chapeco, Brazil</city>
+	<city>Arica, Chile</city>
+	<city>Hirosaki, Japan</city>
+	<city>Kaliningrad (Moskovskaya oblast), Russia</city>
+	<city>Bukand, Iran</city>
+	<city>Kottayam, India</city>
+	<city>Renfrewshire, United Kingdom</city>
+	<city>Tomakomai, Japan</city>
+	<city>Ontario (CA), United States</city>
+	<city>Netanya, Israel</city>
+	<city>Tachikawa, Japan</city>
+	<city>Chiniot, Pakistan</city>
+	<city>Cabo de Santo Agostinho, Brazil</city>
+	<city>Castellon de la Plana, Spain</city>
+	<city>Khandwa, India</city>
+	<city>Nakhodka, Russia</city>
+	<city>Pointe-a-Pitre, Guadeloupe</city>
+	<city>Beni-Suef, Egypt</city>
+	<city>Namdinh, Viet Nam</city>
+	<city>Bat Dambang, Cambodia</city>
+	<city>Alexandra, South Africa</city>
+	<city>Sakura, Japan</city>
+	<city>Kamakura, Japan</city>
+	<city>Chimoio, Mozambique</city>
+	<city>Iseyin, Nigeria</city>
+	<city>Tarija, Bolivia</city>
+	<city>Iwata, Japan</city>
+	<city>Haldia, India</city>
+	<city>Temirtau, Kazakhstan</city>
+	<city>Francisco Morato, Brazil</city>
+	<city>Obihiro, Japan</city>
+	<city>Volgodonsk, Russia</city>
+	<city>Mutare, Zimbabwe</city>
+	<city>Luque, Paraguay</city>
+	<city>Sohag, Egypt</city>
+	<city>Madiun, Indonesia</city>
+	<city>Kabwe, Zambia</city>
+	<city>Malappuram, India</city>
+	<city>Baharampur, India</city>
+	<city>Anjo, Japan</city>
+	<city>Pitesti, Romania</city>
+	<city>Hugli-Chinsurah, India</city>
+	<city>Parnamirim, Brazil</city>
+	<city>Moratuwa, Sri Lanka</city>
+	<city>Rondonopolis, Brazil</city>
+	<city>Breda, Netherlands</city>
+	<city>Bhiwani, India</city>
+	<city>Rancho Cucamonga (CA), United States</city>
+	<city>Rae Bareli, India</city>
+	<city>Guarenas, Venezuela</city>
+	<city>Ambato, Ecuador</city>
+	<city>Malayer, Iran</city>
+	<city>Guarapuava, Brazil</city>
+	<city>EL AAIUN, Western Sahara</city>
+	<city>Matsusaka, Japan</city>
+	<city>Aguas Lindas de Goias, Brazil</city>
+	<city>Patrai, Greece</city>
+	<city>Lages, Brazil</city>
+	<city>Bahraich, India</city>
+	<city>Qaem shahr, Iran</city>
+	<city>Hadano, Japan</city>
+	<city>Pathankot, India</city>
+	<city>Santa Clarita (CA), United States</city>
+	<city>Aurora (IL), United States</city>
+	<city>Itajai, Brazil</city>
+	<city>Ussuriisk, Russia</city>
+	<city>Geoje, South Korea</city>
+	<city>Ambala, India</city>
+	<city>Arad, Romania</city>
+	<city>SUVA, Fiji</city>
+	<city>Coquimbo, Chile</city>
+	<city>Baranovichi, Belarus</city>
+	<city>Bidhan Nagar, India</city>
+	<city>Miass, Russia</city>
+	<city>Takaoka, Japan</city>
+	<city>Berezniki, Russia</city>
+	<city>Brownsville (TX), United States</city>
+	<city>Fort Lauderdale (FL), United States</city>
+	<city>Ishinomaki, Japan</city>
+	<city>Coro, Venezuela</city>
+	<city>Khoy, Iran</city>
+	<city>Chirala, India</city>
+	<city>Wigan, United Kingdom</city>
+	<city>Biratnagar, Nepal</city>
+	<city>Holon, Israel</city>
+	<city>Comilla, Bangladesh</city>
+	<city>Huntsville (AL), United States</city>
+	<city>Oceanside (CA), United States</city>
+	<city>Mango, India</city>
+	<city>Garden Grove (CA), United States</city>
+	<city>Palangkaraya, Indonesia</city>
+	<city>Hebron, Palestine, Occupied Territory</city>
+	<city>Aktau, Kazakhstan</city>
+	<city>Amersfoort, Netherlands</city>
+	<city>Geelong, Australia</city>
+	<city>Al-Khubar, Saudi Arabia</city>
+	<city>Cabo Frio, Brazil</city>
+	<city>Solingen, Germany</city>
+	<city>Qarchak, Iran</city>
+	<city>Fianarantsoa, Madagascar</city>
+	<city>Tsu, Japan</city>
+	<city>Chingola, Zambia</city>
+	<city>Proddatur, India</city>
+	<city>Amroha, India</city>
+	<city>Overland Park (KS), United States</city>
+	<city>Sherbrooke, Canada</city>
+	<city>Alcorcon, Spain</city>
+	<city>Tongjiang, China</city>
+	<city>Osnabruck, Germany</city>
+	<city>Alor Setar, Malaysia</city>
+	<city>Corlu, Turkey</city>
+	<city>Germiston, South Africa</city>
+	<city>Szeged, Hungary</city>
+	<city>Ciudad Delgado, El Salvador</city>
+	<city>Chardzhou, Turkmenistan</city>
+	<city>Tumaco, Colombia</city>
+	<city>Fontana (CA), United States</city>
+	<city>Cotabato, Philippines</city>
+	<city>Ludwigshafen am Rhein, Germany</city>
+	<city>Sultan Pur Majra, India</city>
+	<city>Gombe, Nigeria</city>
+	<city>Abakan, Russia</city>
+	<city>Ålborg, Denmark</city>
+	<city>Qui Nhon, Viet Nam</city>
+	<city>Springs, South Africa</city>
+	<city>Hospet, India</city>
+	<city>Rzeszow, Poland</city>
+	<city>Gondar, Ethiopia</city>
+	<city>Bitung, Indonesia</city>
+	<city>Lalitpur, Nepal</city>
+	<city>Plzen, Czech Republic</city>
+	<city>Mytishchi, Russia</city>
+	<city>Itapecerica da Serra, Brazil</city>
+	<city>Chandan Nagar, India</city>
+	<city>Sudbury, Canada</city>
+	<city>Puerto Princesa, Philippines</city>
+	<city>Abbotsford, Canada</city>
+	<city>Perugia, Italy</city>
+	<city>Ayacucho, Peru</city>
+	<city>Albacete, Spain</city>
+	<city>Roi Et, Thailand</city>
+	<city>Tempe (AZ), United States</city>
+	<city>Adoni, India</city>
+	<city>Leverkusen, Germany</city>
+	<city>Kumbakonam, India</city>
+	<city>Macae, Brazil</city>
+	<city>Salatiga, Indonesia</city>
+	<city>Toulon, France</city>
+	<city>Livorno, Italy</city>
+	<city>Ciudad Del Carmen, Mexico</city>
+	<city>Bhadravati, India</city>
+	<city>Kota Kinabalu, Malaysia</city>
+	<city>Trondheim, Norway</city>
+	<city>Oyama, Japan</city>
+	<city>Sirsa, India</city>
+	<city>Jaunpur, India</city>
+	<city>s-Hertogenbosch, Netherlands</city>
+	<city>Cagliari, Italy</city>
+	<city>Ashikaga, Japan</city>
+	<city>Salamanca, Spain</city>
+	<city>Kanchanaburi, Thailand</city>
+	<city>Jiayuguan, China</city>
+	<city>Nijmegen, Netherlands</city>
+	<city>Kapra, India</city>
+	<city>Melitopol, Ukraine</city>
+	<city>Haldwani-cum-Kathgodam, India</city>
+	<city>Effon-Alaiye, Nigeria</city>
+	<city>Dayton (OH), United States</city>
+	<city>Lyubertsy, Russia</city>
+	<city>Narashino, Japan</city>
+	<city>West Lothian, United Kingdom</city>
+	<city>Iskenderun, Turkey</city>
+	<city>El Djelfa, Algeria</city>
+	<city>Reggio nell'Emilia, Italy</city>
+	<city>Cuddalore, India</city>
+	<city>Tallahassee (FL), United States</city>
+	<city>Castanhal, Brazil</city>
+	<city>Pervouralsk, Russia</city>
+	<city>Nacala, Mozambique</city>
+	<city>Warrington, United Kingdom</city>
+	<city>Pangkal Pinang, Indonesia</city>
+	<city>Mansfield, United Kingdom</city>
+	<city>Sayama, Japan</city>
+	<city>Rubtsovsk, Russia</city>
+	<city>Dinajpur, Bangladesh</city>
+	<city>Isparta, Turkey</city>
+	<city>Veraval, India</city>
+	<city>Kawanishi, Japan</city>
+	<city>Tunja, Colombia</city>
+	<city>Zanzibar, Tanzania</city>
+	<city>Puri, India</city>
+	<city>Rousse, Bulgaria</city>
+	<city>Vancouver (WA), United States</city>
+	<city>Genhe, China</city>
+	<city>Owo, Nigeria</city>
+	<city>Legasp, Philippines</city>
+	<city>Robertson Pet, India</city>
+	<city>Talcahuano, Chile</city>
+	<city>Ngaoundere, Cameroon</city>
+	<city>Shebin-El-Kom, Egypt</city>
+	<city>Sandakan, Malaysia</city>
+	<city>Salavat, Russia</city>
+	<city>Salalah, Oman</city>
+	<city>Portmore, Jamaica</city>
+	<city>Surendranagar Dudhrej, India</city>
+	<city>Pecs, Hungary</city>
+	<city>Getafe, Spain</city>
+	<city>Pokhara, Nepal</city>
+	<city>Baleshwar, India</city>
+	<city>Tlemcen (Tilimsen), Algeria</city>
+	<city>Nandyal, India</city>
+	<city>Ado-Ekiti, Nigeria</city>
+	<city>Itu, Brazil</city>
+	<city>Apeldoorn, Netherlands</city>
+	<city>Madhyamgram, India</city>
+	<city>Swindon, United Kingdom</city>
+	<city>Kena, Egypt</city>
+	<city>Maraqeh, Iran</city>
+	<city>Urayasu, Japan</city>
+	<city>Ruili, China</city>
+	<city>Kingston, Canada</city>
+	<city>Gadag-Betgeri, India</city>
+	<city>Bogra, Bangladesh</city>
+	<city>Chattanooga (TN), United States</city>
+	<city>Pocos de Caldas, Brazil</city>
+	<city>Capiata, Paraguay</city>
+	<city>Sibiu, Romania</city>
+	<city>Enschede, Netherlands</city>
+	<city>Tebessa, Algeria</city>
+	<city>Ormoc, Philippines</city>
+	<city>San Carlos (Pangasinan), Philippines</city>
+	<city>Oldenburg, Germany</city>
+	<city>Kirari Suleman Nagar, India</city>
+	<city>Kerch, Ukraine</city>
+	<city>Pomona (CA), United States</city>
+	<city>Bhind, India</city>
+	<city>Luxer, Egypt</city>
+	<city>Hitachinaka, Japan</city>
+	<city>Chhindwara, India</city>
+	<city>Foggia, Italy</city>
+	<city>Skikda, Algeria</city>
+	<city>Grenoble, France</city>
+	<city>Mutrah, Oman</city>
+	<city>Medinipur, India</city>
+	<city>Niiza, Japan</city>
+	<city>Santa Rosa (CA), United States</city>
+	<city>Karur, India</city>
+	<city>Leskovac, Serbia</city>
+	<city>Chillan, Chile</city>
+	<city>Chittoor, India</city>
+	<city>Fukang, China</city>
+	<city>Ongole, India</city>
+	<city>Aydin, Turkey</city>
+	<city>Rockford (IL), United States</city>
+	<city>Mbeya, Tanzania</city>
+	<city>Mahajanga, Madagascar</city>
+	<city>Nagareyama, Japan</city>
+	<city>Shunan, Japan</city>
+	<city>Kamoke, Pakistan</city>
+	<city>Nawabganj, Bangladesh</city>
+	<city>Quetzaltenango, Guatemala</city>
+	<city>Chicoutimi-Jonquiere, Canada</city>
+	<city>Burewala, Pakistan</city>
+	<city>Enakievo (Yenakievo), Ukraine</city>
+	<city>Nong Bua Lam Phu, Thailand</city>
+	<city>Sitapur, India</city>
+	<city>Fatehpur, India</city>
+	<city>Springfield (MA), United States</city>
+	<city>Chaiyaphum, Thailand</city>
+	<city>Makurdi, Nigeria</city>
+	<city>Bhalswa Jahangir Pur, India</city>
+	<city>Angers, France</city>
+	<city>Kovrov, Russia</city>
+	<city>Noda, Japan</city>
+	<city>Ogaki, Japan</city>
+	<city>Teresopolis, Brazil</city>
+	<city>Morena, India</city>
+	<city>Serilingampalle, India</city>
+	<city>Nilopolis, Brazil</city>
+	<city>Bawshar, Oman</city>
+	<city>Bushehr, Iran</city>
+	<city>Pembroke Pines (FL), United States</city>
+	<city>Nangloi Jat, India</city>
+	<city>Camaragibe, Brazil</city>
+	<city>Springfield (MO), United States</city>
+	<city>Uttarpara Kotrung, India</city>
+	<city>Dijon, France</city>
+	<city>Quelimane, Mozambique</city>
+	<city>Ravenna, Italy</city>
+	<city>Sebha, Libya</city>
+	<city>Paterson (NJ), United States</city>
+	<city>Tenali, India</city>
+	<city>Burnley/Nelson, United Kingdom</city>
+	<city>Borisov, Belarus</city>
+	<city>Kabankalan, Philippines</city>
+	<city>Neuss, Germany</city>
+	<city>Margilan, Uzbekistan</city>
+	<city>Phetchaburi, Thailand</city>
+	<city>Hatay, Turkey</city>
+	<city>Yonago, Japan</city>
+	<city>Las Tunas, Cuba</city>
+	<city>Brest, France</city>
+	<city>Corona (CA), United States</city>
+	<city>Potosi, Bolivia</city>
+	<city>Siverek, Turkey</city>
+	<city>Tacheng, China</city>
+	<city>Townsville, Australia</city>
+	<city>Jequie, Brazil</city>
+	<city>Balti, Moldova</city>
+	<city>PORT LOUIS, Mauritius</city>
+	<city>Tiaert, Algeria</city>
+	<city>Salem (OR), United States</city>
+	<city>Krishnanagar, India</city>
+	<city>Iruma, Japan</city>
+	<city>Karawal Nagar, India</city>
+	<city>Salzburg, Austria</city>
+	<city>Saqez, Iran</city>
+	<city>Hoshiarpur, India</city>
+	<city>Budaun, India</city>
+	<city>Leninakan(Gyumzi), Armenia</city>
+	<city>Kolomna, Russia</city>
+	<city>Saint Louis, Senegal</city>
+	<city>Paranagua, Brazil</city>
+	<city>Gimcheon, South Korea</city>
+	<city>Dumfries and Galloway, United Kingdom</city>
+	<city>Batala, India</city>
+	<city>Formosa, Argentina</city>
+	<city>Chanthaburi, Thailand</city>
+	<city>Moriguchi, Japan</city>
+	<city>Phetchabun, Thailand</city>
+	<city>Jhelum, Pakistan</city>
+	<city>Calbayog, Philippines</city>
+	<city>Komaki, Japan</city>
+	<city>Umuahia, Nigeria</city>
+	<city>Logroño, Spain</city>
+	<city>Shivapuri, India</city>
+	<city>Prachuap Khiri Khan, Thailand</city>
+	<city>Pesterion, Greece</city>
+	<city>Cartago, Costa Rica</city>
+	<city>Bene Beraq, Israel</city>
+	<city>Tirgu-Mures, Romania</city>
+	<city>Salinas (CA), United States</city>
+	<city>Izumo, Japan</city>
+	<city>Florencia (Caqueta), Colombia</city>
+	<city>Bayamo, Cuba</city>
+	<city>Subotica, Serbia</city>
+	<city>Alandur, India</city>
+	<city>Lauro de Freitas, Brazil</city>
+	<city>Timon, Brazil</city>
+	<city>Elektrostal, Russia</city>
+	<city>Ondo, Nigeria</city>
+	<city>Le Mans, France</city>
+	<city>Ruda Slaska, Poland</city>
+	<city>Tama, Japan</city>
+	<city>Salamanca, Mexico</city>
+	<city>Zenica, Bosnia and Herzegovina</city>
+	<city>Gorontalo, Indonesia</city>
+	<city>Jinggangshan, China</city>
+	<city>Huelva, Spain</city>
+	<city>Usak, Turkey</city>
+	<city>Belovo, Russia</city>
+	<city>Dundee, United Kingdom</city>
+	<city>Valsad, India</city>
+	<city>Hollywood (FL), United States</city>
+	<city>Hampton (VA), United States</city>
+	<city>Tanjung Balai, Indonesia</city>
+	<city>Copiapo, Chile</city>
+	<city>St. Gallen, Switzerland</city>
+	<city>Koga, Japan</city>
+	<city>Ar'ar, Saudi Arabia</city>
+	<city>Falkirk, United Kingdom</city>
+	<city>Ranaghat, India</city>
+	<city>Vungtau, Viet Nam</city>
+	<city>Quilpue, Chile</city>
+	<city>Ilopango, El Salvador</city>
+	<city>Higashimurayama, Japan</city>
+	<city>Unnao, India</city>
+	<city>Calama, Chile</city>
+	<city>Viransehir, Turkey</city>
+	<city>Parakou, Benin</city>
+	<city>Shimla, India</city>
+	<city>Eugene (OR), United States</city>
+	<city>Bejaia, Algeria</city>
+	<city>Sadiqabad, Pakistan</city>
+	<city>Caxias, Brazil</city>
+	<city>Grand Prairie (TX), United States</city>
+	<city>Barrackpur, India</city>
+	<city>Kansas City (KS), United States</city>
+	<city>Kakamigahara, Japan</city>
+	<city>Angra dos Reis, Brazil</city>
+	<city>Rijeka, Croatia</city>
+	<city>Isahaya, Japan</city>
+	<city>Luanshya, Zambia</city>
+	<city>Pallavaram, India</city>
+	<city>Pasadena (TX), United States</city>
+	<city>Badajoz, Spain</city>
+	<city>Pindamonhangaba, Brazil</city>
+	<city>Pasadena (CA), United States</city>
+	<city>Rajnandgaon, India</city>
+	<city>Jecheon (Chechon), South Korea</city>
+	<city>Arnhem, Netherlands</city>
+	<city>Parnaiba, Brazil</city>
+	<city>Braganca Paulista, Brazil</city>
+	<city>Seosan, South Korea</city>
+	<city>Itapetininga, Brazil</city>
+	<city>Balurghat, India</city>
+	<city>Oxford, United Kingdom</city>
+	<city>Caguas, Puerto Rico</city>
+	<city>Huanuco, Peru</city>
+	<city>Trois-Rivieres, Canada</city>
+	<city>Pagadian, Philippines</city>
+	<city>Khoramshahr, Iran</city>
+	<city>Cienfuegos, Cuba</city>
+	<city>Tsuruoka, Japan</city>
+	<city>Torrance (CA), United States</city>
+	<city>Ede, Nigeria</city>
+	<city>Ome, Japan</city>
+	<city>Osorno, Chile</city>
+	<city>Otaru, Japan</city>
+	<city>San Cristobal de La Laguna, Spain</city>
+	<city>Kariya, Japan</city>
+	<city>Bheemavaram, India</city>
+	<city>Yavatmal, India</city>
+	<city>Cadiz, Philippines</city>
+	<city>Ilam, Iran</city>
+	<city>Damaturu, Nigeria</city>
+	<city>Al-Fasher, Sudan</city>
+	<city>Slough, United Kingdom</city>
+	<city>Almetievsk, Russia</city>
+	<city>Chirchik, Uzbekistan</city>
+	<city>Jimeta, Nigeria</city>
+	<city>Bago, Philippines</city>
+	<city>Syracuse (NY), United States</city>
+	<city>Ipswich, United Kingdom</city>
+	<city>Dessie, Ethiopia</city>
+	<city>Naperville (IL), United States</city>
+	<city>Moji-Guacu, Brazil</city>
+	<city>Stara Zagora, Bulgaria</city>
+	<city>Aksaray, Turkey</city>
 </cities>
