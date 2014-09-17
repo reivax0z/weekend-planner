@@ -48,18 +48,25 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
 
 	<title>Weekend Planner - Top 10 Places</title>
 
-
-	<link href='http://fonts.googleapis.com/css?family=UnifrakturMaguntia' rel='stylesheet' type='text/css'>
-
+	<!-- CSS -->
+	<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css"/>
     <link href="./bootstrap-3.2.0/dist/css/bootstrap.css" rel="stylesheet">
     <link href="./bootstrap-3.2.0/dist/css/bootstrap.min.css" rel="stylesheet">
     
+    <!-- JQUERY -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<!--     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script> -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.js"></script>
+    
+    <!-- BOOTSTRAP -->
     <script type="text/javascript" src="./bootstrap-3.2.0/dist/js/bootstrap.js"></script>    
     
+    <!-- MY JS FILES -->
     <script type="text/javascript" src="./bootstrap-3.2.0/js/googlemapshelper.js"></script>
     <script type="text/javascript" src="./bootstrap-3.2.0/js/formchecker.js"></script>
+    <script type="text/javascript" src="./bootstrap-3.2.0/js/autocomplete.js"></script>
     
+    <!-- GOOGLE MAPS -->
     <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
 
 	<script type="text/javascript">
@@ -124,7 +131,7 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
             <%} else{%>
             <h1 style="color:white">Where are we going this weekend?</h1>
             <%} %>
-            <form role="form" action="PlacesListAction" name="places_form" method="post" onsubmit="return(validateForm());" class="shadow padding20 margin20">
+            <form role="form" action="PlacesListAction" id="places_form" name="places_form" method="post" onsubmit="return(validateForm());" class="shadow padding20 margin20">
 			  <div class="input-group">
 			  	<span class="input-group-addon">Input a city name:</span>
 			    <input type="text" name="city_name" class="form-control" id="city_name" placeholder="i.e., Melbourne" value="">

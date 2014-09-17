@@ -23,9 +23,14 @@ var prevBouncingIndex = 0;
 function initializeMapPlaces(positions, places, zoomVal, tabIndex) {
 	var sumLat = 0;
 	var sumLong = 0;
+	
+	// Create a new LatLngBounds object
+	var markerBounds = new google.maps.LatLngBounds();
+
 	for (var i = 0; i < positions.length; i++) {
 		sumLat+=positions[i].lat();
 		sumLong+=positions[i].lng();
+		markerBounds.extend(positions[i]);
 	}
 	sumLat/=positions.length;
 	sumLong/=positions.length;
@@ -39,6 +44,8 @@ function initializeMapPlaces(positions, places, zoomVal, tabIndex) {
 	};
 
 	map = new google.maps.Map(document.getElementById('map_places'), myOptions);
+	
+	map.fitBounds(markerBounds);
 	
 	// delegate it with a parameter containing all the positions
 	for (var i = 0; i < positions.length; i++) {

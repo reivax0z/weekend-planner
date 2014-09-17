@@ -54,15 +54,15 @@ public class PlacesServlet extends HttpServlet {
 				// Call Google Places
 				List<Place> restos = GooglePlacesHelper.getAllPlacesFromGoogle(PlaceType.RESTAURANT, cityName);
 				Collections.sort(restos, new ComparatorPlaces());
-				restos = restos.subList(0, 10);
+				restos = restos.subList(0, Math.min(10, restos.size()));
 				
 				List<Place> attractions = GooglePlacesHelper.getAllPlacesFromGoogle(PlaceType.ATTRACTION, cityName);
 				Collections.sort(attractions, new ComparatorPlaces());
-				attractions = attractions.subList(0, 10);
+				attractions = attractions.subList(0, Math.min(10, attractions.size()));
 				
 				List<Place> pubs = GooglePlacesHelper.getAllPlacesFromGoogle(PlaceType.PUB, cityName);
 				Collections.sort(pubs, new ComparatorPlaces());
-				pubs = pubs.subList(0, 10);
+				pubs = pubs.subList(0, Math.min(10, pubs.size()));
 	
 				Map<PlaceType, List<Place>> placesByType = new HashMap<PlaceType, List<Place>>();
 				placesByType.put(PlaceType.RESTAURANT, restos);
