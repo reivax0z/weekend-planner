@@ -29,7 +29,7 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="xaviertraveltips.herokuapp.com" />
 	<meta property="og:description" content="Weekend Planner - A web app providing top 10 places for the preparation of weekend adventure (featuring a choice of restaurants, attractions and pubs)" />
-	<meta property="og:image" content="http://xavier.w.caron.free.fr/website/resources/img/melbourne-bbq/weekend-planner-app.png" />
+	<meta property="og:image" content="http://xavier.w.caron.free.fr/website/resources/img/weekend-planner/weekend-planner-app.png" />
 	<meta property="og:image:type" content="image/jpeg" />
 	<meta property="og:image:width" content="150" />
 	<meta property="og:image:height" content="150" />
@@ -38,12 +38,12 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
 	<meta name="twitter:title" content="Weekend Planner - Top 10 Places" />
 	<meta name="twitter:description" content="Weekend Planner - A web app providing top 10 places for the preparation of weekend adventure (featuring a choice of restaurants, attractions and pubs)" />
 	<meta name="twitter:creator" content="@Xavier_w_Caron" />
-	<meta name="twitter:image:src" content="http://xavier.w.caron.free.fr/website/resources/img/melbourne-bbq/weekend-planner-app.png" />
+	<meta name="twitter:image:src" content="http://xavier.w.caron.free.fr/website/resources/img/weekend-planner/weekend-planner-app.png" />
 	<meta name="twitter:image:width" content="150" />
 	<meta name="twitter:image:height" content="150" />
 	
 	
-    <link rel="shortcut icon" href="http://xavier.w.caron.free.fr/website/resources/img/melbourne-bbq/weekend-planner-app.ico">
+    <link rel="shortcut icon" href="http://xavier.w.caron.free.fr/website/resources/img/weekend-planner/weekend-planner-app.ico">
 
 
 	<title>Weekend Planner - Top 10 Places</title>
