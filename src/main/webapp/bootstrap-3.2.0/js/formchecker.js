@@ -1,7 +1,7 @@
 function validateForm()
 {
    var input = document.places_form.city_name.value;
-   if( input == "" )
+   if( input == "" || citiesList.indexOf(input) == -1 )
    {
      showError();
      return false;

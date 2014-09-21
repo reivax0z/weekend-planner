@@ -1,5 +1,4 @@
 $(document).ready(function() {
- var citiesList = [];
  
  $.ajax({
    type: "GET",

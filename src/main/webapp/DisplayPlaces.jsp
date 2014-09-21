@@ -68,6 +68,8 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
     <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
 
 	<script type="text/javascript">
+		var citiesList = [];
+	
 		// Global variable for Google Maps API
 		var restoPos = new Array();
 		var restoArray = new Array();
@@ -163,8 +165,7 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
     		<%} else{%>
     		
     		<div id="error_form" class="alert alert-warning" role="alert" style="display:none">
-    		<p><strong>Oh snap!</strong>  Invalid form format, change it a bit and try submitting again.</p>
-      			<p>Make sure you are not using non UTF-8 characters (e.g.: &ccedil;, &eacute;, &agrave;, &icirc;...)</p>
+    		<p><strong>Oh snap!</strong> City not present in our database, sorry...</p>
     		</div>
     		<%} %>
         </div>
