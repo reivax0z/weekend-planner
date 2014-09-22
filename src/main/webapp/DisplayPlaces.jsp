@@ -136,7 +136,7 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
 
 	<div class="row">
         <div class="col-xs-12 col-sm-12">
-          <div class="jumbotron shadow background-grey" style="background-color:#E7E7E7; background: url('http://xavier.w.caron.free.fr/website/resources/img/weekend-planner/cover_top_10.JPG') no-repeat center center; background-size: cover;">
+          <div class="jumbotron shadow cover">
             <% if(city != null) {
             %>
             <h1 style="color:white"><%=city %> it is!</h1>
@@ -144,7 +144,7 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
             <%} else{%>
             <h1 style="color:white">Where are we going this weekend?</h1>
             <%} %>
-            <form role="form" action="PlacesListAction" id="places_form" name="places_form" method="post" onsubmit="return(validateForm());" class="shadow padding20 margin20">
+            <form role="form" action="PlacesListAction" id="places_form" name="places_form" method="post" onsubmit="return(validateForm());" class="background-grey padding20 margin20">
 			  <div class="input-group">
 			  	<span class="input-group-addon">Input a city name:</span>
 			    <input type="text" name="city_name" class="form-control" id="city_name" placeholder="i.e., Melbourne" value="">
@@ -285,7 +285,7 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
       <footer>
         <p>Data and rankings based on <i>Google Places</i>. Design adapted from <i>Bootstrap</i>.</p>
         <p>The provided input suggestions cover the 3,000 biggest cities in the world (data taken from <i>Mongabay</i>).</p>
-        <p class="pull-right"><a href="#">Back to top</a></p>
+        <p class="pull-right"><a href="#"><span style="font-size:30px" class="glyphicon glyphicon-chevron-up"></span></a></p>
         <p>© <a href="http://www.linkedin.com/in/xavierwilfriddimitrycaron" target="_blank"><b>Xavier CARON</b></a>, 2014</p>
       </footer>
 

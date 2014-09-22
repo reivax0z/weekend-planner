@@ -6,11 +6,12 @@
 var map;
 var prevSelectPlace = 0;
 var prevTabIndex = 0;
+var selectedIcon = 'http://maps.google.com/mapfiles/ms/icons/yellow-dot.png';
 
 var tabs = ['resto_', 'attraction_', 'pub_'];
 var icons = ['http://maps.google.com/mapfiles/ms/icons/red-dot.png',
              'http://maps.google.com/mapfiles/ms/icons/green-dot.png',
-             'http://maps.google.com/mapfiles/ms/icons/yellow-dot.png'];
+             'http://maps.google.com/mapfiles/ms/icons/blue-dot.png'];
 
 var markers = new Array(3);
 for (var i = 0; i < markers.length; i++) {
@@ -94,13 +95,14 @@ function bounce(tabIndex, index) {
 	
 	prevMarker.setAnimation(null);
 	
-	// Is the marker already animating?
+	// Make it bounce!
 	if (marker.getAnimation()) {
 		marker.setAnimation(null);
-	} else {
-		// Make it bounce!
-		marker.setAnimation(google.maps.Animation.BOUNCE);
 	}
+	marker.setAnimation(google.maps.Animation.BOUNCE);
+		
+	prevMarker.setIcon(icons[prevBouncingTabIndex]);
+	marker.setIcon(selectedIcon);
 	
 	selectOnePlace(tabIndex, index);
 	
