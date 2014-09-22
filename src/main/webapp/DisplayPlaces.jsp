@@ -119,6 +119,19 @@ List<Place> pubPlaces = placesByType!=null?placesByType.get(PlaceType.PUB):null;
 </head>
 <body onload="initializeMapPlaces(restoPos, restoArray, 13, 0)">
 
+	<nav class="navbar navbar-default navbar-static-top" role="navigation">
+		<div class="container">
+	      <div class="container-fluid">
+	        <div class="navbar-header">
+	          <a class="navbar-brand" href="#"><span class="glyphicon glyphicon-plane"></span> Weekend Planner</a>
+	        </div>
+	        <div class="collapse navbar-collapse">
+	          <p class="navbar-text navbar-right">Top 10 places - Featuring restaurants, attractions and pubs!</p>
+	        </div>
+	      </div>
+    	</div>
+    </nav>
+
 	<div class="container">
 
 	<div class="row">
